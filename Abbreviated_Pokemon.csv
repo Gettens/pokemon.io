@@ -1,0 +1,6163 @@
+﻿Pokemon,Type,Stat,Score
+Venusaur,Grass,hp,80
+Venusaur,Grass,attack,82
+Venusaur,Grass,defense,83
+Venusaur,Grass,sp_attack,100
+Venusaur,Grass,sp_defense,100
+Venusaur,Grass,speed,80
+Ivysaur,Grass,hp,60
+Ivysaur,Grass,attack,62
+Ivysaur,Grass,defense,63
+Ivysaur,Grass,sp_attack,80
+Ivysaur,Grass,sp_defense,80
+Ivysaur,Grass,speed,60
+Bulbasaur,Grass,hp,45
+Bulbasaur,Grass,attack,49
+Bulbasaur,Grass,defense,49
+Bulbasaur,Grass,sp_attack,65
+Bulbasaur,Grass,sp_defense,65
+Bulbasaur,Grass,speed,45
+Eternatus,Poison,hp,140
+Eternatus,Poison,attack,85
+Eternatus,Poison,defense,95
+Eternatus,Poison,sp_attack,145
+Eternatus,Poison,sp_defense,95
+Eternatus,Poison,speed,130
+Zamazenta Hero of Many Battles,Fighting,hp,92
+Zamazenta Hero of Many Battles,Fighting,attack,130
+Zamazenta Hero of Many Battles,Fighting,defense,115
+Zamazenta Hero of Many Battles,Fighting,sp_attack,80
+Zamazenta Hero of Many Battles,Fighting,sp_defense,115
+Zamazenta Hero of Many Battles,Fighting,speed,138
+Zamazenta Crowned Shield,Fighting,hp,92
+Zamazenta Crowned Shield,Fighting,attack,130
+Zamazenta Crowned Shield,Fighting,defense,145
+Zamazenta Crowned Shield,Fighting,sp_attack,80
+Zamazenta Crowned Shield,Fighting,sp_defense,145
+Zamazenta Crowned Shield,Fighting,speed,128
+Zacian Hero of Many Battles,Fairy,hp,92
+Zacian Hero of Many Battles,Fairy,attack,130
+Zacian Hero of Many Battles,Fairy,defense,115
+Zacian Hero of Many Battles,Fairy,sp_attack,80
+Zacian Hero of Many Battles,Fairy,sp_defense,115
+Zacian Hero of Many Battles,Fairy,speed,138
+Zacian Crowned Sword,Fairy,hp,92
+Zacian Crowned Sword,Fairy,attack,170
+Zacian Crowned Sword,Fairy,defense,115
+Zacian Crowned Sword,Fairy,sp_attack,80
+Zacian Crowned Sword,Fairy,sp_defense,115
+Zacian Crowned Sword,Fairy,speed,148
+Dragapult,Dragon,hp,88
+Dragapult,Dragon,attack,120
+Dragapult,Dragon,defense,75
+Dragapult,Dragon,sp_attack,100
+Dragapult,Dragon,sp_defense,75
+Dragapult,Dragon,speed,142
+Drakloak,Dragon,hp,68
+Drakloak,Dragon,attack,80
+Drakloak,Dragon,defense,50
+Drakloak,Dragon,sp_attack,60
+Drakloak,Dragon,sp_defense,50
+Drakloak,Dragon,speed,102
+Dreepy,Dragon,hp,28
+Dreepy,Dragon,attack,60
+Dreepy,Dragon,defense,30
+Dreepy,Dragon,sp_attack,40
+Dreepy,Dragon,sp_defense,30
+Dreepy,Dragon,speed,82
+Duraludon,Steel,hp,70
+Duraludon,Steel,attack,95
+Duraludon,Steel,defense,115
+Duraludon,Steel,sp_attack,120
+Duraludon,Steel,sp_defense,50
+Duraludon,Steel,speed,85
+Arctovish,Water,hp,90
+Arctovish,Water,attack,90
+Arctovish,Water,defense,100
+Arctovish,Water,sp_attack,80
+Arctovish,Water,sp_defense,90
+Arctovish,Water,speed,55
+Dracovish,Water,hp,90
+Dracovish,Water,attack,90
+Dracovish,Water,defense,100
+Dracovish,Water,sp_attack,70
+Dracovish,Water,sp_defense,80
+Dracovish,Water,speed,75
+Arctozolt,Electric,hp,90
+Arctozolt,Electric,attack,100
+Arctozolt,Electric,defense,90
+Arctozolt,Electric,sp_attack,90
+Arctozolt,Electric,sp_defense,80
+Arctozolt,Electric,speed,55
+Dracozolt,Electric,hp,90
+Dracozolt,Electric,attack,100
+Dracozolt,Electric,defense,90
+Dracozolt,Electric,sp_attack,80
+Dracozolt,Electric,sp_defense,70
+Dracozolt,Electric,speed,75
+Copperajah,Steel,hp,122
+Copperajah,Steel,attack,130
+Copperajah,Steel,defense,69
+Copperajah,Steel,sp_attack,80
+Copperajah,Steel,sp_defense,69
+Copperajah,Steel,speed,30
+Cufant,Steel,hp,72
+Cufant,Steel,attack,80
+Cufant,Steel,defense,49
+Cufant,Steel,sp_attack,40
+Cufant,Steel,sp_defense,49
+Cufant,Steel,speed,40
+Morpeko Hangry Mode,Electric,hp,58
+Morpeko Hangry Mode,Electric,attack,95
+Morpeko Hangry Mode,Electric,defense,58
+Morpeko Hangry Mode,Electric,sp_attack,70
+Morpeko Hangry Mode,Electric,sp_defense,58
+Morpeko Hangry Mode,Electric,speed,97
+Morpeko Full Belly Mode,Electric,hp,58
+Morpeko Full Belly Mode,Electric,attack,95
+Morpeko Full Belly Mode,Electric,defense,58
+Morpeko Full Belly Mode,Electric,sp_attack,70
+Morpeko Full Belly Mode,Electric,sp_defense,58
+Morpeko Full Belly Mode,Electric,speed,97
+Indeedee Female,Psychic,hp,70
+Indeedee Female,Psychic,attack,55
+Indeedee Female,Psychic,defense,65
+Indeedee Female,Psychic,sp_attack,95
+Indeedee Female,Psychic,sp_defense,105
+Indeedee Female,Psychic,speed,85
+Indeedee Male,Psychic,hp,60
+Indeedee Male,Psychic,attack,65
+Indeedee Male,Psychic,defense,55
+Indeedee Male,Psychic,sp_attack,105
+Indeedee Male,Psychic,sp_defense,95
+Indeedee Male,Psychic,speed,95
+Eiscue Noice Face,Ice,hp,75
+Eiscue Noice Face,Ice,attack,80
+Eiscue Noice Face,Ice,defense,70
+Eiscue Noice Face,Ice,sp_attack,65
+Eiscue Noice Face,Ice,sp_defense,50
+Eiscue Noice Face,Ice,speed,130
+Eiscue Ice Face,Ice,hp,75
+Eiscue Ice Face,Ice,attack,80
+Eiscue Ice Face,Ice,defense,110
+Eiscue Ice Face,Ice,sp_attack,65
+Eiscue Ice Face,Ice,sp_defense,90
+Eiscue Ice Face,Ice,speed,50
+Stonjourner,Rock,hp,100
+Stonjourner,Rock,attack,125
+Stonjourner,Rock,defense,135
+Stonjourner,Rock,sp_attack,20
+Stonjourner,Rock,sp_defense,20
+Stonjourner,Rock,speed,70
+Frosmoth,Ice,hp,70
+Frosmoth,Ice,attack,65
+Frosmoth,Ice,defense,60
+Frosmoth,Ice,sp_attack,125
+Frosmoth,Ice,sp_defense,90
+Frosmoth,Ice,speed,65
+Snom,Ice,hp,30
+Snom,Ice,attack,25
+Snom,Ice,defense,35
+Snom,Ice,sp_attack,45
+Snom,Ice,sp_defense,30
+Snom,Ice,speed,20
+Pincurchin,Electric,hp,48
+Pincurchin,Electric,attack,101
+Pincurchin,Electric,defense,95
+Pincurchin,Electric,sp_attack,91
+Pincurchin,Electric,sp_defense,85
+Pincurchin,Electric,speed,15
+Falinks,Fighting,hp,65
+Falinks,Fighting,attack,100
+Falinks,Fighting,defense,100
+Falinks,Fighting,sp_attack,70
+Falinks,Fighting,sp_defense,60
+Falinks,Fighting,speed,75
+Alcremie,Fairy,hp,65
+Alcremie,Fairy,attack,60
+Alcremie,Fairy,defense,75
+Alcremie,Fairy,sp_attack,110
+Alcremie,Fairy,sp_defense,121
+Alcremie,Fairy,speed,64
+Milcery,Fairy,hp,45
+Milcery,Fairy,attack,40
+Milcery,Fairy,defense,40
+Milcery,Fairy,sp_attack,50
+Milcery,Fairy,sp_defense,61
+Milcery,Fairy,speed,34
+Runerigus,Ground,hp,58
+Runerigus,Ground,attack,95
+Runerigus,Ground,defense,145
+Runerigus,Ground,sp_attack,50
+Runerigus,Ground,sp_defense,105
+Runerigus,Ground,speed,30
+Mr. Rime,Psychic,hp,80
+Mr. Rime,Psychic,attack,85
+Mr. Rime,Psychic,defense,75
+Mr. Rime,Psychic,sp_attack,110
+Mr. Rime,Psychic,sp_defense,100
+Mr. Rime,Psychic,speed,70
+Sirfetch'd,Fighting,hp,62
+Sirfetch'd,Fighting,attack,135
+Sirfetch'd,Fighting,defense,95
+Sirfetch'd,Fighting,sp_attack,68
+Sirfetch'd,Fighting,sp_defense,82
+Sirfetch'd,Fighting,speed,65
+Cursola,Ghost,hp,60
+Cursola,Ghost,attack,95
+Cursola,Ghost,defense,50
+Cursola,Ghost,sp_attack,145
+Cursola,Ghost,sp_defense,130
+Cursola,Ghost,speed,30
+Perrserker,Steel,hp,70
+Perrserker,Steel,attack,110
+Perrserker,Steel,defense,100
+Perrserker,Steel,sp_attack,50
+Perrserker,Steel,sp_defense,60
+Perrserker,Steel,speed,50
+Obstagoon,Dark,hp,93
+Obstagoon,Dark,attack,90
+Obstagoon,Dark,defense,101
+Obstagoon,Dark,sp_attack,60
+Obstagoon,Dark,sp_defense,81
+Obstagoon,Dark,speed,95
+Grimmsnarl,Dark,hp,95
+Grimmsnarl,Dark,attack,120
+Grimmsnarl,Dark,defense,65
+Grimmsnarl,Dark,sp_attack,95
+Grimmsnarl,Dark,sp_defense,75
+Grimmsnarl,Dark,speed,60
+Morgrem,Dark,hp,65
+Morgrem,Dark,attack,60
+Morgrem,Dark,defense,45
+Morgrem,Dark,sp_attack,75
+Morgrem,Dark,sp_defense,55
+Morgrem,Dark,speed,70
+Impidimp,Dark,hp,45
+Impidimp,Dark,attack,45
+Impidimp,Dark,defense,30
+Impidimp,Dark,sp_attack,55
+Impidimp,Dark,sp_defense,40
+Impidimp,Dark,speed,50
+Hatterene,Psychic,hp,57
+Hatterene,Psychic,attack,90
+Hatterene,Psychic,defense,95
+Hatterene,Psychic,sp_attack,136
+Hatterene,Psychic,sp_defense,103
+Hatterene,Psychic,speed,29
+Hattrem,Psychic,hp,57
+Hattrem,Psychic,attack,40
+Hattrem,Psychic,defense,65
+Hattrem,Psychic,sp_attack,86
+Hattrem,Psychic,sp_defense,73
+Hattrem,Psychic,speed,49
+Hatenna,Psychic,hp,42
+Hatenna,Psychic,attack,30
+Hatenna,Psychic,defense,45
+Hatenna,Psychic,sp_attack,56
+Hatenna,Psychic,sp_defense,53
+Hatenna,Psychic,speed,39
+Polteageist,Ghost,hp,60
+Polteageist,Ghost,attack,65
+Polteageist,Ghost,defense,65
+Polteageist,Ghost,sp_attack,134
+Polteageist,Ghost,sp_defense,114
+Polteageist,Ghost,speed,70
+Sinistea,Ghost,hp,40
+Sinistea,Ghost,attack,45
+Sinistea,Ghost,defense,45
+Sinistea,Ghost,sp_attack,74
+Sinistea,Ghost,sp_defense,54
+Sinistea,Ghost,speed,50
+Grapploct,Fighting,hp,80
+Grapploct,Fighting,attack,118
+Grapploct,Fighting,defense,90
+Grapploct,Fighting,sp_attack,70
+Grapploct,Fighting,sp_defense,80
+Grapploct,Fighting,speed,42
+Clobbopus,Fighting,hp,50
+Clobbopus,Fighting,attack,68
+Clobbopus,Fighting,defense,60
+Clobbopus,Fighting,sp_attack,50
+Clobbopus,Fighting,sp_defense,50
+Clobbopus,Fighting,speed,32
+Centiskorch,Fire,hp,100
+Centiskorch,Fire,attack,115
+Centiskorch,Fire,defense,65
+Centiskorch,Fire,sp_attack,90
+Centiskorch,Fire,sp_defense,90
+Centiskorch,Fire,speed,65
+Sizzlipede,Fire,hp,50
+Sizzlipede,Fire,attack,65
+Sizzlipede,Fire,defense,45
+Sizzlipede,Fire,sp_attack,50
+Sizzlipede,Fire,sp_defense,50
+Sizzlipede,Fire,speed,45
+Toxtricity Amped Form,Electric,hp,75
+Toxtricity Amped Form,Electric,attack,98
+Toxtricity Amped Form,Electric,defense,70
+Toxtricity Amped Form,Electric,sp_attack,114
+Toxtricity Amped Form,Electric,sp_defense,70
+Toxtricity Amped Form,Electric,speed,75
+Toxtricity Low Key Form,Electric,hp,75
+Toxtricity Low Key Form,Electric,attack,98
+Toxtricity Low Key Form,Electric,defense,70
+Toxtricity Low Key Form,Electric,sp_attack,114
+Toxtricity Low Key Form,Electric,sp_defense,70
+Toxtricity Low Key Form,Electric,speed,75
+Toxel,Electric,hp,40
+Toxel,Electric,attack,38
+Toxel,Electric,defense,35
+Toxel,Electric,sp_attack,54
+Toxel,Electric,sp_defense,35
+Toxel,Electric,speed,40
+Barraskewda,Water,hp,61
+Barraskewda,Water,attack,123
+Barraskewda,Water,defense,60
+Barraskewda,Water,sp_attack,60
+Barraskewda,Water,sp_defense,50
+Barraskewda,Water,speed,136
+Arrokuda,Water,hp,41
+Arrokuda,Water,attack,63
+Arrokuda,Water,defense,40
+Arrokuda,Water,sp_attack,40
+Arrokuda,Water,sp_defense,30
+Arrokuda,Water,speed,66
+Cramorant,Flying,hp,70
+Cramorant,Flying,attack,85
+Cramorant,Flying,defense,55
+Cramorant,Flying,sp_attack,85
+Cramorant,Flying,sp_defense,95
+Cramorant,Flying,speed,85
+Sandaconda,Ground,hp,72
+Sandaconda,Ground,attack,107
+Sandaconda,Ground,defense,125
+Sandaconda,Ground,sp_attack,65
+Sandaconda,Ground,sp_defense,70
+Sandaconda,Ground,speed,71
+Silicobra,Ground,hp,52
+Silicobra,Ground,attack,57
+Silicobra,Ground,defense,75
+Silicobra,Ground,sp_attack,35
+Silicobra,Ground,sp_defense,50
+Silicobra,Ground,speed,46
+Appletun,Grass,hp,110
+Appletun,Grass,attack,85
+Appletun,Grass,defense,80
+Appletun,Grass,sp_attack,100
+Appletun,Grass,sp_defense,80
+Appletun,Grass,speed,30
+Flapple,Grass,hp,70
+Flapple,Grass,attack,110
+Flapple,Grass,defense,80
+Flapple,Grass,sp_attack,95
+Flapple,Grass,sp_defense,60
+Flapple,Grass,speed,70
+Applin,Grass,hp,40
+Applin,Grass,attack,40
+Applin,Grass,defense,80
+Applin,Grass,sp_attack,40
+Applin,Grass,sp_defense,40
+Applin,Grass,speed,20
+Coalossal,Rock,hp,110
+Coalossal,Rock,attack,80
+Coalossal,Rock,defense,120
+Coalossal,Rock,sp_attack,80
+Coalossal,Rock,sp_defense,90
+Coalossal,Rock,speed,30
+Carkol,Rock,hp,80
+Carkol,Rock,attack,60
+Carkol,Rock,defense,90
+Carkol,Rock,sp_attack,60
+Carkol,Rock,sp_defense,70
+Carkol,Rock,speed,50
+Rolycoly,Rock,hp,30
+Rolycoly,Rock,attack,40
+Rolycoly,Rock,defense,50
+Rolycoly,Rock,sp_attack,40
+Rolycoly,Rock,sp_defense,50
+Rolycoly,Rock,speed,30
+Boltund,Electric,hp,69
+Boltund,Electric,attack,90
+Boltund,Electric,defense,60
+Boltund,Electric,sp_attack,90
+Boltund,Electric,sp_defense,60
+Boltund,Electric,speed,121
+Yamper,Electric,hp,59
+Yamper,Electric,attack,45
+Yamper,Electric,defense,50
+Yamper,Electric,sp_attack,40
+Yamper,Electric,sp_defense,50
+Yamper,Electric,speed,26
+Drednaw,Water,hp,90
+Drednaw,Water,attack,115
+Drednaw,Water,defense,90
+Drednaw,Water,sp_attack,48
+Drednaw,Water,sp_defense,68
+Drednaw,Water,speed,74
+Chewtle,Water,hp,50
+Chewtle,Water,attack,64
+Chewtle,Water,defense,50
+Chewtle,Water,sp_attack,38
+Chewtle,Water,sp_defense,38
+Chewtle,Water,speed,44
+Dubwool,Normal,hp,72
+Dubwool,Normal,attack,80
+Dubwool,Normal,defense,100
+Dubwool,Normal,sp_attack,60
+Dubwool,Normal,sp_defense,90
+Dubwool,Normal,speed,88
+Wooloo,Normal,hp,42
+Wooloo,Normal,attack,40
+Wooloo,Normal,defense,55
+Wooloo,Normal,sp_attack,40
+Wooloo,Normal,sp_defense,45
+Wooloo,Normal,speed,48
+Eldegoss,Grass,hp,60
+Eldegoss,Grass,attack,50
+Eldegoss,Grass,defense,90
+Eldegoss,Grass,sp_attack,80
+Eldegoss,Grass,sp_defense,120
+Eldegoss,Grass,speed,60
+Gossifleur,Grass,hp,40
+Gossifleur,Grass,attack,40
+Gossifleur,Grass,defense,60
+Gossifleur,Grass,sp_attack,40
+Gossifleur,Grass,sp_defense,60
+Gossifleur,Grass,speed,10
+Thievul,Dark,hp,70
+Thievul,Dark,attack,58
+Thievul,Dark,defense,58
+Thievul,Dark,sp_attack,87
+Thievul,Dark,sp_defense,92
+Thievul,Dark,speed,90
+Nickit,Dark,hp,40
+Nickit,Dark,attack,28
+Nickit,Dark,defense,28
+Nickit,Dark,sp_attack,47
+Nickit,Dark,sp_defense,52
+Nickit,Dark,speed,50
+Orbeetle,Bug,hp,60
+Orbeetle,Bug,attack,45
+Orbeetle,Bug,defense,110
+Orbeetle,Bug,sp_attack,80
+Orbeetle,Bug,sp_defense,120
+Orbeetle,Bug,speed,90
+Dottler,Bug,hp,50
+Dottler,Bug,attack,35
+Dottler,Bug,defense,80
+Dottler,Bug,sp_attack,50
+Dottler,Bug,sp_defense,90
+Dottler,Bug,speed,30
+Blipbug,Bug,hp,25
+Blipbug,Bug,attack,20
+Blipbug,Bug,defense,20
+Blipbug,Bug,sp_attack,25
+Blipbug,Bug,sp_defense,45
+Blipbug,Bug,speed,45
+Corviknight,Flying,hp,98
+Corviknight,Flying,attack,87
+Corviknight,Flying,defense,105
+Corviknight,Flying,sp_attack,53
+Corviknight,Flying,sp_defense,85
+Corviknight,Flying,speed,67
+Corvisquire,Flying,hp,68
+Corvisquire,Flying,attack,67
+Corvisquire,Flying,defense,55
+Corvisquire,Flying,sp_attack,43
+Corvisquire,Flying,sp_defense,55
+Corvisquire,Flying,speed,77
+Rookidee,Flying,hp,38
+Rookidee,Flying,attack,47
+Rookidee,Flying,defense,35
+Rookidee,Flying,sp_attack,33
+Rookidee,Flying,sp_defense,35
+Rookidee,Flying,speed,57
+Greedent,Normal,hp,120
+Greedent,Normal,attack,95
+Greedent,Normal,defense,95
+Greedent,Normal,sp_attack,55
+Greedent,Normal,sp_defense,75
+Greedent,Normal,speed,20
+Skwovet,Normal,hp,70
+Skwovet,Normal,attack,55
+Skwovet,Normal,defense,55
+Skwovet,Normal,sp_attack,35
+Skwovet,Normal,sp_defense,35
+Skwovet,Normal,speed,25
+Inteleon,Water,hp,70
+Inteleon,Water,attack,85
+Inteleon,Water,defense,65
+Inteleon,Water,sp_attack,125
+Inteleon,Water,sp_defense,65
+Inteleon,Water,speed,120
+Drizzile,Water,hp,65
+Drizzile,Water,attack,60
+Drizzile,Water,defense,55
+Drizzile,Water,sp_attack,95
+Drizzile,Water,sp_defense,55
+Drizzile,Water,speed,90
+Sobble,Water,hp,50
+Sobble,Water,attack,40
+Sobble,Water,defense,40
+Sobble,Water,sp_attack,70
+Sobble,Water,sp_defense,40
+Sobble,Water,speed,70
+Cinderace,Fire,hp,80
+Cinderace,Fire,attack,116
+Cinderace,Fire,defense,75
+Cinderace,Fire,sp_attack,65
+Cinderace,Fire,sp_defense,75
+Cinderace,Fire,speed,119
+Raboot,Fire,hp,65
+Raboot,Fire,attack,86
+Raboot,Fire,defense,60
+Raboot,Fire,sp_attack,55
+Raboot,Fire,sp_defense,60
+Raboot,Fire,speed,94
+Scorbunny,Fire,hp,50
+Scorbunny,Fire,attack,71
+Scorbunny,Fire,defense,40
+Scorbunny,Fire,sp_attack,40
+Scorbunny,Fire,sp_defense,40
+Scorbunny,Fire,speed,69
+Rillaboom,Grass,hp,100
+Rillaboom,Grass,attack,125
+Rillaboom,Grass,defense,90
+Rillaboom,Grass,sp_attack,60
+Rillaboom,Grass,sp_defense,70
+Rillaboom,Grass,speed,85
+Thwackey,Grass,hp,70
+Thwackey,Grass,attack,85
+Thwackey,Grass,defense,70
+Thwackey,Grass,sp_attack,55
+Thwackey,Grass,sp_defense,60
+Thwackey,Grass,speed,80
+Grookey,Grass,hp,50
+Grookey,Grass,attack,65
+Grookey,Grass,defense,50
+Grookey,Grass,sp_attack,40
+Grookey,Grass,sp_defense,40
+Grookey,Grass,speed,65
+Melmetal,Steel,hp,135
+Melmetal,Steel,attack,143
+Melmetal,Steel,defense,143
+Melmetal,Steel,sp_attack,80
+Melmetal,Steel,sp_defense,65
+Melmetal,Steel,speed,34
+Meltan,Steel,hp,46
+Meltan,Steel,attack,65
+Meltan,Steel,defense,65
+Meltan,Steel,sp_attack,55
+Meltan,Steel,sp_defense,35
+Meltan,Steel,speed,34
+Zeraora,Electric,hp,88
+Zeraora,Electric,attack,112
+Zeraora,Electric,defense,75
+Zeraora,Electric,sp_attack,102
+Zeraora,Electric,sp_defense,80
+Zeraora,Electric,speed,143
+Blacephalon,Fire,hp,53
+Blacephalon,Fire,attack,127
+Blacephalon,Fire,defense,53
+Blacephalon,Fire,sp_attack,151
+Blacephalon,Fire,sp_defense,79
+Blacephalon,Fire,speed,107
+Stakataka,Rock,hp,61
+Stakataka,Rock,attack,131
+Stakataka,Rock,defense,211
+Stakataka,Rock,sp_attack,53
+Stakataka,Rock,sp_defense,101
+Stakataka,Rock,speed,13
+Naganadel,Poison,hp,73
+Naganadel,Poison,attack,73
+Naganadel,Poison,defense,73
+Naganadel,Poison,sp_attack,127
+Naganadel,Poison,sp_defense,73
+Naganadel,Poison,speed,121
+Poipole,Poison,hp,67
+Poipole,Poison,attack,73
+Poipole,Poison,defense,67
+Poipole,Poison,sp_attack,73
+Poipole,Poison,sp_defense,67
+Poipole,Poison,speed,73
+Marshadow,Fighting,hp,90
+Marshadow,Fighting,attack,125
+Marshadow,Fighting,defense,80
+Marshadow,Fighting,sp_attack,90
+Marshadow,Fighting,sp_defense,90
+Marshadow,Fighting,speed,125
+Magearna,Steel,hp,80
+Magearna,Steel,attack,95
+Magearna,Steel,defense,115
+Magearna,Steel,sp_attack,130
+Magearna,Steel,sp_defense,115
+Magearna,Steel,speed,65
+Ultra Necrozma,Psychic,hp,97
+Ultra Necrozma,Psychic,attack,167
+Ultra Necrozma,Psychic,defense,97
+Ultra Necrozma,Psychic,sp_attack,167
+Ultra Necrozma,Psychic,sp_defense,97
+Ultra Necrozma,Psychic,speed,129
+Dawn Wings Necrozma,Psychic,hp,97
+Dawn Wings Necrozma,Psychic,attack,113
+Dawn Wings Necrozma,Psychic,defense,109
+Dawn Wings Necrozma,Psychic,sp_attack,157
+Dawn Wings Necrozma,Psychic,sp_defense,127
+Dawn Wings Necrozma,Psychic,speed,77
+Dusk Mane Necrozma,Psychic,hp,97
+Dusk Mane Necrozma,Psychic,attack,157
+Dusk Mane Necrozma,Psychic,defense,127
+Dusk Mane Necrozma,Psychic,sp_attack,113
+Dusk Mane Necrozma,Psychic,sp_defense,109
+Dusk Mane Necrozma,Psychic,speed,77
+Necrozma,Psychic,hp,97
+Necrozma,Psychic,attack,107
+Necrozma,Psychic,defense,101
+Necrozma,Psychic,sp_attack,127
+Necrozma,Psychic,sp_defense,89
+Necrozma,Psychic,speed,79
+Guzzlord,Dark,hp,223
+Guzzlord,Dark,attack,101
+Guzzlord,Dark,defense,53
+Guzzlord,Dark,sp_attack,97
+Guzzlord,Dark,sp_defense,53
+Guzzlord,Dark,speed,43
+Kartana,Grass,hp,59
+Kartana,Grass,attack,181
+Kartana,Grass,defense,131
+Kartana,Grass,sp_attack,59
+Kartana,Grass,sp_defense,31
+Kartana,Grass,speed,109
+Celesteela,Steel,hp,97
+Celesteela,Steel,attack,101
+Celesteela,Steel,defense,103
+Celesteela,Steel,sp_attack,107
+Celesteela,Steel,sp_defense,101
+Celesteela,Steel,speed,61
+Xurkitree,Electric,hp,83
+Xurkitree,Electric,attack,89
+Xurkitree,Electric,defense,71
+Xurkitree,Electric,sp_attack,173
+Xurkitree,Electric,sp_defense,71
+Xurkitree,Electric,speed,83
+Pheromosa,Bug,hp,71
+Pheromosa,Bug,attack,137
+Pheromosa,Bug,defense,37
+Pheromosa,Bug,sp_attack,137
+Pheromosa,Bug,sp_defense,37
+Pheromosa,Bug,speed,151
+Buzzwole,Bug,hp,107
+Buzzwole,Bug,attack,139
+Buzzwole,Bug,defense,139
+Buzzwole,Bug,sp_attack,53
+Buzzwole,Bug,sp_defense,53
+Buzzwole,Bug,speed,79
+Nihilego,Rock,hp,109
+Nihilego,Rock,attack,53
+Nihilego,Rock,defense,47
+Nihilego,Rock,sp_attack,127
+Nihilego,Rock,sp_defense,131
+Nihilego,Rock,speed,103
+Lunala,Psychic,hp,137
+Lunala,Psychic,attack,113
+Lunala,Psychic,defense,89
+Lunala,Psychic,sp_attack,137
+Lunala,Psychic,sp_defense,107
+Lunala,Psychic,speed,97
+Solgaleo,Psychic,hp,137
+Solgaleo,Psychic,attack,137
+Solgaleo,Psychic,defense,107
+Solgaleo,Psychic,sp_attack,113
+Solgaleo,Psychic,sp_defense,89
+Solgaleo,Psychic,speed,97
+Cosmoem,Psychic,hp,43
+Cosmoem,Psychic,attack,29
+Cosmoem,Psychic,defense,131
+Cosmoem,Psychic,sp_attack,29
+Cosmoem,Psychic,sp_defense,131
+Cosmoem,Psychic,speed,37
+Cosmog,Psychic,hp,43
+Cosmog,Psychic,attack,29
+Cosmog,Psychic,defense,31
+Cosmog,Psychic,sp_attack,29
+Cosmog,Psychic,sp_defense,31
+Cosmog,Psychic,speed,37
+Tapu Fini,Water,hp,70
+Tapu Fini,Water,attack,75
+Tapu Fini,Water,defense,115
+Tapu Fini,Water,sp_attack,95
+Tapu Fini,Water,sp_defense,130
+Tapu Fini,Water,speed,85
+Tapu Bulu,Grass,hp,70
+Tapu Bulu,Grass,attack,130
+Tapu Bulu,Grass,defense,115
+Tapu Bulu,Grass,sp_attack,85
+Tapu Bulu,Grass,sp_defense,95
+Tapu Bulu,Grass,speed,75
+Tapu Lele,Psychic,hp,70
+Tapu Lele,Psychic,attack,85
+Tapu Lele,Psychic,defense,75
+Tapu Lele,Psychic,sp_attack,130
+Tapu Lele,Psychic,sp_defense,115
+Tapu Lele,Psychic,speed,95
+Tapu Koko,Electric,hp,70
+Tapu Koko,Electric,attack,115
+Tapu Koko,Electric,defense,85
+Tapu Koko,Electric,sp_attack,95
+Tapu Koko,Electric,sp_defense,75
+Tapu Koko,Electric,speed,130
+Kommo-o,Dragon,hp,75
+Kommo-o,Dragon,attack,110
+Kommo-o,Dragon,defense,125
+Kommo-o,Dragon,sp_attack,100
+Kommo-o,Dragon,sp_defense,105
+Kommo-o,Dragon,speed,85
+Hakamo-o,Dragon,hp,55
+Hakamo-o,Dragon,attack,75
+Hakamo-o,Dragon,defense,90
+Hakamo-o,Dragon,sp_attack,65
+Hakamo-o,Dragon,sp_defense,70
+Hakamo-o,Dragon,speed,65
+Jangmo-o,Dragon,hp,45
+Jangmo-o,Dragon,attack,55
+Jangmo-o,Dragon,defense,65
+Jangmo-o,Dragon,sp_attack,45
+Jangmo-o,Dragon,sp_defense,45
+Jangmo-o,Dragon,speed,45
+Dhelmise,Ghost,hp,70
+Dhelmise,Ghost,attack,131
+Dhelmise,Ghost,defense,100
+Dhelmise,Ghost,sp_attack,86
+Dhelmise,Ghost,sp_defense,90
+Dhelmise,Ghost,speed,40
+Drampa,Normal,hp,78
+Drampa,Normal,attack,60
+Drampa,Normal,defense,85
+Drampa,Normal,sp_attack,135
+Drampa,Normal,sp_defense,91
+Drampa,Normal,speed,36
+Bruxish,Water,hp,68
+Bruxish,Water,attack,105
+Bruxish,Water,defense,70
+Bruxish,Water,sp_attack,70
+Bruxish,Water,sp_defense,70
+Bruxish,Water,speed,92
+Mimikyu,Ghost,hp,55
+Mimikyu,Ghost,attack,90
+Mimikyu,Ghost,defense,80
+Mimikyu,Ghost,sp_attack,50
+Mimikyu,Ghost,sp_defense,105
+Mimikyu,Ghost,speed,96
+Togedemaru,Electric,hp,65
+Togedemaru,Electric,attack,98
+Togedemaru,Electric,defense,63
+Togedemaru,Electric,sp_attack,40
+Togedemaru,Electric,sp_defense,73
+Togedemaru,Electric,speed,96
+Turtonator,Fire,hp,60
+Turtonator,Fire,attack,78
+Turtonator,Fire,defense,135
+Turtonator,Fire,sp_attack,91
+Turtonator,Fire,sp_defense,85
+Turtonator,Fire,speed,36
+Komala,Normal,hp,65
+Komala,Normal,attack,115
+Komala,Normal,defense,65
+Komala,Normal,sp_attack,75
+Komala,Normal,sp_defense,95
+Komala,Normal,speed,65
+Minior Core Form,Rock,hp,60
+Minior Core Form,Rock,attack,100
+Minior Core Form,Rock,defense,60
+Minior Core Form,Rock,sp_attack,100
+Minior Core Form,Rock,sp_defense,60
+Minior Core Form,Rock,speed,120
+Minior Meteor Form,Rock,hp,60
+Minior Meteor Form,Rock,attack,60
+Minior Meteor Form,Rock,defense,100
+Minior Meteor Form,Rock,sp_attack,60
+Minior Meteor Form,Rock,sp_defense,100
+Minior Meteor Form,Rock,speed,60
+Silvally,Normal,hp,95
+Silvally,Normal,attack,95
+Silvally,Normal,defense,95
+Silvally,Normal,sp_attack,95
+Silvally,Normal,sp_defense,95
+Silvally,Normal,speed,95
+Type: Null,Normal,hp,95
+Type: Null,Normal,attack,95
+Type: Null,Normal,defense,95
+Type: Null,Normal,sp_attack,95
+Type: Null,Normal,sp_defense,95
+Type: Null,Normal,speed,59
+Pyukumuku,Water,hp,55
+Pyukumuku,Water,attack,60
+Pyukumuku,Water,defense,130
+Pyukumuku,Water,sp_attack,30
+Pyukumuku,Water,sp_defense,130
+Pyukumuku,Water,speed,5
+Palossand,Ghost,hp,85
+Palossand,Ghost,attack,75
+Palossand,Ghost,defense,110
+Palossand,Ghost,sp_attack,100
+Palossand,Ghost,sp_defense,75
+Palossand,Ghost,speed,35
+Sandygast,Ghost,hp,55
+Sandygast,Ghost,attack,55
+Sandygast,Ghost,defense,80
+Sandygast,Ghost,sp_attack,70
+Sandygast,Ghost,sp_defense,45
+Sandygast,Ghost,speed,15
+Golisopod,Bug,hp,75
+Golisopod,Bug,attack,125
+Golisopod,Bug,defense,140
+Golisopod,Bug,sp_attack,60
+Golisopod,Bug,sp_defense,90
+Golisopod,Bug,speed,40
+Wimpod,Bug,hp,25
+Wimpod,Bug,attack,35
+Wimpod,Bug,defense,40
+Wimpod,Bug,sp_attack,20
+Wimpod,Bug,sp_defense,30
+Wimpod,Bug,speed,80
+Passimian,Fighting,hp,100
+Passimian,Fighting,attack,120
+Passimian,Fighting,defense,90
+Passimian,Fighting,sp_attack,40
+Passimian,Fighting,sp_defense,60
+Passimian,Fighting,speed,80
+Oranguru,Normal,hp,90
+Oranguru,Normal,attack,60
+Oranguru,Normal,defense,80
+Oranguru,Normal,sp_attack,90
+Oranguru,Normal,sp_defense,110
+Oranguru,Normal,speed,60
+Comfey,Fairy,hp,51
+Comfey,Fairy,attack,52
+Comfey,Fairy,defense,90
+Comfey,Fairy,sp_attack,82
+Comfey,Fairy,sp_defense,110
+Comfey,Fairy,speed,100
+Tsareena,Grass,hp,72
+Tsareena,Grass,attack,120
+Tsareena,Grass,defense,98
+Tsareena,Grass,sp_attack,50
+Tsareena,Grass,sp_defense,98
+Tsareena,Grass,speed,72
+Steenee,Grass,hp,52
+Steenee,Grass,attack,40
+Steenee,Grass,defense,48
+Steenee,Grass,sp_attack,40
+Steenee,Grass,sp_defense,48
+Steenee,Grass,speed,62
+Bounsweet,Grass,hp,42
+Bounsweet,Grass,attack,30
+Bounsweet,Grass,defense,38
+Bounsweet,Grass,sp_attack,30
+Bounsweet,Grass,sp_defense,38
+Bounsweet,Grass,speed,32
+Bewear,Normal,hp,120
+Bewear,Normal,attack,125
+Bewear,Normal,defense,80
+Bewear,Normal,sp_attack,55
+Bewear,Normal,sp_defense,60
+Bewear,Normal,speed,60
+Stufful,Normal,hp,70
+Stufful,Normal,attack,75
+Stufful,Normal,defense,50
+Stufful,Normal,sp_attack,45
+Stufful,Normal,sp_defense,50
+Stufful,Normal,speed,50
+Salazzle,Poison,hp,68
+Salazzle,Poison,attack,64
+Salazzle,Poison,defense,60
+Salazzle,Poison,sp_attack,111
+Salazzle,Poison,sp_defense,60
+Salazzle,Poison,speed,117
+Salandit,Poison,hp,48
+Salandit,Poison,attack,44
+Salandit,Poison,defense,40
+Salandit,Poison,sp_attack,71
+Salandit,Poison,sp_defense,40
+Salandit,Poison,speed,77
+Shiinotic,Grass,hp,60
+Shiinotic,Grass,attack,45
+Shiinotic,Grass,defense,80
+Shiinotic,Grass,sp_attack,90
+Shiinotic,Grass,sp_defense,100
+Shiinotic,Grass,speed,30
+Morelull,Grass,hp,40
+Morelull,Grass,attack,35
+Morelull,Grass,defense,55
+Morelull,Grass,sp_attack,65
+Morelull,Grass,sp_defense,75
+Morelull,Grass,speed,15
+Lurantis,Grass,hp,70
+Lurantis,Grass,attack,105
+Lurantis,Grass,defense,90
+Lurantis,Grass,sp_attack,80
+Lurantis,Grass,sp_defense,90
+Lurantis,Grass,speed,45
+Fomantis,Grass,hp,40
+Fomantis,Grass,attack,55
+Fomantis,Grass,defense,35
+Fomantis,Grass,sp_attack,50
+Fomantis,Grass,sp_defense,35
+Fomantis,Grass,speed,35
+Araquanid,Water,hp,68
+Araquanid,Water,attack,70
+Araquanid,Water,defense,92
+Araquanid,Water,sp_attack,50
+Araquanid,Water,sp_defense,132
+Araquanid,Water,speed,42
+Dewpider,Water,hp,38
+Dewpider,Water,attack,40
+Dewpider,Water,defense,52
+Dewpider,Water,sp_attack,40
+Dewpider,Water,sp_defense,72
+Dewpider,Water,speed,27
+Mudsdale,Ground,hp,100
+Mudsdale,Ground,attack,125
+Mudsdale,Ground,defense,100
+Mudsdale,Ground,sp_attack,55
+Mudsdale,Ground,sp_defense,85
+Mudsdale,Ground,speed,35
+Mudbray,Ground,hp,70
+Mudbray,Ground,attack,100
+Mudbray,Ground,defense,70
+Mudbray,Ground,sp_attack,45
+Mudbray,Ground,sp_defense,55
+Mudbray,Ground,speed,45
+Toxapex,Poison,hp,50
+Toxapex,Poison,attack,63
+Toxapex,Poison,defense,152
+Toxapex,Poison,sp_attack,53
+Toxapex,Poison,sp_defense,142
+Toxapex,Poison,speed,35
+Mareanie,Poison,hp,50
+Mareanie,Poison,attack,53
+Mareanie,Poison,defense,62
+Mareanie,Poison,sp_attack,43
+Mareanie,Poison,sp_defense,52
+Mareanie,Poison,speed,45
+Wishiwashi School Form,Water,hp,45
+Wishiwashi School Form,Water,attack,140
+Wishiwashi School Form,Water,defense,130
+Wishiwashi School Form,Water,sp_attack,140
+Wishiwashi School Form,Water,sp_defense,135
+Wishiwashi School Form,Water,speed,30
+Wishiwashi Solo Form,Water,hp,45
+Wishiwashi Solo Form,Water,attack,20
+Wishiwashi Solo Form,Water,defense,20
+Wishiwashi Solo Form,Water,sp_attack,25
+Wishiwashi Solo Form,Water,sp_defense,25
+Wishiwashi Solo Form,Water,speed,40
+Lycanroc Dusk Form,Rock,hp,75
+Lycanroc Dusk Form,Rock,attack,117
+Lycanroc Dusk Form,Rock,defense,65
+Lycanroc Dusk Form,Rock,sp_attack,55
+Lycanroc Dusk Form,Rock,sp_defense,65
+Lycanroc Dusk Form,Rock,speed,110
+Lycanroc Midnight Form,Rock,hp,85
+Lycanroc Midnight Form,Rock,attack,115
+Lycanroc Midnight Form,Rock,defense,75
+Lycanroc Midnight Form,Rock,sp_attack,55
+Lycanroc Midnight Form,Rock,sp_defense,75
+Lycanroc Midnight Form,Rock,speed,82
+Lycanroc Midday Form,Rock,hp,75
+Lycanroc Midday Form,Rock,attack,115
+Lycanroc Midday Form,Rock,defense,65
+Lycanroc Midday Form,Rock,sp_attack,55
+Lycanroc Midday Form,Rock,sp_defense,65
+Lycanroc Midday Form,Rock,speed,112
+Own Tempo Rockruff,Rock,hp,45
+Own Tempo Rockruff,Rock,attack,65
+Own Tempo Rockruff,Rock,defense,40
+Own Tempo Rockruff,Rock,sp_attack,30
+Own Tempo Rockruff,Rock,sp_defense,40
+Own Tempo Rockruff,Rock,speed,60
+Rockruff,Rock,hp,45
+Rockruff,Rock,attack,65
+Rockruff,Rock,defense,40
+Rockruff,Rock,sp_attack,30
+Rockruff,Rock,sp_defense,40
+Rockruff,Rock,speed,60
+Ribombee,Bug,hp,60
+Ribombee,Bug,attack,55
+Ribombee,Bug,defense,60
+Ribombee,Bug,sp_attack,95
+Ribombee,Bug,sp_defense,70
+Ribombee,Bug,speed,124
+Cutiefly,Bug,hp,40
+Cutiefly,Bug,attack,45
+Cutiefly,Bug,defense,40
+Cutiefly,Bug,sp_attack,55
+Cutiefly,Bug,sp_defense,40
+Cutiefly,Bug,speed,84
+Oricorio Sensu Style,Ghost,hp,75
+Oricorio Sensu Style,Ghost,attack,70
+Oricorio Sensu Style,Ghost,defense,70
+Oricorio Sensu Style,Ghost,sp_attack,98
+Oricorio Sensu Style,Ghost,sp_defense,70
+Oricorio Sensu Style,Ghost,speed,93
+Oricorio Pa'u Style,Psychic,hp,75
+Oricorio Pa'u Style,Psychic,attack,70
+Oricorio Pa'u Style,Psychic,defense,70
+Oricorio Pa'u Style,Psychic,sp_attack,98
+Oricorio Pa'u Style,Psychic,sp_defense,70
+Oricorio Pa'u Style,Psychic,speed,93
+Oricorio Pom-Pom Style,Electric,hp,75
+Oricorio Pom-Pom Style,Electric,attack,70
+Oricorio Pom-Pom Style,Electric,defense,70
+Oricorio Pom-Pom Style,Electric,sp_attack,98
+Oricorio Pom-Pom Style,Electric,sp_defense,70
+Oricorio Pom-Pom Style,Electric,speed,93
+Oricorio Baile Style,Fire,hp,75
+Oricorio Baile Style,Fire,attack,70
+Oricorio Baile Style,Fire,defense,70
+Oricorio Baile Style,Fire,sp_attack,98
+Oricorio Baile Style,Fire,sp_defense,70
+Oricorio Baile Style,Fire,speed,93
+Crabominable,Fighting,hp,97
+Crabominable,Fighting,attack,132
+Crabominable,Fighting,defense,77
+Crabominable,Fighting,sp_attack,62
+Crabominable,Fighting,sp_defense,67
+Crabominable,Fighting,speed,43
+Crabrawler,Fighting,hp,47
+Crabrawler,Fighting,attack,82
+Crabrawler,Fighting,defense,57
+Crabrawler,Fighting,sp_attack,42
+Crabrawler,Fighting,sp_defense,47
+Crabrawler,Fighting,speed,63
+Vikavolt,Bug,hp,77
+Vikavolt,Bug,attack,70
+Vikavolt,Bug,defense,90
+Vikavolt,Bug,sp_attack,145
+Vikavolt,Bug,sp_defense,75
+Vikavolt,Bug,speed,43
+Charjabug,Bug,hp,57
+Charjabug,Bug,attack,82
+Charjabug,Bug,defense,95
+Charjabug,Bug,sp_attack,55
+Charjabug,Bug,sp_defense,75
+Charjabug,Bug,speed,36
+Grubbin,Bug,hp,47
+Grubbin,Bug,attack,62
+Grubbin,Bug,defense,45
+Grubbin,Bug,sp_attack,55
+Grubbin,Bug,sp_defense,45
+Grubbin,Bug,speed,46
+Gumshoos,Normal,hp,88
+Gumshoos,Normal,attack,110
+Gumshoos,Normal,defense,60
+Gumshoos,Normal,sp_attack,55
+Gumshoos,Normal,sp_defense,60
+Gumshoos,Normal,speed,45
+Yungoos,Normal,hp,48
+Yungoos,Normal,attack,70
+Yungoos,Normal,defense,30
+Yungoos,Normal,sp_attack,30
+Yungoos,Normal,sp_defense,30
+Yungoos,Normal,speed,45
+Toucannon,Normal,hp,80
+Toucannon,Normal,attack,120
+Toucannon,Normal,defense,75
+Toucannon,Normal,sp_attack,75
+Toucannon,Normal,sp_defense,75
+Toucannon,Normal,speed,60
+Trumbeak,Normal,hp,55
+Trumbeak,Normal,attack,85
+Trumbeak,Normal,defense,50
+Trumbeak,Normal,sp_attack,40
+Trumbeak,Normal,sp_defense,50
+Trumbeak,Normal,speed,75
+Pikipek,Normal,hp,35
+Pikipek,Normal,attack,75
+Pikipek,Normal,defense,30
+Pikipek,Normal,sp_attack,30
+Pikipek,Normal,sp_defense,30
+Pikipek,Normal,speed,65
+Primarina,Water,hp,80
+Primarina,Water,attack,74
+Primarina,Water,defense,74
+Primarina,Water,sp_attack,126
+Primarina,Water,sp_defense,116
+Primarina,Water,speed,60
+Brionne,Water,hp,60
+Brionne,Water,attack,69
+Brionne,Water,defense,69
+Brionne,Water,sp_attack,91
+Brionne,Water,sp_defense,81
+Brionne,Water,speed,50
+Popplio,Water,hp,50
+Popplio,Water,attack,54
+Popplio,Water,defense,54
+Popplio,Water,sp_attack,66
+Popplio,Water,sp_defense,56
+Popplio,Water,speed,40
+Incineroar,Fire,hp,95
+Incineroar,Fire,attack,115
+Incineroar,Fire,defense,90
+Incineroar,Fire,sp_attack,80
+Incineroar,Fire,sp_defense,90
+Incineroar,Fire,speed,60
+Torracat,Fire,hp,65
+Torracat,Fire,attack,85
+Torracat,Fire,defense,50
+Torracat,Fire,sp_attack,80
+Torracat,Fire,sp_defense,50
+Torracat,Fire,speed,90
+Litten,Fire,hp,45
+Litten,Fire,attack,65
+Litten,Fire,defense,40
+Litten,Fire,sp_attack,60
+Litten,Fire,sp_defense,40
+Litten,Fire,speed,70
+Decidueye,Grass,hp,78
+Decidueye,Grass,attack,107
+Decidueye,Grass,defense,75
+Decidueye,Grass,sp_attack,100
+Decidueye,Grass,sp_defense,100
+Decidueye,Grass,speed,70
+Dartrix,Grass,hp,78
+Dartrix,Grass,attack,75
+Dartrix,Grass,defense,75
+Dartrix,Grass,sp_attack,70
+Dartrix,Grass,sp_defense,70
+Dartrix,Grass,speed,52
+Rowlet,Grass,hp,68
+Rowlet,Grass,attack,55
+Rowlet,Grass,defense,55
+Rowlet,Grass,sp_attack,50
+Rowlet,Grass,sp_defense,50
+Rowlet,Grass,speed,42
+Volcanion,Fire,hp,80
+Volcanion,Fire,attack,110
+Volcanion,Fire,defense,120
+Volcanion,Fire,sp_attack,130
+Volcanion,Fire,sp_defense,90
+Volcanion,Fire,speed,70
+Hoopa Hoopa Unbound,Psychic,hp,80
+Hoopa Hoopa Unbound,Psychic,attack,160
+Hoopa Hoopa Unbound,Psychic,defense,60
+Hoopa Hoopa Unbound,Psychic,sp_attack,170
+Hoopa Hoopa Unbound,Psychic,sp_defense,130
+Hoopa Hoopa Unbound,Psychic,speed,80
+Hoopa Hoopa Confined,Psychic,hp,80
+Hoopa Hoopa Confined,Psychic,attack,110
+Hoopa Hoopa Confined,Psychic,defense,60
+Hoopa Hoopa Confined,Psychic,sp_attack,150
+Hoopa Hoopa Confined,Psychic,sp_defense,130
+Hoopa Hoopa Confined,Psychic,speed,70
+Mega Diancie,Rock,hp,50
+Mega Diancie,Rock,attack,160
+Mega Diancie,Rock,defense,110
+Mega Diancie,Rock,sp_attack,160
+Mega Diancie,Rock,sp_defense,110
+Mega Diancie,Rock,speed,110
+Diancie,Rock,hp,50
+Diancie,Rock,attack,100
+Diancie,Rock,defense,150
+Diancie,Rock,sp_attack,100
+Diancie,Rock,sp_defense,150
+Diancie,Rock,speed,50
+Zygarde Complete Forme,Dragon,hp,216
+Zygarde Complete Forme,Dragon,attack,100
+Zygarde Complete Forme,Dragon,defense,121
+Zygarde Complete Forme,Dragon,sp_attack,91
+Zygarde Complete Forme,Dragon,sp_defense,95
+Zygarde Complete Forme,Dragon,speed,85
+Zygarde 10% Forme,Dragon,hp,54
+Zygarde 10% Forme,Dragon,attack,100
+Zygarde 10% Forme,Dragon,defense,71
+Zygarde 10% Forme,Dragon,sp_attack,61
+Zygarde 10% Forme,Dragon,sp_defense,85
+Zygarde 10% Forme,Dragon,speed,115
+Zygarde 50% Forme,Dragon,hp,108
+Zygarde 50% Forme,Dragon,attack,100
+Zygarde 50% Forme,Dragon,defense,121
+Zygarde 50% Forme,Dragon,sp_attack,81
+Zygarde 50% Forme,Dragon,sp_defense,95
+Zygarde 50% Forme,Dragon,speed,95
+Yveltal,Dark,hp,126
+Yveltal,Dark,attack,131
+Yveltal,Dark,defense,95
+Yveltal,Dark,sp_attack,131
+Yveltal,Dark,sp_defense,98
+Yveltal,Dark,speed,99
+Xerneas,Fairy,hp,126
+Xerneas,Fairy,attack,131
+Xerneas,Fairy,defense,95
+Xerneas,Fairy,sp_attack,131
+Xerneas,Fairy,sp_defense,98
+Xerneas,Fairy,speed,99
+Noivern,Flying,hp,85
+Noivern,Flying,attack,70
+Noivern,Flying,defense,80
+Noivern,Flying,sp_attack,97
+Noivern,Flying,sp_defense,80
+Noivern,Flying,speed,123
+Noibat,Flying,hp,40
+Noibat,Flying,attack,30
+Noibat,Flying,defense,35
+Noibat,Flying,sp_attack,45
+Noibat,Flying,sp_defense,40
+Noibat,Flying,speed,55
+Avalugg,Ice,hp,95
+Avalugg,Ice,attack,117
+Avalugg,Ice,defense,184
+Avalugg,Ice,sp_attack,44
+Avalugg,Ice,sp_defense,46
+Avalugg,Ice,speed,28
+Bergmite,Ice,hp,55
+Bergmite,Ice,attack,69
+Bergmite,Ice,defense,85
+Bergmite,Ice,sp_attack,32
+Bergmite,Ice,sp_defense,35
+Bergmite,Ice,speed,28
+Gourgeist Super Size,Ghost,hp,85
+Gourgeist Super Size,Ghost,attack,100
+Gourgeist Super Size,Ghost,defense,122
+Gourgeist Super Size,Ghost,sp_attack,58
+Gourgeist Super Size,Ghost,sp_defense,75
+Gourgeist Super Size,Ghost,speed,54
+Gourgeist Large Size,Ghost,hp,75
+Gourgeist Large Size,Ghost,attack,95
+Gourgeist Large Size,Ghost,defense,122
+Gourgeist Large Size,Ghost,sp_attack,58
+Gourgeist Large Size,Ghost,sp_defense,75
+Gourgeist Large Size,Ghost,speed,69
+Gourgeist Small Size,Ghost,hp,55
+Gourgeist Small Size,Ghost,attack,85
+Gourgeist Small Size,Ghost,defense,122
+Gourgeist Small Size,Ghost,sp_attack,58
+Gourgeist Small Size,Ghost,sp_defense,75
+Gourgeist Small Size,Ghost,speed,99
+Gourgeist Average Size,Ghost,hp,65
+Gourgeist Average Size,Ghost,attack,90
+Gourgeist Average Size,Ghost,defense,122
+Gourgeist Average Size,Ghost,sp_attack,58
+Gourgeist Average Size,Ghost,sp_defense,75
+Gourgeist Average Size,Ghost,speed,84
+Pumpkaboo Super Size,Ghost,hp,59
+Pumpkaboo Super Size,Ghost,attack,66
+Pumpkaboo Super Size,Ghost,defense,70
+Pumpkaboo Super Size,Ghost,sp_attack,44
+Pumpkaboo Super Size,Ghost,sp_defense,55
+Pumpkaboo Super Size,Ghost,speed,41
+Pumpkaboo Large Size,Ghost,hp,54
+Pumpkaboo Large Size,Ghost,attack,66
+Pumpkaboo Large Size,Ghost,defense,70
+Pumpkaboo Large Size,Ghost,sp_attack,44
+Pumpkaboo Large Size,Ghost,sp_defense,55
+Pumpkaboo Large Size,Ghost,speed,46
+Pumpkaboo Small Size,Ghost,hp,44
+Pumpkaboo Small Size,Ghost,attack,66
+Pumpkaboo Small Size,Ghost,defense,70
+Pumpkaboo Small Size,Ghost,sp_attack,44
+Pumpkaboo Small Size,Ghost,sp_defense,55
+Pumpkaboo Small Size,Ghost,speed,56
+Pumpkaboo Average Size,Ghost,hp,49
+Pumpkaboo Average Size,Ghost,attack,66
+Pumpkaboo Average Size,Ghost,defense,70
+Pumpkaboo Average Size,Ghost,sp_attack,44
+Pumpkaboo Average Size,Ghost,sp_defense,55
+Pumpkaboo Average Size,Ghost,speed,51
+Trevenant,Ghost,hp,85
+Trevenant,Ghost,attack,110
+Trevenant,Ghost,defense,76
+Trevenant,Ghost,sp_attack,65
+Trevenant,Ghost,sp_defense,82
+Trevenant,Ghost,speed,56
+Phantump,Ghost,hp,43
+Phantump,Ghost,attack,70
+Phantump,Ghost,defense,48
+Phantump,Ghost,sp_attack,50
+Phantump,Ghost,sp_defense,60
+Phantump,Ghost,speed,38
+Klefki,Steel,hp,57
+Klefki,Steel,attack,80
+Klefki,Steel,defense,91
+Klefki,Steel,sp_attack,80
+Klefki,Steel,sp_defense,87
+Klefki,Steel,speed,75
+Goodra,Dragon,hp,90
+Goodra,Dragon,attack,100
+Goodra,Dragon,defense,70
+Goodra,Dragon,sp_attack,110
+Goodra,Dragon,sp_defense,150
+Goodra,Dragon,speed,80
+Sliggoo,Dragon,hp,68
+Sliggoo,Dragon,attack,75
+Sliggoo,Dragon,defense,53
+Sliggoo,Dragon,sp_attack,83
+Sliggoo,Dragon,sp_defense,113
+Sliggoo,Dragon,speed,60
+Goomy,Dragon,hp,45
+Goomy,Dragon,attack,50
+Goomy,Dragon,defense,35
+Goomy,Dragon,sp_attack,55
+Goomy,Dragon,sp_defense,75
+Goomy,Dragon,speed,40
+Carbink,Rock,hp,50
+Carbink,Rock,attack,50
+Carbink,Rock,defense,150
+Carbink,Rock,sp_attack,50
+Carbink,Rock,sp_defense,150
+Carbink,Rock,speed,50
+Dedenne,Electric,hp,67
+Dedenne,Electric,attack,58
+Dedenne,Electric,defense,57
+Dedenne,Electric,sp_attack,81
+Dedenne,Electric,sp_defense,67
+Dedenne,Electric,speed,101
+Hawlucha,Fighting,hp,78
+Hawlucha,Fighting,attack,92
+Hawlucha,Fighting,defense,75
+Hawlucha,Fighting,sp_attack,74
+Hawlucha,Fighting,sp_defense,63
+Hawlucha,Fighting,speed,118
+Sylveon,Fairy,hp,95
+Sylveon,Fairy,attack,65
+Sylveon,Fairy,defense,65
+Sylveon,Fairy,sp_attack,110
+Sylveon,Fairy,sp_defense,130
+Sylveon,Fairy,speed,60
+Aurorus,Rock,hp,123
+Aurorus,Rock,attack,77
+Aurorus,Rock,defense,72
+Aurorus,Rock,sp_attack,99
+Aurorus,Rock,sp_defense,92
+Aurorus,Rock,speed,58
+Amaura,Rock,hp,77
+Amaura,Rock,attack,59
+Amaura,Rock,defense,50
+Amaura,Rock,sp_attack,67
+Amaura,Rock,sp_defense,63
+Amaura,Rock,speed,46
+Tyrantrum,Rock,hp,82
+Tyrantrum,Rock,attack,121
+Tyrantrum,Rock,defense,119
+Tyrantrum,Rock,sp_attack,69
+Tyrantrum,Rock,sp_defense,59
+Tyrantrum,Rock,speed,71
+Tyrunt,Rock,hp,58
+Tyrunt,Rock,attack,89
+Tyrunt,Rock,defense,77
+Tyrunt,Rock,sp_attack,45
+Tyrunt,Rock,sp_defense,45
+Tyrunt,Rock,speed,48
+Heliolisk,Electric,hp,62
+Heliolisk,Electric,attack,55
+Heliolisk,Electric,defense,52
+Heliolisk,Electric,sp_attack,109
+Heliolisk,Electric,sp_defense,94
+Heliolisk,Electric,speed,109
+Helioptile,Electric,hp,44
+Helioptile,Electric,attack,38
+Helioptile,Electric,defense,33
+Helioptile,Electric,sp_attack,61
+Helioptile,Electric,sp_defense,43
+Helioptile,Electric,speed,70
+Clawitzer,Water,hp,71
+Clawitzer,Water,attack,73
+Clawitzer,Water,defense,88
+Clawitzer,Water,sp_attack,120
+Clawitzer,Water,sp_defense,89
+Clawitzer,Water,speed,59
+Clauncher,Water,hp,50
+Clauncher,Water,attack,53
+Clauncher,Water,defense,62
+Clauncher,Water,sp_attack,58
+Clauncher,Water,sp_defense,63
+Clauncher,Water,speed,44
+Dragalge,Poison,hp,65
+Dragalge,Poison,attack,75
+Dragalge,Poison,defense,90
+Dragalge,Poison,sp_attack,97
+Dragalge,Poison,sp_defense,123
+Dragalge,Poison,speed,44
+Skrelp,Poison,hp,50
+Skrelp,Poison,attack,60
+Skrelp,Poison,defense,60
+Skrelp,Poison,sp_attack,60
+Skrelp,Poison,sp_defense,60
+Skrelp,Poison,speed,30
+Barbaracle,Rock,hp,72
+Barbaracle,Rock,attack,105
+Barbaracle,Rock,defense,115
+Barbaracle,Rock,sp_attack,54
+Barbaracle,Rock,sp_defense,86
+Barbaracle,Rock,speed,68
+Binacle,Rock,hp,42
+Binacle,Rock,attack,52
+Binacle,Rock,defense,67
+Binacle,Rock,sp_attack,39
+Binacle,Rock,sp_defense,56
+Binacle,Rock,speed,50
+Malamar,Dark,hp,86
+Malamar,Dark,attack,92
+Malamar,Dark,defense,88
+Malamar,Dark,sp_attack,68
+Malamar,Dark,sp_defense,75
+Malamar,Dark,speed,73
+Inkay,Dark,hp,53
+Inkay,Dark,attack,54
+Inkay,Dark,defense,53
+Inkay,Dark,sp_attack,37
+Inkay,Dark,sp_defense,46
+Inkay,Dark,speed,45
+Slurpuff,Fairy,hp,82
+Slurpuff,Fairy,attack,80
+Slurpuff,Fairy,defense,86
+Slurpuff,Fairy,sp_attack,85
+Slurpuff,Fairy,sp_defense,75
+Slurpuff,Fairy,speed,72
+Swirlix,Fairy,hp,62
+Swirlix,Fairy,attack,48
+Swirlix,Fairy,defense,66
+Swirlix,Fairy,sp_attack,59
+Swirlix,Fairy,sp_defense,57
+Swirlix,Fairy,speed,49
+Aromatisse,Fairy,hp,101
+Aromatisse,Fairy,attack,72
+Aromatisse,Fairy,defense,72
+Aromatisse,Fairy,sp_attack,99
+Aromatisse,Fairy,sp_defense,89
+Aromatisse,Fairy,speed,29
+Spritzee,Fairy,hp,78
+Spritzee,Fairy,attack,52
+Spritzee,Fairy,defense,60
+Spritzee,Fairy,sp_attack,63
+Spritzee,Fairy,sp_defense,65
+Spritzee,Fairy,speed,23
+Aegislash Shield Forme,Steel,hp,60
+Aegislash Shield Forme,Steel,attack,50
+Aegislash Shield Forme,Steel,defense,150
+Aegislash Shield Forme,Steel,sp_attack,50
+Aegislash Shield Forme,Steel,sp_defense,150
+Aegislash Shield Forme,Steel,speed,60
+Aegislash Blade Forme,Steel,hp,60
+Aegislash Blade Forme,Steel,attack,150
+Aegislash Blade Forme,Steel,defense,50
+Aegislash Blade Forme,Steel,sp_attack,150
+Aegislash Blade Forme,Steel,sp_defense,50
+Aegislash Blade Forme,Steel,speed,60
+Doublade,Steel,hp,59
+Doublade,Steel,attack,110
+Doublade,Steel,defense,150
+Doublade,Steel,sp_attack,45
+Doublade,Steel,sp_defense,49
+Doublade,Steel,speed,35
+Honedge,Steel,hp,45
+Honedge,Steel,attack,80
+Honedge,Steel,defense,100
+Honedge,Steel,sp_attack,35
+Honedge,Steel,sp_defense,37
+Honedge,Steel,speed,28
+Meowstic Female,Psychic,hp,74
+Meowstic Female,Psychic,attack,48
+Meowstic Female,Psychic,defense,76
+Meowstic Female,Psychic,sp_attack,83
+Meowstic Female,Psychic,sp_defense,81
+Meowstic Female,Psychic,speed,104
+Meowstic Male,Psychic,hp,74
+Meowstic Male,Psychic,attack,48
+Meowstic Male,Psychic,defense,76
+Meowstic Male,Psychic,sp_attack,83
+Meowstic Male,Psychic,sp_defense,81
+Meowstic Male,Psychic,speed,104
+Espurr,Psychic,hp,62
+Espurr,Psychic,attack,48
+Espurr,Psychic,defense,54
+Espurr,Psychic,sp_attack,63
+Espurr,Psychic,sp_defense,60
+Espurr,Psychic,speed,68
+Furfrou,Normal,hp,75
+Furfrou,Normal,attack,80
+Furfrou,Normal,defense,60
+Furfrou,Normal,sp_attack,65
+Furfrou,Normal,sp_defense,90
+Furfrou,Normal,speed,102
+Pangoro,Fighting,hp,95
+Pangoro,Fighting,attack,124
+Pangoro,Fighting,defense,78
+Pangoro,Fighting,sp_attack,69
+Pangoro,Fighting,sp_defense,71
+Pangoro,Fighting,speed,58
+Pancham,Fighting,hp,67
+Pancham,Fighting,attack,82
+Pancham,Fighting,defense,62
+Pancham,Fighting,sp_attack,46
+Pancham,Fighting,sp_defense,48
+Pancham,Fighting,speed,43
+Gogoat,Grass,hp,123
+Gogoat,Grass,attack,100
+Gogoat,Grass,defense,62
+Gogoat,Grass,sp_attack,97
+Gogoat,Grass,sp_defense,81
+Gogoat,Grass,speed,68
+Skiddo,Grass,hp,66
+Skiddo,Grass,attack,65
+Skiddo,Grass,defense,48
+Skiddo,Grass,sp_attack,62
+Skiddo,Grass,sp_defense,57
+Skiddo,Grass,speed,52
+Florges,Fairy,hp,78
+Florges,Fairy,attack,65
+Florges,Fairy,defense,68
+Florges,Fairy,sp_attack,112
+Florges,Fairy,sp_defense,154
+Florges,Fairy,speed,75
+Floette,Fairy,hp,54
+Floette,Fairy,attack,45
+Floette,Fairy,defense,47
+Floette,Fairy,sp_attack,75
+Floette,Fairy,sp_defense,98
+Floette,Fairy,speed,52
+FlabÃ©bÃ©,Fairy,hp,44
+FlabÃ©bÃ©,Fairy,attack,38
+FlabÃ©bÃ©,Fairy,defense,39
+FlabÃ©bÃ©,Fairy,sp_attack,61
+FlabÃ©bÃ©,Fairy,sp_defense,79
+FlabÃ©bÃ©,Fairy,speed,42
+Pyroar,Fire,hp,86
+Pyroar,Fire,attack,68
+Pyroar,Fire,defense,72
+Pyroar,Fire,sp_attack,109
+Pyroar,Fire,sp_defense,66
+Pyroar,Fire,speed,106
+Litleo,Fire,hp,62
+Litleo,Fire,attack,50
+Litleo,Fire,defense,58
+Litleo,Fire,sp_attack,73
+Litleo,Fire,sp_defense,54
+Litleo,Fire,speed,72
+Vivillon,Bug,hp,80
+Vivillon,Bug,attack,52
+Vivillon,Bug,defense,50
+Vivillon,Bug,sp_attack,90
+Vivillon,Bug,sp_defense,50
+Vivillon,Bug,speed,89
+Spewpa,Bug,hp,45
+Spewpa,Bug,attack,22
+Spewpa,Bug,defense,60
+Spewpa,Bug,sp_attack,27
+Spewpa,Bug,sp_defense,30
+Spewpa,Bug,speed,29
+Scatterbug,Bug,hp,38
+Scatterbug,Bug,attack,35
+Scatterbug,Bug,defense,40
+Scatterbug,Bug,sp_attack,27
+Scatterbug,Bug,sp_defense,25
+Scatterbug,Bug,speed,35
+Talonflame,Fire,hp,78
+Talonflame,Fire,attack,81
+Talonflame,Fire,defense,71
+Talonflame,Fire,sp_attack,74
+Talonflame,Fire,sp_defense,69
+Talonflame,Fire,speed,126
+Fletchinder,Fire,hp,62
+Fletchinder,Fire,attack,73
+Fletchinder,Fire,defense,55
+Fletchinder,Fire,sp_attack,56
+Fletchinder,Fire,sp_defense,52
+Fletchinder,Fire,speed,84
+Fletchling,Normal,hp,45
+Fletchling,Normal,attack,50
+Fletchling,Normal,defense,43
+Fletchling,Normal,sp_attack,40
+Fletchling,Normal,sp_defense,38
+Fletchling,Normal,speed,62
+Diggersby,Normal,hp,85
+Diggersby,Normal,attack,56
+Diggersby,Normal,defense,77
+Diggersby,Normal,sp_attack,50
+Diggersby,Normal,sp_defense,77
+Diggersby,Normal,speed,78
+Bunnelby,Normal,hp,38
+Bunnelby,Normal,attack,36
+Bunnelby,Normal,defense,38
+Bunnelby,Normal,sp_attack,32
+Bunnelby,Normal,sp_defense,36
+Bunnelby,Normal,speed,57
+Ash-Greninja,Water,hp,72
+Ash-Greninja,Water,attack,145
+Ash-Greninja,Water,defense,67
+Ash-Greninja,Water,sp_attack,153
+Ash-Greninja,Water,sp_defense,71
+Ash-Greninja,Water,speed,132
+Greninja,Water,hp,72
+Greninja,Water,attack,95
+Greninja,Water,defense,67
+Greninja,Water,sp_attack,103
+Greninja,Water,sp_defense,71
+Greninja,Water,speed,122
+Frogadier,Water,hp,54
+Frogadier,Water,attack,63
+Frogadier,Water,defense,52
+Frogadier,Water,sp_attack,83
+Frogadier,Water,sp_defense,56
+Frogadier,Water,speed,97
+Froakie,Water,hp,41
+Froakie,Water,attack,56
+Froakie,Water,defense,40
+Froakie,Water,sp_attack,62
+Froakie,Water,sp_defense,44
+Froakie,Water,speed,71
+Delphox,Fire,hp,75
+Delphox,Fire,attack,69
+Delphox,Fire,defense,72
+Delphox,Fire,sp_attack,114
+Delphox,Fire,sp_defense,100
+Delphox,Fire,speed,104
+Braixen,Fire,hp,59
+Braixen,Fire,attack,59
+Braixen,Fire,defense,58
+Braixen,Fire,sp_attack,90
+Braixen,Fire,sp_defense,70
+Braixen,Fire,speed,73
+Fennekin,Fire,hp,40
+Fennekin,Fire,attack,45
+Fennekin,Fire,defense,40
+Fennekin,Fire,sp_attack,62
+Fennekin,Fire,sp_defense,60
+Fennekin,Fire,speed,60
+Chesnaught,Grass,hp,88
+Chesnaught,Grass,attack,107
+Chesnaught,Grass,defense,122
+Chesnaught,Grass,sp_attack,74
+Chesnaught,Grass,sp_defense,75
+Chesnaught,Grass,speed,64
+Quilladin,Grass,hp,61
+Quilladin,Grass,attack,78
+Quilladin,Grass,defense,95
+Quilladin,Grass,sp_attack,56
+Quilladin,Grass,sp_defense,58
+Quilladin,Grass,speed,57
+Chespin,Grass,hp,56
+Chespin,Grass,attack,61
+Chespin,Grass,defense,65
+Chespin,Grass,sp_attack,48
+Chespin,Grass,sp_defense,45
+Chespin,Grass,speed,38
+Genesect,Bug,hp,71
+Genesect,Bug,attack,120
+Genesect,Bug,defense,95
+Genesect,Bug,sp_attack,120
+Genesect,Bug,sp_defense,95
+Genesect,Bug,speed,99
+Meloetta Pirouette Forme,Normal,hp,100
+Meloetta Pirouette Forme,Normal,attack,128
+Meloetta Pirouette Forme,Normal,defense,90
+Meloetta Pirouette Forme,Normal,sp_attack,77
+Meloetta Pirouette Forme,Normal,sp_defense,77
+Meloetta Pirouette Forme,Normal,speed,128
+Meloetta Aria Forme,Normal,hp,100
+Meloetta Aria Forme,Normal,attack,77
+Meloetta Aria Forme,Normal,defense,77
+Meloetta Aria Forme,Normal,sp_attack,128
+Meloetta Aria Forme,Normal,sp_defense,128
+Meloetta Aria Forme,Normal,speed,90
+Keldeo Resolute Forme,Water,hp,91
+Keldeo Resolute Forme,Water,attack,72
+Keldeo Resolute Forme,Water,defense,90
+Keldeo Resolute Forme,Water,sp_attack,129
+Keldeo Resolute Forme,Water,sp_defense,90
+Keldeo Resolute Forme,Water,speed,108
+Keldeo Ordinary Forme,Water,hp,91
+Keldeo Ordinary Forme,Water,attack,72
+Keldeo Ordinary Forme,Water,defense,90
+Keldeo Ordinary Forme,Water,sp_attack,129
+Keldeo Ordinary Forme,Water,sp_defense,90
+Keldeo Ordinary Forme,Water,speed,108
+White Kyurem,Dragon,hp,125
+White Kyurem,Dragon,attack,120
+White Kyurem,Dragon,defense,90
+White Kyurem,Dragon,sp_attack,170
+White Kyurem,Dragon,sp_defense,100
+White Kyurem,Dragon,speed,95
+Black Kyurem,Dragon,hp,125
+Black Kyurem,Dragon,attack,170
+Black Kyurem,Dragon,defense,100
+Black Kyurem,Dragon,sp_attack,120
+Black Kyurem,Dragon,sp_defense,90
+Black Kyurem,Dragon,speed,95
+Kyurem,Dragon,hp,125
+Kyurem,Dragon,attack,130
+Kyurem,Dragon,defense,90
+Kyurem,Dragon,sp_attack,130
+Kyurem,Dragon,sp_defense,90
+Kyurem,Dragon,speed,95
+Landorus Therian Forme,Ground,hp,89
+Landorus Therian Forme,Ground,attack,145
+Landorus Therian Forme,Ground,defense,90
+Landorus Therian Forme,Ground,sp_attack,105
+Landorus Therian Forme,Ground,sp_defense,80
+Landorus Therian Forme,Ground,speed,91
+Landorus Incarnate Forme,Ground,hp,89
+Landorus Incarnate Forme,Ground,attack,125
+Landorus Incarnate Forme,Ground,defense,90
+Landorus Incarnate Forme,Ground,sp_attack,115
+Landorus Incarnate Forme,Ground,sp_defense,80
+Landorus Incarnate Forme,Ground,speed,101
+Zekrom,Dragon,hp,100
+Zekrom,Dragon,attack,150
+Zekrom,Dragon,defense,120
+Zekrom,Dragon,sp_attack,120
+Zekrom,Dragon,sp_defense,100
+Zekrom,Dragon,speed,90
+Reshiram,Dragon,hp,100
+Reshiram,Dragon,attack,120
+Reshiram,Dragon,defense,100
+Reshiram,Dragon,sp_attack,150
+Reshiram,Dragon,sp_defense,120
+Reshiram,Dragon,speed,90
+Thundurus Therian Forme,Electric,hp,79
+Thundurus Therian Forme,Electric,attack,105
+Thundurus Therian Forme,Electric,defense,70
+Thundurus Therian Forme,Electric,sp_attack,145
+Thundurus Therian Forme,Electric,sp_defense,80
+Thundurus Therian Forme,Electric,speed,101
+Thundurus Incarnate Forme,Electric,hp,79
+Thundurus Incarnate Forme,Electric,attack,115
+Thundurus Incarnate Forme,Electric,defense,70
+Thundurus Incarnate Forme,Electric,sp_attack,125
+Thundurus Incarnate Forme,Electric,sp_defense,80
+Thundurus Incarnate Forme,Electric,speed,111
+Tornadus Therian Forme,Flying,hp,79
+Tornadus Therian Forme,Flying,attack,100
+Tornadus Therian Forme,Flying,defense,80
+Tornadus Therian Forme,Flying,sp_attack,110
+Tornadus Therian Forme,Flying,sp_defense,90
+Tornadus Therian Forme,Flying,speed,121
+Tornadus Incarnate Forme,Flying,hp,79
+Tornadus Incarnate Forme,Flying,attack,115
+Tornadus Incarnate Forme,Flying,defense,70
+Tornadus Incarnate Forme,Flying,sp_attack,125
+Tornadus Incarnate Forme,Flying,sp_defense,80
+Tornadus Incarnate Forme,Flying,speed,111
+Virizion,Grass,hp,91
+Virizion,Grass,attack,90
+Virizion,Grass,defense,72
+Virizion,Grass,sp_attack,90
+Virizion,Grass,sp_defense,129
+Virizion,Grass,speed,108
+Terrakion,Rock,hp,91
+Terrakion,Rock,attack,129
+Terrakion,Rock,defense,90
+Terrakion,Rock,sp_attack,72
+Terrakion,Rock,sp_defense,90
+Terrakion,Rock,speed,108
+Cobalion,Steel,hp,91
+Cobalion,Steel,attack,90
+Cobalion,Steel,defense,129
+Cobalion,Steel,sp_attack,90
+Cobalion,Steel,sp_defense,72
+Cobalion,Steel,speed,108
+Volcarona,Bug,hp,85
+Volcarona,Bug,attack,60
+Volcarona,Bug,defense,65
+Volcarona,Bug,sp_attack,135
+Volcarona,Bug,sp_defense,105
+Volcarona,Bug,speed,100
+Larvesta,Bug,hp,55
+Larvesta,Bug,attack,85
+Larvesta,Bug,defense,55
+Larvesta,Bug,sp_attack,50
+Larvesta,Bug,sp_defense,55
+Larvesta,Bug,speed,60
+Hydreigon,Dark,hp,92
+Hydreigon,Dark,attack,105
+Hydreigon,Dark,defense,90
+Hydreigon,Dark,sp_attack,125
+Hydreigon,Dark,sp_defense,90
+Hydreigon,Dark,speed,98
+Zweilous,Dark,hp,72
+Zweilous,Dark,attack,85
+Zweilous,Dark,defense,70
+Zweilous,Dark,sp_attack,65
+Zweilous,Dark,sp_defense,70
+Zweilous,Dark,speed,58
+Deino,Dark,hp,52
+Deino,Dark,attack,65
+Deino,Dark,defense,50
+Deino,Dark,sp_attack,45
+Deino,Dark,sp_defense,50
+Deino,Dark,speed,38
+Durant,Bug,hp,58
+Durant,Bug,attack,109
+Durant,Bug,defense,112
+Durant,Bug,sp_attack,48
+Durant,Bug,sp_defense,48
+Durant,Bug,speed,109
+Heatmor,Fire,hp,85
+Heatmor,Fire,attack,97
+Heatmor,Fire,defense,66
+Heatmor,Fire,sp_attack,105
+Heatmor,Fire,sp_defense,66
+Heatmor,Fire,speed,65
+Mandibuzz,Dark,hp,110
+Mandibuzz,Dark,attack,65
+Mandibuzz,Dark,defense,105
+Mandibuzz,Dark,sp_attack,55
+Mandibuzz,Dark,sp_defense,95
+Mandibuzz,Dark,speed,80
+Vullaby,Dark,hp,70
+Vullaby,Dark,attack,55
+Vullaby,Dark,defense,75
+Vullaby,Dark,sp_attack,45
+Vullaby,Dark,sp_defense,65
+Vullaby,Dark,speed,60
+Braviary,Normal,hp,100
+Braviary,Normal,attack,123
+Braviary,Normal,defense,75
+Braviary,Normal,sp_attack,57
+Braviary,Normal,sp_defense,75
+Braviary,Normal,speed,80
+Rufflet,Normal,hp,70
+Rufflet,Normal,attack,83
+Rufflet,Normal,defense,50
+Rufflet,Normal,sp_attack,37
+Rufflet,Normal,sp_defense,50
+Rufflet,Normal,speed,60
+Bouffalant,Normal,hp,95
+Bouffalant,Normal,attack,110
+Bouffalant,Normal,defense,95
+Bouffalant,Normal,sp_attack,40
+Bouffalant,Normal,sp_defense,95
+Bouffalant,Normal,speed,55
+Bisharp,Dark,hp,65
+Bisharp,Dark,attack,125
+Bisharp,Dark,defense,100
+Bisharp,Dark,sp_attack,60
+Bisharp,Dark,sp_defense,70
+Bisharp,Dark,speed,70
+Pawniard,Dark,hp,45
+Pawniard,Dark,attack,85
+Pawniard,Dark,defense,70
+Pawniard,Dark,sp_attack,40
+Pawniard,Dark,sp_defense,40
+Pawniard,Dark,speed,60
+Golurk,Ground,hp,89
+Golurk,Ground,attack,124
+Golurk,Ground,defense,80
+Golurk,Ground,sp_attack,55
+Golurk,Ground,sp_defense,80
+Golurk,Ground,speed,55
+Golett,Ground,hp,59
+Golett,Ground,attack,74
+Golett,Ground,defense,50
+Golett,Ground,sp_attack,35
+Golett,Ground,sp_defense,50
+Golett,Ground,speed,35
+Druddigon,Dragon,hp,77
+Druddigon,Dragon,attack,120
+Druddigon,Dragon,defense,90
+Druddigon,Dragon,sp_attack,60
+Druddigon,Dragon,sp_defense,90
+Druddigon,Dragon,speed,48
+Mienshao,Fighting,hp,65
+Mienshao,Fighting,attack,125
+Mienshao,Fighting,defense,60
+Mienshao,Fighting,sp_attack,95
+Mienshao,Fighting,sp_defense,60
+Mienshao,Fighting,speed,105
+Mienfoo,Fighting,hp,45
+Mienfoo,Fighting,attack,85
+Mienfoo,Fighting,defense,50
+Mienfoo,Fighting,sp_attack,55
+Mienfoo,Fighting,sp_defense,50
+Mienfoo,Fighting,speed,65
+Galarian Stunfisk,Ground,hp,109
+Galarian Stunfisk,Ground,attack,81
+Galarian Stunfisk,Ground,defense,99
+Galarian Stunfisk,Ground,sp_attack,66
+Galarian Stunfisk,Ground,sp_defense,84
+Galarian Stunfisk,Ground,speed,32
+Stunfisk,Ground,hp,109
+Stunfisk,Ground,attack,66
+Stunfisk,Ground,defense,84
+Stunfisk,Ground,sp_attack,81
+Stunfisk,Ground,sp_defense,99
+Stunfisk,Ground,speed,32
+Accelgor,Bug,hp,80
+Accelgor,Bug,attack,70
+Accelgor,Bug,defense,40
+Accelgor,Bug,sp_attack,100
+Accelgor,Bug,sp_defense,60
+Accelgor,Bug,speed,145
+Shelmet,Bug,hp,50
+Shelmet,Bug,attack,40
+Shelmet,Bug,defense,85
+Shelmet,Bug,sp_attack,40
+Shelmet,Bug,sp_defense,65
+Shelmet,Bug,speed,25
+Cryogonal,Ice,hp,80
+Cryogonal,Ice,attack,50
+Cryogonal,Ice,defense,50
+Cryogonal,Ice,sp_attack,95
+Cryogonal,Ice,sp_defense,135
+Cryogonal,Ice,speed,105
+Beartic,Ice,hp,95
+Beartic,Ice,attack,130
+Beartic,Ice,defense,80
+Beartic,Ice,sp_attack,70
+Beartic,Ice,sp_defense,80
+Beartic,Ice,speed,50
+Cubchoo,Ice,hp,55
+Cubchoo,Ice,attack,70
+Cubchoo,Ice,defense,40
+Cubchoo,Ice,sp_attack,60
+Cubchoo,Ice,sp_defense,40
+Cubchoo,Ice,speed,40
+Haxorus,Dragon,hp,76
+Haxorus,Dragon,attack,147
+Haxorus,Dragon,defense,90
+Haxorus,Dragon,sp_attack,60
+Haxorus,Dragon,sp_defense,70
+Haxorus,Dragon,speed,97
+Fraxure,Dragon,hp,66
+Fraxure,Dragon,attack,117
+Fraxure,Dragon,defense,70
+Fraxure,Dragon,sp_attack,40
+Fraxure,Dragon,sp_defense,50
+Fraxure,Dragon,speed,67
+Axew,Dragon,hp,46
+Axew,Dragon,attack,87
+Axew,Dragon,defense,60
+Axew,Dragon,sp_attack,30
+Axew,Dragon,sp_defense,40
+Axew,Dragon,speed,57
+Chandelure,Ghost,hp,60
+Chandelure,Ghost,attack,55
+Chandelure,Ghost,defense,90
+Chandelure,Ghost,sp_attack,145
+Chandelure,Ghost,sp_defense,90
+Chandelure,Ghost,speed,80
+Lampent,Ghost,hp,60
+Lampent,Ghost,attack,40
+Lampent,Ghost,defense,60
+Lampent,Ghost,sp_attack,95
+Lampent,Ghost,sp_defense,60
+Lampent,Ghost,speed,55
+Litwick,Ghost,hp,50
+Litwick,Ghost,attack,30
+Litwick,Ghost,defense,55
+Litwick,Ghost,sp_attack,65
+Litwick,Ghost,sp_defense,55
+Litwick,Ghost,speed,20
+Beheeyem,Psychic,hp,75
+Beheeyem,Psychic,attack,75
+Beheeyem,Psychic,defense,75
+Beheeyem,Psychic,sp_attack,125
+Beheeyem,Psychic,sp_defense,95
+Beheeyem,Psychic,speed,40
+Elgyem,Psychic,hp,55
+Elgyem,Psychic,attack,55
+Elgyem,Psychic,defense,55
+Elgyem,Psychic,sp_attack,85
+Elgyem,Psychic,sp_defense,55
+Elgyem,Psychic,speed,30
+Eelektross,Electric,hp,85
+Eelektross,Electric,attack,115
+Eelektross,Electric,defense,80
+Eelektross,Electric,sp_attack,105
+Eelektross,Electric,sp_defense,80
+Eelektross,Electric,speed,50
+Eelektrik,Electric,hp,65
+Eelektrik,Electric,attack,85
+Eelektrik,Electric,defense,70
+Eelektrik,Electric,sp_attack,75
+Eelektrik,Electric,sp_defense,70
+Eelektrik,Electric,speed,40
+Tynamo,Electric,hp,35
+Tynamo,Electric,attack,55
+Tynamo,Electric,defense,40
+Tynamo,Electric,sp_attack,45
+Tynamo,Electric,sp_defense,40
+Tynamo,Electric,speed,60
+Klinklang,Steel,hp,60
+Klinklang,Steel,attack,100
+Klinklang,Steel,defense,115
+Klinklang,Steel,sp_attack,70
+Klinklang,Steel,sp_defense,85
+Klinklang,Steel,speed,90
+Klang,Steel,hp,60
+Klang,Steel,attack,80
+Klang,Steel,defense,95
+Klang,Steel,sp_attack,70
+Klang,Steel,sp_defense,85
+Klang,Steel,speed,50
+Klink,Steel,hp,40
+Klink,Steel,attack,55
+Klink,Steel,defense,70
+Klink,Steel,sp_attack,45
+Klink,Steel,sp_defense,60
+Klink,Steel,speed,30
+Ferrothorn,Grass,hp,74
+Ferrothorn,Grass,attack,94
+Ferrothorn,Grass,defense,131
+Ferrothorn,Grass,sp_attack,54
+Ferrothorn,Grass,sp_defense,116
+Ferrothorn,Grass,speed,20
+Ferroseed,Grass,hp,44
+Ferroseed,Grass,attack,50
+Ferroseed,Grass,defense,91
+Ferroseed,Grass,sp_attack,24
+Ferroseed,Grass,sp_defense,86
+Ferroseed,Grass,speed,10
+Galvantula,Bug,hp,70
+Galvantula,Bug,attack,77
+Galvantula,Bug,defense,60
+Galvantula,Bug,sp_attack,97
+Galvantula,Bug,sp_defense,60
+Galvantula,Bug,speed,108
+Joltik,Bug,hp,50
+Joltik,Bug,attack,47
+Joltik,Bug,defense,50
+Joltik,Bug,sp_attack,57
+Joltik,Bug,sp_defense,50
+Joltik,Bug,speed,65
+Alomomola,Water,hp,165
+Alomomola,Water,attack,75
+Alomomola,Water,defense,80
+Alomomola,Water,sp_attack,40
+Alomomola,Water,sp_defense,45
+Alomomola,Water,speed,65
+Jellicent,Water,hp,100
+Jellicent,Water,attack,60
+Jellicent,Water,defense,70
+Jellicent,Water,sp_attack,85
+Jellicent,Water,sp_defense,105
+Jellicent,Water,speed,60
+Frillish,Water,hp,55
+Frillish,Water,attack,40
+Frillish,Water,defense,50
+Frillish,Water,sp_attack,65
+Frillish,Water,sp_defense,85
+Frillish,Water,speed,40
+Amoonguss,Grass,hp,114
+Amoonguss,Grass,attack,85
+Amoonguss,Grass,defense,70
+Amoonguss,Grass,sp_attack,85
+Amoonguss,Grass,sp_defense,80
+Amoonguss,Grass,speed,30
+Foongus,Grass,hp,69
+Foongus,Grass,attack,55
+Foongus,Grass,defense,45
+Foongus,Grass,sp_attack,55
+Foongus,Grass,sp_defense,55
+Foongus,Grass,speed,15
+Escavalier,Bug,hp,70
+Escavalier,Bug,attack,135
+Escavalier,Bug,defense,105
+Escavalier,Bug,sp_attack,60
+Escavalier,Bug,sp_defense,105
+Escavalier,Bug,speed,20
+Karrablast,Bug,hp,50
+Karrablast,Bug,attack,75
+Karrablast,Bug,defense,45
+Karrablast,Bug,sp_attack,40
+Karrablast,Bug,sp_defense,45
+Karrablast,Bug,speed,60
+Emolga,Electric,hp,55
+Emolga,Electric,attack,75
+Emolga,Electric,defense,60
+Emolga,Electric,sp_attack,75
+Emolga,Electric,sp_defense,60
+Emolga,Electric,speed,103
+Sawsbuck,Normal,hp,80
+Sawsbuck,Normal,attack,100
+Sawsbuck,Normal,defense,70
+Sawsbuck,Normal,sp_attack,60
+Sawsbuck,Normal,sp_defense,70
+Sawsbuck,Normal,speed,95
+Deerling,Normal,hp,60
+Deerling,Normal,attack,60
+Deerling,Normal,defense,50
+Deerling,Normal,sp_attack,40
+Deerling,Normal,sp_defense,50
+Deerling,Normal,speed,75
+Vanilluxe,Ice,hp,71
+Vanilluxe,Ice,attack,95
+Vanilluxe,Ice,defense,85
+Vanilluxe,Ice,sp_attack,110
+Vanilluxe,Ice,sp_defense,95
+Vanilluxe,Ice,speed,79
+Vanillish,Ice,hp,51
+Vanillish,Ice,attack,65
+Vanillish,Ice,defense,65
+Vanillish,Ice,sp_attack,80
+Vanillish,Ice,sp_defense,75
+Vanillish,Ice,speed,59
+Vanillite,Ice,hp,36
+Vanillite,Ice,attack,50
+Vanillite,Ice,defense,50
+Vanillite,Ice,sp_attack,65
+Vanillite,Ice,sp_defense,60
+Vanillite,Ice,speed,44
+Swanna,Water,hp,75
+Swanna,Water,attack,87
+Swanna,Water,defense,63
+Swanna,Water,sp_attack,87
+Swanna,Water,sp_defense,63
+Swanna,Water,speed,98
+Ducklett,Water,hp,62
+Ducklett,Water,attack,44
+Ducklett,Water,defense,50
+Ducklett,Water,sp_attack,44
+Ducklett,Water,sp_defense,50
+Ducklett,Water,speed,55
+Reuniclus,Psychic,hp,110
+Reuniclus,Psychic,attack,65
+Reuniclus,Psychic,defense,75
+Reuniclus,Psychic,sp_attack,125
+Reuniclus,Psychic,sp_defense,85
+Reuniclus,Psychic,speed,30
+Duosion,Psychic,hp,65
+Duosion,Psychic,attack,40
+Duosion,Psychic,defense,50
+Duosion,Psychic,sp_attack,125
+Duosion,Psychic,sp_defense,60
+Duosion,Psychic,speed,30
+Solosis,Psychic,hp,45
+Solosis,Psychic,attack,30
+Solosis,Psychic,defense,40
+Solosis,Psychic,sp_attack,105
+Solosis,Psychic,sp_defense,50
+Solosis,Psychic,speed,20
+Gothitelle,Psychic,hp,70
+Gothitelle,Psychic,attack,55
+Gothitelle,Psychic,defense,95
+Gothitelle,Psychic,sp_attack,95
+Gothitelle,Psychic,sp_defense,110
+Gothitelle,Psychic,speed,65
+Gothorita,Psychic,hp,60
+Gothorita,Psychic,attack,45
+Gothorita,Psychic,defense,70
+Gothorita,Psychic,sp_attack,75
+Gothorita,Psychic,sp_defense,85
+Gothorita,Psychic,speed,55
+Gothita,Psychic,hp,45
+Gothita,Psychic,attack,30
+Gothita,Psychic,defense,50
+Gothita,Psychic,sp_attack,55
+Gothita,Psychic,sp_defense,65
+Gothita,Psychic,speed,45
+Cinccino,Normal,hp,75
+Cinccino,Normal,attack,95
+Cinccino,Normal,defense,60
+Cinccino,Normal,sp_attack,65
+Cinccino,Normal,sp_defense,60
+Cinccino,Normal,speed,115
+Minccino,Normal,hp,55
+Minccino,Normal,attack,50
+Minccino,Normal,defense,40
+Minccino,Normal,sp_attack,40
+Minccino,Normal,sp_defense,40
+Minccino,Normal,speed,75
+Zoroark,Dark,hp,60
+Zoroark,Dark,attack,105
+Zoroark,Dark,defense,60
+Zoroark,Dark,sp_attack,120
+Zoroark,Dark,sp_defense,60
+Zoroark,Dark,speed,105
+Zorua,Dark,hp,40
+Zorua,Dark,attack,65
+Zorua,Dark,defense,40
+Zorua,Dark,sp_attack,80
+Zorua,Dark,sp_defense,40
+Zorua,Dark,speed,65
+Garbodor,Poison,hp,80
+Garbodor,Poison,attack,95
+Garbodor,Poison,defense,82
+Garbodor,Poison,sp_attack,60
+Garbodor,Poison,sp_defense,82
+Garbodor,Poison,speed,75
+Trubbish,Poison,hp,50
+Trubbish,Poison,attack,50
+Trubbish,Poison,defense,62
+Trubbish,Poison,sp_attack,40
+Trubbish,Poison,sp_defense,62
+Trubbish,Poison,speed,65
+Archeops,Rock,hp,75
+Archeops,Rock,attack,140
+Archeops,Rock,defense,65
+Archeops,Rock,sp_attack,112
+Archeops,Rock,sp_defense,65
+Archeops,Rock,speed,110
+Archen,Rock,hp,55
+Archen,Rock,attack,112
+Archen,Rock,defense,45
+Archen,Rock,sp_attack,74
+Archen,Rock,sp_defense,45
+Archen,Rock,speed,70
+Carracosta,Water,hp,74
+Carracosta,Water,attack,108
+Carracosta,Water,defense,133
+Carracosta,Water,sp_attack,83
+Carracosta,Water,sp_defense,65
+Carracosta,Water,speed,32
+Tirtouga,Water,hp,54
+Tirtouga,Water,attack,78
+Tirtouga,Water,defense,103
+Tirtouga,Water,sp_attack,53
+Tirtouga,Water,sp_defense,45
+Tirtouga,Water,speed,22
+Cofagrigus,Ghost,hp,58
+Cofagrigus,Ghost,attack,50
+Cofagrigus,Ghost,defense,145
+Cofagrigus,Ghost,sp_attack,95
+Cofagrigus,Ghost,sp_defense,105
+Cofagrigus,Ghost,speed,30
+Galarian Yamask,Ground,hp,38
+Galarian Yamask,Ground,attack,55
+Galarian Yamask,Ground,defense,85
+Galarian Yamask,Ground,sp_attack,30
+Galarian Yamask,Ground,sp_defense,65
+Galarian Yamask,Ground,speed,30
+Yamask,Ghost,hp,38
+Yamask,Ghost,attack,30
+Yamask,Ghost,defense,85
+Yamask,Ghost,sp_attack,55
+Yamask,Ghost,sp_defense,65
+Yamask,Ghost,speed,30
+Sigilyph,Psychic,hp,72
+Sigilyph,Psychic,attack,58
+Sigilyph,Psychic,defense,80
+Sigilyph,Psychic,sp_attack,103
+Sigilyph,Psychic,sp_defense,80
+Sigilyph,Psychic,speed,97
+Scrafty,Dark,hp,65
+Scrafty,Dark,attack,90
+Scrafty,Dark,defense,115
+Scrafty,Dark,sp_attack,45
+Scrafty,Dark,sp_defense,115
+Scrafty,Dark,speed,58
+Scraggy,Dark,hp,50
+Scraggy,Dark,attack,75
+Scraggy,Dark,defense,70
+Scraggy,Dark,sp_attack,35
+Scraggy,Dark,sp_defense,70
+Scraggy,Dark,speed,48
+Crustle,Bug,hp,70
+Crustle,Bug,attack,105
+Crustle,Bug,defense,125
+Crustle,Bug,sp_attack,65
+Crustle,Bug,sp_defense,75
+Crustle,Bug,speed,45
+Dwebble,Bug,hp,50
+Dwebble,Bug,attack,65
+Dwebble,Bug,defense,85
+Dwebble,Bug,sp_attack,35
+Dwebble,Bug,sp_defense,35
+Dwebble,Bug,speed,55
+Maractus,Grass,hp,75
+Maractus,Grass,attack,86
+Maractus,Grass,defense,67
+Maractus,Grass,sp_attack,106
+Maractus,Grass,sp_defense,67
+Maractus,Grass,speed,60
+Darmanitan Galarian Zen Mode,Ice,hp,105
+Darmanitan Galarian Zen Mode,Ice,attack,160
+Darmanitan Galarian Zen Mode,Ice,defense,55
+Darmanitan Galarian Zen Mode,Ice,sp_attack,30
+Darmanitan Galarian Zen Mode,Ice,sp_defense,55
+Darmanitan Galarian Zen Mode,Ice,speed,135
+Darmanitan Galarian Standard Mode,Ice,hp,105
+Darmanitan Galarian Standard Mode,Ice,attack,140
+Darmanitan Galarian Standard Mode,Ice,defense,55
+Darmanitan Galarian Standard Mode,Ice,sp_attack,30
+Darmanitan Galarian Standard Mode,Ice,sp_defense,55
+Darmanitan Galarian Standard Mode,Ice,speed,95
+Darmanitan Zen Mode,Fire,hp,105
+Darmanitan Zen Mode,Fire,attack,30
+Darmanitan Zen Mode,Fire,defense,105
+Darmanitan Zen Mode,Fire,sp_attack,140
+Darmanitan Zen Mode,Fire,sp_defense,105
+Darmanitan Zen Mode,Fire,speed,55
+Darmanitan Standard Mode,Fire,hp,105
+Darmanitan Standard Mode,Fire,attack,140
+Darmanitan Standard Mode,Fire,defense,55
+Darmanitan Standard Mode,Fire,sp_attack,30
+Darmanitan Standard Mode,Fire,sp_defense,55
+Darmanitan Standard Mode,Fire,speed,95
+Galarian Darumaka,Ice,hp,70
+Galarian Darumaka,Ice,attack,90
+Galarian Darumaka,Ice,defense,45
+Galarian Darumaka,Ice,sp_attack,15
+Galarian Darumaka,Ice,sp_defense,45
+Galarian Darumaka,Ice,speed,50
+Darumaka,Fire,hp,70
+Darumaka,Fire,attack,90
+Darumaka,Fire,defense,45
+Darumaka,Fire,sp_attack,15
+Darumaka,Fire,sp_defense,45
+Darumaka,Fire,speed,50
+Krookodile,Ground,hp,95
+Krookodile,Ground,attack,117
+Krookodile,Ground,defense,80
+Krookodile,Ground,sp_attack,65
+Krookodile,Ground,sp_defense,70
+Krookodile,Ground,speed,92
+Krokorok,Ground,hp,60
+Krokorok,Ground,attack,82
+Krokorok,Ground,defense,45
+Krokorok,Ground,sp_attack,45
+Krokorok,Ground,sp_defense,45
+Krokorok,Ground,speed,74
+Sandile,Ground,hp,50
+Sandile,Ground,attack,72
+Sandile,Ground,defense,35
+Sandile,Ground,sp_attack,35
+Sandile,Ground,sp_defense,35
+Sandile,Ground,speed,65
+Basculin Blue-Striped Form,Water,hp,70
+Basculin Blue-Striped Form,Water,attack,92
+Basculin Blue-Striped Form,Water,defense,65
+Basculin Blue-Striped Form,Water,sp_attack,80
+Basculin Blue-Striped Form,Water,sp_defense,55
+Basculin Blue-Striped Form,Water,speed,98
+Basculin Red-Striped Form,Water,hp,70
+Basculin Red-Striped Form,Water,attack,92
+Basculin Red-Striped Form,Water,defense,65
+Basculin Red-Striped Form,Water,sp_attack,80
+Basculin Red-Striped Form,Water,sp_defense,55
+Basculin Red-Striped Form,Water,speed,98
+Lilligant,Grass,hp,70
+Lilligant,Grass,attack,60
+Lilligant,Grass,defense,75
+Lilligant,Grass,sp_attack,110
+Lilligant,Grass,sp_defense,75
+Lilligant,Grass,speed,90
+Petilil,Grass,hp,45
+Petilil,Grass,attack,35
+Petilil,Grass,defense,50
+Petilil,Grass,sp_attack,70
+Petilil,Grass,sp_defense,50
+Petilil,Grass,speed,30
+Whimsicott,Grass,hp,60
+Whimsicott,Grass,attack,67
+Whimsicott,Grass,defense,85
+Whimsicott,Grass,sp_attack,77
+Whimsicott,Grass,sp_defense,75
+Whimsicott,Grass,speed,116
+Cottonee,Grass,hp,40
+Cottonee,Grass,attack,27
+Cottonee,Grass,defense,60
+Cottonee,Grass,sp_attack,37
+Cottonee,Grass,sp_defense,50
+Cottonee,Grass,speed,66
+Scolipede,Bug,hp,60
+Scolipede,Bug,attack,100
+Scolipede,Bug,defense,89
+Scolipede,Bug,sp_attack,55
+Scolipede,Bug,sp_defense,69
+Scolipede,Bug,speed,112
+Whirlipede,Bug,hp,40
+Whirlipede,Bug,attack,55
+Whirlipede,Bug,defense,99
+Whirlipede,Bug,sp_attack,40
+Whirlipede,Bug,sp_defense,79
+Whirlipede,Bug,speed,47
+Venipede,Bug,hp,30
+Venipede,Bug,attack,45
+Venipede,Bug,defense,59
+Venipede,Bug,sp_attack,30
+Venipede,Bug,sp_defense,39
+Venipede,Bug,speed,57
+Leavanny,Bug,hp,75
+Leavanny,Bug,attack,103
+Leavanny,Bug,defense,80
+Leavanny,Bug,sp_attack,70
+Leavanny,Bug,sp_defense,80
+Leavanny,Bug,speed,92
+Swadloon,Bug,hp,55
+Swadloon,Bug,attack,63
+Swadloon,Bug,defense,90
+Swadloon,Bug,sp_attack,50
+Swadloon,Bug,sp_defense,80
+Swadloon,Bug,speed,42
+Sewaddle,Bug,hp,45
+Sewaddle,Bug,attack,53
+Sewaddle,Bug,defense,70
+Sewaddle,Bug,sp_attack,40
+Sewaddle,Bug,sp_defense,60
+Sewaddle,Bug,speed,42
+Sawk,Fighting,hp,75
+Sawk,Fighting,attack,125
+Sawk,Fighting,defense,75
+Sawk,Fighting,sp_attack,30
+Sawk,Fighting,sp_defense,75
+Sawk,Fighting,speed,85
+Throh,Fighting,hp,120
+Throh,Fighting,attack,100
+Throh,Fighting,defense,85
+Throh,Fighting,sp_attack,30
+Throh,Fighting,sp_defense,85
+Throh,Fighting,speed,45
+Seismitoad,Water,hp,105
+Seismitoad,Water,attack,95
+Seismitoad,Water,defense,75
+Seismitoad,Water,sp_attack,85
+Seismitoad,Water,sp_defense,75
+Seismitoad,Water,speed,74
+Palpitoad,Water,hp,75
+Palpitoad,Water,attack,65
+Palpitoad,Water,defense,55
+Palpitoad,Water,sp_attack,65
+Palpitoad,Water,sp_defense,55
+Palpitoad,Water,speed,69
+Tympole,Water,hp,50
+Tympole,Water,attack,50
+Tympole,Water,defense,40
+Tympole,Water,sp_attack,50
+Tympole,Water,sp_defense,40
+Tympole,Water,speed,64
+Conkeldurr,Fighting,hp,105
+Conkeldurr,Fighting,attack,140
+Conkeldurr,Fighting,defense,95
+Conkeldurr,Fighting,sp_attack,55
+Conkeldurr,Fighting,sp_defense,65
+Conkeldurr,Fighting,speed,45
+Gurdurr,Fighting,hp,85
+Gurdurr,Fighting,attack,105
+Gurdurr,Fighting,defense,85
+Gurdurr,Fighting,sp_attack,40
+Gurdurr,Fighting,sp_defense,50
+Gurdurr,Fighting,speed,40
+Timburr,Fighting,hp,75
+Timburr,Fighting,attack,80
+Timburr,Fighting,defense,55
+Timburr,Fighting,sp_attack,25
+Timburr,Fighting,sp_defense,35
+Timburr,Fighting,speed,35
+Mega Audino,Normal,hp,103
+Mega Audino,Normal,attack,60
+Mega Audino,Normal,defense,126
+Mega Audino,Normal,sp_attack,80
+Mega Audino,Normal,sp_defense,126
+Mega Audino,Normal,speed,50
+Audino,Normal,hp,103
+Audino,Normal,attack,60
+Audino,Normal,defense,86
+Audino,Normal,sp_attack,60
+Audino,Normal,sp_defense,86
+Audino,Normal,speed,50
+Excadrill,Ground,hp,110
+Excadrill,Ground,attack,135
+Excadrill,Ground,defense,60
+Excadrill,Ground,sp_attack,50
+Excadrill,Ground,sp_defense,65
+Excadrill,Ground,speed,88
+Drilbur,Ground,hp,60
+Drilbur,Ground,attack,85
+Drilbur,Ground,defense,40
+Drilbur,Ground,sp_attack,30
+Drilbur,Ground,sp_defense,45
+Drilbur,Ground,speed,68
+Swoobat,Psychic,hp,67
+Swoobat,Psychic,attack,57
+Swoobat,Psychic,defense,55
+Swoobat,Psychic,sp_attack,77
+Swoobat,Psychic,sp_defense,55
+Swoobat,Psychic,speed,114
+Woobat,Psychic,hp,65
+Woobat,Psychic,attack,45
+Woobat,Psychic,defense,43
+Woobat,Psychic,sp_attack,55
+Woobat,Psychic,sp_defense,43
+Woobat,Psychic,speed,72
+Gigalith,Rock,hp,85
+Gigalith,Rock,attack,135
+Gigalith,Rock,defense,130
+Gigalith,Rock,sp_attack,60
+Gigalith,Rock,sp_defense,80
+Gigalith,Rock,speed,25
+Boldore,Rock,hp,70
+Boldore,Rock,attack,105
+Boldore,Rock,defense,105
+Boldore,Rock,sp_attack,50
+Boldore,Rock,sp_defense,40
+Boldore,Rock,speed,20
+Roggenrola,Rock,hp,55
+Roggenrola,Rock,attack,75
+Roggenrola,Rock,defense,85
+Roggenrola,Rock,sp_attack,25
+Roggenrola,Rock,sp_defense,25
+Roggenrola,Rock,speed,15
+Zebstrika,Electric,hp,75
+Zebstrika,Electric,attack,100
+Zebstrika,Electric,defense,63
+Zebstrika,Electric,sp_attack,80
+Zebstrika,Electric,sp_defense,63
+Zebstrika,Electric,speed,116
+Blitzle,Electric,hp,45
+Blitzle,Electric,attack,60
+Blitzle,Electric,defense,32
+Blitzle,Electric,sp_attack,50
+Blitzle,Electric,sp_defense,32
+Blitzle,Electric,speed,76
+Unfezant,Normal,hp,80
+Unfezant,Normal,attack,115
+Unfezant,Normal,defense,80
+Unfezant,Normal,sp_attack,65
+Unfezant,Normal,sp_defense,55
+Unfezant,Normal,speed,93
+Tranquill,Normal,hp,62
+Tranquill,Normal,attack,77
+Tranquill,Normal,defense,62
+Tranquill,Normal,sp_attack,50
+Tranquill,Normal,sp_defense,42
+Tranquill,Normal,speed,65
+Pidove,Normal,hp,50
+Pidove,Normal,attack,55
+Pidove,Normal,defense,50
+Pidove,Normal,sp_attack,36
+Pidove,Normal,sp_defense,30
+Pidove,Normal,speed,43
+Musharna,Psychic,hp,116
+Musharna,Psychic,attack,55
+Musharna,Psychic,defense,85
+Musharna,Psychic,sp_attack,107
+Musharna,Psychic,sp_defense,95
+Musharna,Psychic,speed,29
+Munna,Psychic,hp,76
+Munna,Psychic,attack,25
+Munna,Psychic,defense,45
+Munna,Psychic,sp_attack,67
+Munna,Psychic,sp_defense,55
+Munna,Psychic,speed,24
+Simipour,Water,hp,75
+Simipour,Water,attack,98
+Simipour,Water,defense,63
+Simipour,Water,sp_attack,98
+Simipour,Water,sp_defense,63
+Simipour,Water,speed,101
+Panpour,Water,hp,50
+Panpour,Water,attack,53
+Panpour,Water,defense,48
+Panpour,Water,sp_attack,53
+Panpour,Water,sp_defense,48
+Panpour,Water,speed,64
+Simisear,Fire,hp,75
+Simisear,Fire,attack,98
+Simisear,Fire,defense,63
+Simisear,Fire,sp_attack,98
+Simisear,Fire,sp_defense,63
+Simisear,Fire,speed,101
+Pansear,Fire,hp,50
+Pansear,Fire,attack,53
+Pansear,Fire,defense,48
+Pansear,Fire,sp_attack,53
+Pansear,Fire,sp_defense,48
+Pansear,Fire,speed,64
+Simisage,Grass,hp,75
+Simisage,Grass,attack,98
+Simisage,Grass,defense,63
+Simisage,Grass,sp_attack,98
+Simisage,Grass,sp_defense,63
+Simisage,Grass,speed,101
+Pansage,Grass,hp,50
+Pansage,Grass,attack,53
+Pansage,Grass,defense,48
+Pansage,Grass,sp_attack,53
+Pansage,Grass,sp_defense,48
+Pansage,Grass,speed,64
+Liepard,Dark,hp,64
+Liepard,Dark,attack,88
+Liepard,Dark,defense,50
+Liepard,Dark,sp_attack,88
+Liepard,Dark,sp_defense,50
+Liepard,Dark,speed,106
+Purrloin,Dark,hp,41
+Purrloin,Dark,attack,50
+Purrloin,Dark,defense,37
+Purrloin,Dark,sp_attack,50
+Purrloin,Dark,sp_defense,37
+Purrloin,Dark,speed,66
+Stoutland,Normal,hp,85
+Stoutland,Normal,attack,110
+Stoutland,Normal,defense,90
+Stoutland,Normal,sp_attack,45
+Stoutland,Normal,sp_defense,90
+Stoutland,Normal,speed,80
+Herdier,Normal,hp,65
+Herdier,Normal,attack,80
+Herdier,Normal,defense,65
+Herdier,Normal,sp_attack,35
+Herdier,Normal,sp_defense,65
+Herdier,Normal,speed,60
+Lillipup,Normal,hp,45
+Lillipup,Normal,attack,60
+Lillipup,Normal,defense,45
+Lillipup,Normal,sp_attack,25
+Lillipup,Normal,sp_defense,45
+Lillipup,Normal,speed,55
+Watchog,Normal,hp,60
+Watchog,Normal,attack,85
+Watchog,Normal,defense,69
+Watchog,Normal,sp_attack,60
+Watchog,Normal,sp_defense,69
+Watchog,Normal,speed,77
+Patrat,Normal,hp,45
+Patrat,Normal,attack,55
+Patrat,Normal,defense,39
+Patrat,Normal,sp_attack,35
+Patrat,Normal,sp_defense,39
+Patrat,Normal,speed,42
+Samurott,Water,hp,95
+Samurott,Water,attack,100
+Samurott,Water,defense,85
+Samurott,Water,sp_attack,108
+Samurott,Water,sp_defense,70
+Samurott,Water,speed,70
+Dewott,Water,hp,75
+Dewott,Water,attack,75
+Dewott,Water,defense,60
+Dewott,Water,sp_attack,83
+Dewott,Water,sp_defense,60
+Dewott,Water,speed,60
+Oshawott,Water,hp,55
+Oshawott,Water,attack,55
+Oshawott,Water,defense,45
+Oshawott,Water,sp_attack,63
+Oshawott,Water,sp_defense,45
+Oshawott,Water,speed,45
+Emboar,Fire,hp,110
+Emboar,Fire,attack,123
+Emboar,Fire,defense,65
+Emboar,Fire,sp_attack,100
+Emboar,Fire,sp_defense,65
+Emboar,Fire,speed,65
+Pignite,Fire,hp,90
+Pignite,Fire,attack,93
+Pignite,Fire,defense,55
+Pignite,Fire,sp_attack,70
+Pignite,Fire,sp_defense,55
+Pignite,Fire,speed,55
+Tepig,Fire,hp,65
+Tepig,Fire,attack,63
+Tepig,Fire,defense,45
+Tepig,Fire,sp_attack,45
+Tepig,Fire,sp_defense,45
+Tepig,Fire,speed,45
+Serperior,Grass,hp,75
+Serperior,Grass,attack,75
+Serperior,Grass,defense,95
+Serperior,Grass,sp_attack,75
+Serperior,Grass,sp_defense,95
+Serperior,Grass,speed,113
+Servine,Grass,hp,60
+Servine,Grass,attack,60
+Servine,Grass,defense,75
+Servine,Grass,sp_attack,60
+Servine,Grass,sp_defense,75
+Servine,Grass,speed,83
+Snivy,Grass,hp,45
+Snivy,Grass,attack,45
+Snivy,Grass,defense,55
+Snivy,Grass,sp_attack,45
+Snivy,Grass,sp_defense,55
+Snivy,Grass,speed,63
+Victini,Psychic,hp,100
+Victini,Psychic,attack,100
+Victini,Psychic,defense,100
+Victini,Psychic,sp_attack,100
+Victini,Psychic,sp_defense,100
+Victini,Psychic,speed,100
+Arceus,Normal,hp,120
+Arceus,Normal,attack,120
+Arceus,Normal,defense,120
+Arceus,Normal,sp_attack,120
+Arceus,Normal,sp_defense,120
+Arceus,Normal,speed,120
+Shaymin Sky Forme,Grass,hp,100
+Shaymin Sky Forme,Grass,attack,103
+Shaymin Sky Forme,Grass,defense,75
+Shaymin Sky Forme,Grass,sp_attack,120
+Shaymin Sky Forme,Grass,sp_defense,75
+Shaymin Sky Forme,Grass,speed,127
+Shaymin Land Forme,Grass,hp,100
+Shaymin Land Forme,Grass,attack,100
+Shaymin Land Forme,Grass,defense,100
+Shaymin Land Forme,Grass,sp_attack,100
+Shaymin Land Forme,Grass,sp_defense,100
+Shaymin Land Forme,Grass,speed,100
+Darkrai,Dark,hp,70
+Darkrai,Dark,attack,90
+Darkrai,Dark,defense,90
+Darkrai,Dark,sp_attack,135
+Darkrai,Dark,sp_defense,90
+Darkrai,Dark,speed,125
+Manaphy,Water,hp,100
+Manaphy,Water,attack,100
+Manaphy,Water,defense,100
+Manaphy,Water,sp_attack,100
+Manaphy,Water,sp_defense,100
+Manaphy,Water,speed,100
+Phione,Water,hp,80
+Phione,Water,attack,80
+Phione,Water,defense,80
+Phione,Water,sp_attack,80
+Phione,Water,sp_defense,80
+Phione,Water,speed,80
+Cresselia,Psychic,hp,120
+Cresselia,Psychic,attack,70
+Cresselia,Psychic,defense,120
+Cresselia,Psychic,sp_attack,75
+Cresselia,Psychic,sp_defense,130
+Cresselia,Psychic,speed,85
+Giratina Origin Forme,Ghost,hp,150
+Giratina Origin Forme,Ghost,attack,120
+Giratina Origin Forme,Ghost,defense,100
+Giratina Origin Forme,Ghost,sp_attack,120
+Giratina Origin Forme,Ghost,sp_defense,100
+Giratina Origin Forme,Ghost,speed,90
+Giratina Altered Forme,Ghost,hp,150
+Giratina Altered Forme,Ghost,attack,100
+Giratina Altered Forme,Ghost,defense,120
+Giratina Altered Forme,Ghost,sp_attack,100
+Giratina Altered Forme,Ghost,sp_defense,120
+Giratina Altered Forme,Ghost,speed,90
+Regigigas,Normal,hp,110
+Regigigas,Normal,attack,160
+Regigigas,Normal,defense,110
+Regigigas,Normal,sp_attack,80
+Regigigas,Normal,sp_defense,110
+Regigigas,Normal,speed,100
+Heatran,Fire,hp,91
+Heatran,Fire,attack,90
+Heatran,Fire,defense,106
+Heatran,Fire,sp_attack,130
+Heatran,Fire,sp_defense,106
+Heatran,Fire,speed,77
+Palkia,Water,hp,90
+Palkia,Water,attack,120
+Palkia,Water,defense,100
+Palkia,Water,sp_attack,150
+Palkia,Water,sp_defense,120
+Palkia,Water,speed,100
+Dialga,Steel,hp,100
+Dialga,Steel,attack,120
+Dialga,Steel,defense,120
+Dialga,Steel,sp_attack,150
+Dialga,Steel,sp_defense,100
+Dialga,Steel,speed,90
+Azelf,Psychic,hp,75
+Azelf,Psychic,attack,125
+Azelf,Psychic,defense,70
+Azelf,Psychic,sp_attack,125
+Azelf,Psychic,sp_defense,70
+Azelf,Psychic,speed,115
+Mesprit,Psychic,hp,80
+Mesprit,Psychic,attack,105
+Mesprit,Psychic,defense,105
+Mesprit,Psychic,sp_attack,105
+Mesprit,Psychic,sp_defense,105
+Mesprit,Psychic,speed,80
+Uxie,Psychic,hp,75
+Uxie,Psychic,attack,75
+Uxie,Psychic,defense,130
+Uxie,Psychic,sp_attack,75
+Uxie,Psychic,sp_defense,130
+Uxie,Psychic,speed,95
+Mow Rotom,Electric,hp,50
+Mow Rotom,Electric,attack,65
+Mow Rotom,Electric,defense,107
+Mow Rotom,Electric,sp_attack,105
+Mow Rotom,Electric,sp_defense,107
+Mow Rotom,Electric,speed,86
+Fan Rotom,Electric,hp,50
+Fan Rotom,Electric,attack,65
+Fan Rotom,Electric,defense,107
+Fan Rotom,Electric,sp_attack,105
+Fan Rotom,Electric,sp_defense,107
+Fan Rotom,Electric,speed,86
+Frost Rotom,Electric,hp,50
+Frost Rotom,Electric,attack,65
+Frost Rotom,Electric,defense,107
+Frost Rotom,Electric,sp_attack,105
+Frost Rotom,Electric,sp_defense,107
+Frost Rotom,Electric,speed,86
+Wash Rotom,Electric,hp,50
+Wash Rotom,Electric,attack,65
+Wash Rotom,Electric,defense,107
+Wash Rotom,Electric,sp_attack,105
+Wash Rotom,Electric,sp_defense,107
+Wash Rotom,Electric,speed,86
+Heat Rotom,Electric,hp,50
+Heat Rotom,Electric,attack,65
+Heat Rotom,Electric,defense,107
+Heat Rotom,Electric,sp_attack,105
+Heat Rotom,Electric,sp_defense,107
+Heat Rotom,Electric,speed,86
+Rotom,Electric,hp,50
+Rotom,Electric,attack,50
+Rotom,Electric,defense,77
+Rotom,Electric,sp_attack,95
+Rotom,Electric,sp_defense,77
+Rotom,Electric,speed,91
+Froslass,Ice,hp,70
+Froslass,Ice,attack,80
+Froslass,Ice,defense,70
+Froslass,Ice,sp_attack,80
+Froslass,Ice,sp_defense,70
+Froslass,Ice,speed,110
+Dusknoir,Ghost,hp,45
+Dusknoir,Ghost,attack,100
+Dusknoir,Ghost,defense,135
+Dusknoir,Ghost,sp_attack,65
+Dusknoir,Ghost,sp_defense,135
+Dusknoir,Ghost,speed,45
+Probopass,Rock,hp,60
+Probopass,Rock,attack,55
+Probopass,Rock,defense,145
+Probopass,Rock,sp_attack,75
+Probopass,Rock,sp_defense,150
+Probopass,Rock,speed,40
+Mega Gallade,Psychic,hp,68
+Mega Gallade,Psychic,attack,165
+Mega Gallade,Psychic,defense,95
+Mega Gallade,Psychic,sp_attack,65
+Mega Gallade,Psychic,sp_defense,115
+Mega Gallade,Psychic,speed,110
+Gallade,Psychic,hp,68
+Gallade,Psychic,attack,125
+Gallade,Psychic,defense,65
+Gallade,Psychic,sp_attack,65
+Gallade,Psychic,sp_defense,115
+Gallade,Psychic,speed,80
+Porygon-Z,Normal,hp,85
+Porygon-Z,Normal,attack,80
+Porygon-Z,Normal,defense,70
+Porygon-Z,Normal,sp_attack,135
+Porygon-Z,Normal,sp_defense,75
+Porygon-Z,Normal,speed,90
+Mamoswine,Ice,hp,110
+Mamoswine,Ice,attack,130
+Mamoswine,Ice,defense,80
+Mamoswine,Ice,sp_attack,70
+Mamoswine,Ice,sp_defense,60
+Mamoswine,Ice,speed,80
+Gliscor,Ground,hp,75
+Gliscor,Ground,attack,95
+Gliscor,Ground,defense,125
+Gliscor,Ground,sp_attack,45
+Gliscor,Ground,sp_defense,75
+Gliscor,Ground,speed,95
+Glaceon,Ice,hp,65
+Glaceon,Ice,attack,60
+Glaceon,Ice,defense,110
+Glaceon,Ice,sp_attack,130
+Glaceon,Ice,sp_defense,95
+Glaceon,Ice,speed,65
+Leafeon,Grass,hp,65
+Leafeon,Grass,attack,110
+Leafeon,Grass,defense,130
+Leafeon,Grass,sp_attack,60
+Leafeon,Grass,sp_defense,65
+Leafeon,Grass,speed,95
+Yanmega,Bug,hp,86
+Yanmega,Bug,attack,76
+Yanmega,Bug,defense,86
+Yanmega,Bug,sp_attack,116
+Yanmega,Bug,sp_defense,56
+Yanmega,Bug,speed,95
+Togekiss,Fairy,hp,85
+Togekiss,Fairy,attack,50
+Togekiss,Fairy,defense,95
+Togekiss,Fairy,sp_attack,120
+Togekiss,Fairy,sp_defense,115
+Togekiss,Fairy,speed,80
+Magmortar,Fire,hp,75
+Magmortar,Fire,attack,95
+Magmortar,Fire,defense,67
+Magmortar,Fire,sp_attack,125
+Magmortar,Fire,sp_defense,95
+Magmortar,Fire,speed,83
+Electivire,Electric,hp,75
+Electivire,Electric,attack,123
+Electivire,Electric,defense,67
+Electivire,Electric,sp_attack,95
+Electivire,Electric,sp_defense,85
+Electivire,Electric,speed,95
+Tangrowth,Grass,hp,100
+Tangrowth,Grass,attack,100
+Tangrowth,Grass,defense,125
+Tangrowth,Grass,sp_attack,110
+Tangrowth,Grass,sp_defense,50
+Tangrowth,Grass,speed,50
+Rhyperior,Ground,hp,115
+Rhyperior,Ground,attack,140
+Rhyperior,Ground,defense,130
+Rhyperior,Ground,sp_attack,55
+Rhyperior,Ground,sp_defense,55
+Rhyperior,Ground,speed,40
+Lickilicky,Normal,hp,110
+Lickilicky,Normal,attack,85
+Lickilicky,Normal,defense,95
+Lickilicky,Normal,sp_attack,80
+Lickilicky,Normal,sp_defense,95
+Lickilicky,Normal,speed,50
+Magnezone,Electric,hp,70
+Magnezone,Electric,attack,70
+Magnezone,Electric,defense,115
+Magnezone,Electric,sp_attack,130
+Magnezone,Electric,sp_defense,90
+Magnezone,Electric,speed,60
+Weavile,Dark,hp,70
+Weavile,Dark,attack,120
+Weavile,Dark,defense,65
+Weavile,Dark,sp_attack,45
+Weavile,Dark,sp_defense,85
+Weavile,Dark,speed,125
+Mega Abomasnow,Grass,hp,90
+Mega Abomasnow,Grass,attack,132
+Mega Abomasnow,Grass,defense,105
+Mega Abomasnow,Grass,sp_attack,132
+Mega Abomasnow,Grass,sp_defense,105
+Mega Abomasnow,Grass,speed,30
+Abomasnow,Grass,hp,90
+Abomasnow,Grass,attack,92
+Abomasnow,Grass,defense,75
+Abomasnow,Grass,sp_attack,92
+Abomasnow,Grass,sp_defense,85
+Abomasnow,Grass,speed,60
+Snover,Grass,hp,60
+Snover,Grass,attack,62
+Snover,Grass,defense,50
+Snover,Grass,sp_attack,62
+Snover,Grass,sp_defense,60
+Snover,Grass,speed,40
+Mantyke,Water,hp,45
+Mantyke,Water,attack,20
+Mantyke,Water,defense,50
+Mantyke,Water,sp_attack,60
+Mantyke,Water,sp_defense,120
+Mantyke,Water,speed,50
+Lumineon,Water,hp,69
+Lumineon,Water,attack,69
+Lumineon,Water,defense,76
+Lumineon,Water,sp_attack,69
+Lumineon,Water,sp_defense,86
+Lumineon,Water,speed,91
+Finneon,Water,hp,49
+Finneon,Water,attack,49
+Finneon,Water,defense,56
+Finneon,Water,sp_attack,49
+Finneon,Water,sp_defense,61
+Finneon,Water,speed,66
+Carnivine,Grass,hp,74
+Carnivine,Grass,attack,100
+Carnivine,Grass,defense,72
+Carnivine,Grass,sp_attack,90
+Carnivine,Grass,sp_defense,72
+Carnivine,Grass,speed,46
+Toxicroak,Poison,hp,83
+Toxicroak,Poison,attack,106
+Toxicroak,Poison,defense,65
+Toxicroak,Poison,sp_attack,86
+Toxicroak,Poison,sp_defense,65
+Toxicroak,Poison,speed,85
+Croagunk,Poison,hp,48
+Croagunk,Poison,attack,61
+Croagunk,Poison,defense,40
+Croagunk,Poison,sp_attack,61
+Croagunk,Poison,sp_defense,40
+Croagunk,Poison,speed,50
+Drapion,Poison,hp,70
+Drapion,Poison,attack,90
+Drapion,Poison,defense,110
+Drapion,Poison,sp_attack,60
+Drapion,Poison,sp_defense,75
+Drapion,Poison,speed,95
+Skorupi,Poison,hp,40
+Skorupi,Poison,attack,50
+Skorupi,Poison,defense,90
+Skorupi,Poison,sp_attack,30
+Skorupi,Poison,sp_defense,55
+Skorupi,Poison,speed,65
+Hippowdon,Ground,hp,108
+Hippowdon,Ground,attack,112
+Hippowdon,Ground,defense,118
+Hippowdon,Ground,sp_attack,68
+Hippowdon,Ground,sp_defense,72
+Hippowdon,Ground,speed,47
+Hippopotas,Ground,hp,68
+Hippopotas,Ground,attack,72
+Hippopotas,Ground,defense,78
+Hippopotas,Ground,sp_attack,38
+Hippopotas,Ground,sp_defense,42
+Hippopotas,Ground,speed,32
+Mega Lucario,Fighting,hp,70
+Mega Lucario,Fighting,attack,145
+Mega Lucario,Fighting,defense,88
+Mega Lucario,Fighting,sp_attack,140
+Mega Lucario,Fighting,sp_defense,70
+Mega Lucario,Fighting,speed,112
+Lucario,Fighting,hp,70
+Lucario,Fighting,attack,110
+Lucario,Fighting,defense,70
+Lucario,Fighting,sp_attack,115
+Lucario,Fighting,sp_defense,70
+Lucario,Fighting,speed,90
+Riolu,Fighting,hp,40
+Riolu,Fighting,attack,70
+Riolu,Fighting,defense,40
+Riolu,Fighting,sp_attack,35
+Riolu,Fighting,sp_defense,40
+Riolu,Fighting,speed,60
+Munchlax,Normal,hp,135
+Munchlax,Normal,attack,85
+Munchlax,Normal,defense,40
+Munchlax,Normal,sp_attack,40
+Munchlax,Normal,sp_defense,85
+Munchlax,Normal,speed,5
+Mega Garchomp,Dragon,hp,108
+Mega Garchomp,Dragon,attack,170
+Mega Garchomp,Dragon,defense,115
+Mega Garchomp,Dragon,sp_attack,120
+Mega Garchomp,Dragon,sp_defense,95
+Mega Garchomp,Dragon,speed,92
+Garchomp,Dragon,hp,108
+Garchomp,Dragon,attack,130
+Garchomp,Dragon,defense,95
+Garchomp,Dragon,sp_attack,80
+Garchomp,Dragon,sp_defense,85
+Garchomp,Dragon,speed,102
+Gabite,Dragon,hp,68
+Gabite,Dragon,attack,90
+Gabite,Dragon,defense,65
+Gabite,Dragon,sp_attack,50
+Gabite,Dragon,sp_defense,55
+Gabite,Dragon,speed,82
+Gible,Dragon,hp,58
+Gible,Dragon,attack,70
+Gible,Dragon,defense,45
+Gible,Dragon,sp_attack,40
+Gible,Dragon,sp_defense,45
+Gible,Dragon,speed,42
+Spiritomb,Ghost,hp,50
+Spiritomb,Ghost,attack,92
+Spiritomb,Ghost,defense,108
+Spiritomb,Ghost,sp_attack,92
+Spiritomb,Ghost,sp_defense,108
+Spiritomb,Ghost,speed,35
+Chatot,Normal,hp,76
+Chatot,Normal,attack,65
+Chatot,Normal,defense,45
+Chatot,Normal,sp_attack,92
+Chatot,Normal,sp_defense,42
+Chatot,Normal,speed,91
+Happiny,Normal,hp,100
+Happiny,Normal,attack,5
+Happiny,Normal,defense,5
+Happiny,Normal,sp_attack,15
+Happiny,Normal,sp_defense,65
+Happiny,Normal,speed,30
+Mime Jr.,Psychic,hp,20
+Mime Jr.,Psychic,attack,25
+Mime Jr.,Psychic,defense,45
+Mime Jr.,Psychic,sp_attack,70
+Mime Jr.,Psychic,sp_defense,90
+Mime Jr.,Psychic,speed,60
+Bonsly,Rock,hp,50
+Bonsly,Rock,attack,80
+Bonsly,Rock,defense,95
+Bonsly,Rock,sp_attack,10
+Bonsly,Rock,sp_defense,45
+Bonsly,Rock,speed,10
+Bronzong,Steel,hp,67
+Bronzong,Steel,attack,89
+Bronzong,Steel,defense,116
+Bronzong,Steel,sp_attack,79
+Bronzong,Steel,sp_defense,116
+Bronzong,Steel,speed,33
+Bronzor,Steel,hp,57
+Bronzor,Steel,attack,24
+Bronzor,Steel,defense,86
+Bronzor,Steel,sp_attack,24
+Bronzor,Steel,sp_defense,86
+Bronzor,Steel,speed,23
+Skuntank,Poison,hp,103
+Skuntank,Poison,attack,93
+Skuntank,Poison,defense,67
+Skuntank,Poison,sp_attack,71
+Skuntank,Poison,sp_defense,61
+Skuntank,Poison,speed,84
+Stunky,Poison,hp,63
+Stunky,Poison,attack,63
+Stunky,Poison,defense,47
+Stunky,Poison,sp_attack,41
+Stunky,Poison,sp_defense,41
+Stunky,Poison,speed,74
+Chingling,Psychic,hp,45
+Chingling,Psychic,attack,30
+Chingling,Psychic,defense,50
+Chingling,Psychic,sp_attack,65
+Chingling,Psychic,sp_defense,50
+Chingling,Psychic,speed,45
+Purugly,Normal,hp,71
+Purugly,Normal,attack,82
+Purugly,Normal,defense,64
+Purugly,Normal,sp_attack,64
+Purugly,Normal,sp_defense,59
+Purugly,Normal,speed,112
+Glameow,Normal,hp,49
+Glameow,Normal,attack,55
+Glameow,Normal,defense,42
+Glameow,Normal,sp_attack,42
+Glameow,Normal,sp_defense,37
+Glameow,Normal,speed,85
+Honchkrow,Dark,hp,100
+Honchkrow,Dark,attack,125
+Honchkrow,Dark,defense,52
+Honchkrow,Dark,sp_attack,105
+Honchkrow,Dark,sp_defense,52
+Honchkrow,Dark,speed,71
+Mismagius,Ghost,hp,60
+Mismagius,Ghost,attack,60
+Mismagius,Ghost,defense,60
+Mismagius,Ghost,sp_attack,105
+Mismagius,Ghost,sp_defense,105
+Mismagius,Ghost,speed,105
+Mega Lopunny,Normal,hp,65
+Mega Lopunny,Normal,attack,136
+Mega Lopunny,Normal,defense,94
+Mega Lopunny,Normal,sp_attack,54
+Mega Lopunny,Normal,sp_defense,96
+Mega Lopunny,Normal,speed,135
+Lopunny,Normal,hp,65
+Lopunny,Normal,attack,76
+Lopunny,Normal,defense,84
+Lopunny,Normal,sp_attack,54
+Lopunny,Normal,sp_defense,96
+Lopunny,Normal,speed,105
+Buneary,Normal,hp,55
+Buneary,Normal,attack,66
+Buneary,Normal,defense,44
+Buneary,Normal,sp_attack,44
+Buneary,Normal,sp_defense,56
+Buneary,Normal,speed,85
+Drifblim,Ghost,hp,150
+Drifblim,Ghost,attack,80
+Drifblim,Ghost,defense,44
+Drifblim,Ghost,sp_attack,90
+Drifblim,Ghost,sp_defense,54
+Drifblim,Ghost,speed,80
+Drifloon,Ghost,hp,90
+Drifloon,Ghost,attack,50
+Drifloon,Ghost,defense,34
+Drifloon,Ghost,sp_attack,60
+Drifloon,Ghost,sp_defense,44
+Drifloon,Ghost,speed,70
+Ambipom,Normal,hp,75
+Ambipom,Normal,attack,100
+Ambipom,Normal,defense,66
+Ambipom,Normal,sp_attack,60
+Ambipom,Normal,sp_defense,66
+Ambipom,Normal,speed,115
+Gastrodon,Water,hp,111
+Gastrodon,Water,attack,83
+Gastrodon,Water,defense,68
+Gastrodon,Water,sp_attack,92
+Gastrodon,Water,sp_defense,82
+Gastrodon,Water,speed,39
+Shellos,Water,hp,76
+Shellos,Water,attack,48
+Shellos,Water,defense,48
+Shellos,Water,sp_attack,57
+Shellos,Water,sp_defense,62
+Shellos,Water,speed,34
+Cherrim,Grass,hp,70
+Cherrim,Grass,attack,60
+Cherrim,Grass,defense,70
+Cherrim,Grass,sp_attack,87
+Cherrim,Grass,sp_defense,78
+Cherrim,Grass,speed,85
+Cherubi,Grass,hp,45
+Cherubi,Grass,attack,35
+Cherubi,Grass,defense,45
+Cherubi,Grass,sp_attack,62
+Cherubi,Grass,sp_defense,53
+Cherubi,Grass,speed,35
+Floatzel,Water,hp,85
+Floatzel,Water,attack,105
+Floatzel,Water,defense,55
+Floatzel,Water,sp_attack,85
+Floatzel,Water,sp_defense,50
+Floatzel,Water,speed,115
+Buizel,Water,hp,55
+Buizel,Water,attack,65
+Buizel,Water,defense,35
+Buizel,Water,sp_attack,60
+Buizel,Water,sp_defense,30
+Buizel,Water,speed,85
+Pachirisu,Electric,hp,60
+Pachirisu,Electric,attack,45
+Pachirisu,Electric,defense,70
+Pachirisu,Electric,sp_attack,45
+Pachirisu,Electric,sp_defense,90
+Pachirisu,Electric,speed,95
+Vespiquen,Bug,hp,70
+Vespiquen,Bug,attack,80
+Vespiquen,Bug,defense,102
+Vespiquen,Bug,sp_attack,80
+Vespiquen,Bug,sp_defense,102
+Vespiquen,Bug,speed,40
+Combee,Bug,hp,30
+Combee,Bug,attack,30
+Combee,Bug,defense,42
+Combee,Bug,sp_attack,30
+Combee,Bug,sp_defense,42
+Combee,Bug,speed,70
+Mothim,Bug,hp,70
+Mothim,Bug,attack,94
+Mothim,Bug,defense,50
+Mothim,Bug,sp_attack,94
+Mothim,Bug,sp_defense,50
+Mothim,Bug,speed,66
+Wormadam Trash Cloak,Bug,hp,60
+Wormadam Trash Cloak,Bug,attack,69
+Wormadam Trash Cloak,Bug,defense,95
+Wormadam Trash Cloak,Bug,sp_attack,69
+Wormadam Trash Cloak,Bug,sp_defense,95
+Wormadam Trash Cloak,Bug,speed,36
+Wormadam Sandy Cloak,Bug,hp,60
+Wormadam Sandy Cloak,Bug,attack,79
+Wormadam Sandy Cloak,Bug,defense,105
+Wormadam Sandy Cloak,Bug,sp_attack,59
+Wormadam Sandy Cloak,Bug,sp_defense,85
+Wormadam Sandy Cloak,Bug,speed,36
+Wormadam Plant Cloak,Bug,hp,60
+Wormadam Plant Cloak,Bug,attack,59
+Wormadam Plant Cloak,Bug,defense,85
+Wormadam Plant Cloak,Bug,sp_attack,79
+Wormadam Plant Cloak,Bug,sp_defense,105
+Wormadam Plant Cloak,Bug,speed,36
+Burmy,Bug,hp,40
+Burmy,Bug,attack,29
+Burmy,Bug,defense,45
+Burmy,Bug,sp_attack,29
+Burmy,Bug,sp_defense,45
+Burmy,Bug,speed,36
+Bastiodon,Rock,hp,60
+Bastiodon,Rock,attack,52
+Bastiodon,Rock,defense,168
+Bastiodon,Rock,sp_attack,47
+Bastiodon,Rock,sp_defense,138
+Bastiodon,Rock,speed,30
+Shieldon,Rock,hp,30
+Shieldon,Rock,attack,42
+Shieldon,Rock,defense,118
+Shieldon,Rock,sp_attack,42
+Shieldon,Rock,sp_defense,88
+Shieldon,Rock,speed,30
+Rampardos,Rock,hp,97
+Rampardos,Rock,attack,165
+Rampardos,Rock,defense,60
+Rampardos,Rock,sp_attack,65
+Rampardos,Rock,sp_defense,50
+Rampardos,Rock,speed,58
+Cranidos,Rock,hp,67
+Cranidos,Rock,attack,125
+Cranidos,Rock,defense,40
+Cranidos,Rock,sp_attack,30
+Cranidos,Rock,sp_defense,30
+Cranidos,Rock,speed,58
+Roserade,Grass,hp,60
+Roserade,Grass,attack,70
+Roserade,Grass,defense,65
+Roserade,Grass,sp_attack,125
+Roserade,Grass,sp_defense,105
+Roserade,Grass,speed,90
+Budew,Grass,hp,40
+Budew,Grass,attack,30
+Budew,Grass,defense,35
+Budew,Grass,sp_attack,50
+Budew,Grass,sp_defense,70
+Budew,Grass,speed,55
+Luxray,Electric,hp,80
+Luxray,Electric,attack,120
+Luxray,Electric,defense,79
+Luxray,Electric,sp_attack,95
+Luxray,Electric,sp_defense,79
+Luxray,Electric,speed,70
+Luxio,Electric,hp,60
+Luxio,Electric,attack,85
+Luxio,Electric,defense,49
+Luxio,Electric,sp_attack,60
+Luxio,Electric,sp_defense,49
+Luxio,Electric,speed,60
+Shinx,Electric,hp,45
+Shinx,Electric,attack,65
+Shinx,Electric,defense,34
+Shinx,Electric,sp_attack,40
+Shinx,Electric,sp_defense,34
+Shinx,Electric,speed,45
+Kricketune,Bug,hp,77
+Kricketune,Bug,attack,85
+Kricketune,Bug,defense,51
+Kricketune,Bug,sp_attack,55
+Kricketune,Bug,sp_defense,51
+Kricketune,Bug,speed,65
+Kricketot,Bug,hp,37
+Kricketot,Bug,attack,25
+Kricketot,Bug,defense,41
+Kricketot,Bug,sp_attack,25
+Kricketot,Bug,sp_defense,41
+Kricketot,Bug,speed,25
+Bibarel,Normal,hp,79
+Bibarel,Normal,attack,85
+Bibarel,Normal,defense,60
+Bibarel,Normal,sp_attack,55
+Bibarel,Normal,sp_defense,60
+Bibarel,Normal,speed,71
+Bidoof,Normal,hp,59
+Bidoof,Normal,attack,45
+Bidoof,Normal,defense,40
+Bidoof,Normal,sp_attack,35
+Bidoof,Normal,sp_defense,40
+Bidoof,Normal,speed,31
+Staraptor,Normal,hp,85
+Staraptor,Normal,attack,120
+Staraptor,Normal,defense,70
+Staraptor,Normal,sp_attack,50
+Staraptor,Normal,sp_defense,60
+Staraptor,Normal,speed,100
+Staravia,Normal,hp,55
+Staravia,Normal,attack,75
+Staravia,Normal,defense,50
+Staravia,Normal,sp_attack,40
+Staravia,Normal,sp_defense,40
+Staravia,Normal,speed,80
+Starly,Normal,hp,40
+Starly,Normal,attack,55
+Starly,Normal,defense,30
+Starly,Normal,sp_attack,30
+Starly,Normal,sp_defense,30
+Starly,Normal,speed,60
+Empoleon,Water,hp,84
+Empoleon,Water,attack,86
+Empoleon,Water,defense,88
+Empoleon,Water,sp_attack,111
+Empoleon,Water,sp_defense,101
+Empoleon,Water,speed,60
+Prinplup,Water,hp,64
+Prinplup,Water,attack,66
+Prinplup,Water,defense,68
+Prinplup,Water,sp_attack,81
+Prinplup,Water,sp_defense,76
+Prinplup,Water,speed,50
+Piplup,Water,hp,53
+Piplup,Water,attack,51
+Piplup,Water,defense,53
+Piplup,Water,sp_attack,61
+Piplup,Water,sp_defense,56
+Piplup,Water,speed,40
+Infernape,Fire,hp,76
+Infernape,Fire,attack,104
+Infernape,Fire,defense,71
+Infernape,Fire,sp_attack,104
+Infernape,Fire,sp_defense,71
+Infernape,Fire,speed,108
+Monferno,Fire,hp,64
+Monferno,Fire,attack,78
+Monferno,Fire,defense,52
+Monferno,Fire,sp_attack,78
+Monferno,Fire,sp_defense,52
+Monferno,Fire,speed,81
+Chimchar,Fire,hp,44
+Chimchar,Fire,attack,58
+Chimchar,Fire,defense,44
+Chimchar,Fire,sp_attack,58
+Chimchar,Fire,sp_defense,44
+Chimchar,Fire,speed,61
+Torterra,Grass,hp,95
+Torterra,Grass,attack,109
+Torterra,Grass,defense,105
+Torterra,Grass,sp_attack,75
+Torterra,Grass,sp_defense,85
+Torterra,Grass,speed,56
+Grotle,Grass,hp,75
+Grotle,Grass,attack,89
+Grotle,Grass,defense,85
+Grotle,Grass,sp_attack,55
+Grotle,Grass,sp_defense,65
+Grotle,Grass,speed,36
+Turtwig,Grass,hp,55
+Turtwig,Grass,attack,68
+Turtwig,Grass,defense,64
+Turtwig,Grass,sp_attack,45
+Turtwig,Grass,sp_defense,55
+Turtwig,Grass,speed,31
+Deoxys Speed Forme,Psychic,hp,50
+Deoxys Speed Forme,Psychic,attack,95
+Deoxys Speed Forme,Psychic,defense,90
+Deoxys Speed Forme,Psychic,sp_attack,95
+Deoxys Speed Forme,Psychic,sp_defense,90
+Deoxys Speed Forme,Psychic,speed,180
+Deoxys Defense Forme,Psychic,hp,50
+Deoxys Defense Forme,Psychic,attack,70
+Deoxys Defense Forme,Psychic,defense,160
+Deoxys Defense Forme,Psychic,sp_attack,70
+Deoxys Defense Forme,Psychic,sp_defense,160
+Deoxys Defense Forme,Psychic,speed,90
+Deoxys Attack Forme,Psychic,hp,50
+Deoxys Attack Forme,Psychic,attack,180
+Deoxys Attack Forme,Psychic,defense,20
+Deoxys Attack Forme,Psychic,sp_attack,180
+Deoxys Attack Forme,Psychic,sp_defense,20
+Deoxys Attack Forme,Psychic,speed,150
+Deoxys Normal Forme,Psychic,hp,50
+Deoxys Normal Forme,Psychic,attack,150
+Deoxys Normal Forme,Psychic,defense,50
+Deoxys Normal Forme,Psychic,sp_attack,150
+Deoxys Normal Forme,Psychic,sp_defense,50
+Deoxys Normal Forme,Psychic,speed,150
+Jirachi,Steel,hp,100
+Jirachi,Steel,attack,100
+Jirachi,Steel,defense,100
+Jirachi,Steel,sp_attack,100
+Jirachi,Steel,sp_defense,100
+Jirachi,Steel,speed,100
+Mega Rayquaza,Dragon,hp,105
+Mega Rayquaza,Dragon,attack,180
+Mega Rayquaza,Dragon,defense,100
+Mega Rayquaza,Dragon,sp_attack,180
+Mega Rayquaza,Dragon,sp_defense,100
+Mega Rayquaza,Dragon,speed,115
+Rayquaza,Dragon,hp,105
+Rayquaza,Dragon,attack,150
+Rayquaza,Dragon,defense,90
+Rayquaza,Dragon,sp_attack,150
+Rayquaza,Dragon,sp_defense,90
+Rayquaza,Dragon,speed,95
+Primal Groudon,Ground,hp,100
+Primal Groudon,Ground,attack,180
+Primal Groudon,Ground,defense,160
+Primal Groudon,Ground,sp_attack,150
+Primal Groudon,Ground,sp_defense,90
+Primal Groudon,Ground,speed,90
+Groudon,Ground,hp,100
+Groudon,Ground,attack,150
+Groudon,Ground,defense,140
+Groudon,Ground,sp_attack,100
+Groudon,Ground,sp_defense,90
+Groudon,Ground,speed,90
+Primal Kyogre,Water,hp,100
+Primal Kyogre,Water,attack,150
+Primal Kyogre,Water,defense,90
+Primal Kyogre,Water,sp_attack,180
+Primal Kyogre,Water,sp_defense,160
+Primal Kyogre,Water,speed,90
+Kyogre,Water,hp,100
+Kyogre,Water,attack,100
+Kyogre,Water,defense,90
+Kyogre,Water,sp_attack,150
+Kyogre,Water,sp_defense,140
+Kyogre,Water,speed,90
+Mega Latios,Dragon,hp,80
+Mega Latios,Dragon,attack,130
+Mega Latios,Dragon,defense,100
+Mega Latios,Dragon,sp_attack,160
+Mega Latios,Dragon,sp_defense,120
+Mega Latios,Dragon,speed,110
+Latios,Dragon,hp,80
+Latios,Dragon,attack,90
+Latios,Dragon,defense,80
+Latios,Dragon,sp_attack,130
+Latios,Dragon,sp_defense,110
+Latios,Dragon,speed,110
+Mega Latias,Dragon,hp,80
+Mega Latias,Dragon,attack,100
+Mega Latias,Dragon,defense,120
+Mega Latias,Dragon,sp_attack,140
+Mega Latias,Dragon,sp_defense,150
+Mega Latias,Dragon,speed,110
+Latias,Dragon,hp,80
+Latias,Dragon,attack,80
+Latias,Dragon,defense,90
+Latias,Dragon,sp_attack,110
+Latias,Dragon,sp_defense,130
+Latias,Dragon,speed,110
+Registeel,Steel,hp,80
+Registeel,Steel,attack,75
+Registeel,Steel,defense,150
+Registeel,Steel,sp_attack,75
+Registeel,Steel,sp_defense,150
+Registeel,Steel,speed,50
+Regice,Ice,hp,80
+Regice,Ice,attack,50
+Regice,Ice,defense,100
+Regice,Ice,sp_attack,100
+Regice,Ice,sp_defense,200
+Regice,Ice,speed,50
+Regirock,Rock,hp,80
+Regirock,Rock,attack,100
+Regirock,Rock,defense,200
+Regirock,Rock,sp_attack,50
+Regirock,Rock,sp_defense,100
+Regirock,Rock,speed,50
+Mega Metagross,Steel,hp,80
+Mega Metagross,Steel,attack,145
+Mega Metagross,Steel,defense,150
+Mega Metagross,Steel,sp_attack,105
+Mega Metagross,Steel,sp_defense,110
+Mega Metagross,Steel,speed,110
+Metagross,Steel,hp,80
+Metagross,Steel,attack,135
+Metagross,Steel,defense,130
+Metagross,Steel,sp_attack,95
+Metagross,Steel,sp_defense,90
+Metagross,Steel,speed,70
+Metang,Steel,hp,60
+Metang,Steel,attack,75
+Metang,Steel,defense,100
+Metang,Steel,sp_attack,55
+Metang,Steel,sp_defense,80
+Metang,Steel,speed,50
+Beldum,Steel,hp,40
+Beldum,Steel,attack,55
+Beldum,Steel,defense,80
+Beldum,Steel,sp_attack,35
+Beldum,Steel,sp_defense,60
+Beldum,Steel,speed,30
+Mega Salamence,Dragon,hp,95
+Mega Salamence,Dragon,attack,145
+Mega Salamence,Dragon,defense,130
+Mega Salamence,Dragon,sp_attack,120
+Mega Salamence,Dragon,sp_defense,90
+Mega Salamence,Dragon,speed,120
+Salamence,Dragon,hp,95
+Salamence,Dragon,attack,135
+Salamence,Dragon,defense,80
+Salamence,Dragon,sp_attack,110
+Salamence,Dragon,sp_defense,80
+Salamence,Dragon,speed,100
+Shelgon,Dragon,hp,65
+Shelgon,Dragon,attack,95
+Shelgon,Dragon,defense,100
+Shelgon,Dragon,sp_attack,60
+Shelgon,Dragon,sp_defense,50
+Shelgon,Dragon,speed,50
+Bagon,Dragon,hp,45
+Bagon,Dragon,attack,75
+Bagon,Dragon,defense,60
+Bagon,Dragon,sp_attack,40
+Bagon,Dragon,sp_defense,30
+Bagon,Dragon,speed,50
+Luvdisc,Water,hp,43
+Luvdisc,Water,attack,30
+Luvdisc,Water,defense,55
+Luvdisc,Water,sp_attack,40
+Luvdisc,Water,sp_defense,65
+Luvdisc,Water,speed,97
+Relicanth,Water,hp,100
+Relicanth,Water,attack,90
+Relicanth,Water,defense,130
+Relicanth,Water,sp_attack,45
+Relicanth,Water,sp_defense,65
+Relicanth,Water,speed,55
+Gorebyss,Water,hp,55
+Gorebyss,Water,attack,84
+Gorebyss,Water,defense,105
+Gorebyss,Water,sp_attack,114
+Gorebyss,Water,sp_defense,75
+Gorebyss,Water,speed,52
+Huntail,Water,hp,55
+Huntail,Water,attack,104
+Huntail,Water,defense,105
+Huntail,Water,sp_attack,94
+Huntail,Water,sp_defense,75
+Huntail,Water,speed,52
+Clamperl,Water,hp,35
+Clamperl,Water,attack,64
+Clamperl,Water,defense,85
+Clamperl,Water,sp_attack,74
+Clamperl,Water,sp_defense,55
+Clamperl,Water,speed,32
+Walrein,Ice,hp,110
+Walrein,Ice,attack,80
+Walrein,Ice,defense,90
+Walrein,Ice,sp_attack,95
+Walrein,Ice,sp_defense,90
+Walrein,Ice,speed,65
+Sealeo,Ice,hp,90
+Sealeo,Ice,attack,60
+Sealeo,Ice,defense,70
+Sealeo,Ice,sp_attack,75
+Sealeo,Ice,sp_defense,70
+Sealeo,Ice,speed,45
+Spheal,Ice,hp,70
+Spheal,Ice,attack,40
+Spheal,Ice,defense,50
+Spheal,Ice,sp_attack,55
+Spheal,Ice,sp_defense,50
+Spheal,Ice,speed,25
+Mega Glalie,Ice,hp,80
+Mega Glalie,Ice,attack,120
+Mega Glalie,Ice,defense,80
+Mega Glalie,Ice,sp_attack,120
+Mega Glalie,Ice,sp_defense,80
+Mega Glalie,Ice,speed,100
+Glalie,Ice,hp,80
+Glalie,Ice,attack,80
+Glalie,Ice,defense,80
+Glalie,Ice,sp_attack,80
+Glalie,Ice,sp_defense,80
+Glalie,Ice,speed,80
+Snorunt,Ice,hp,50
+Snorunt,Ice,attack,50
+Snorunt,Ice,defense,50
+Snorunt,Ice,sp_attack,50
+Snorunt,Ice,sp_defense,50
+Snorunt,Ice,speed,50
+Wynaut,Psychic,hp,95
+Wynaut,Psychic,attack,23
+Wynaut,Psychic,defense,48
+Wynaut,Psychic,sp_attack,23
+Wynaut,Psychic,sp_defense,48
+Wynaut,Psychic,speed,23
+Mega Absol,Dark,hp,65
+Mega Absol,Dark,attack,150
+Mega Absol,Dark,defense,60
+Mega Absol,Dark,sp_attack,115
+Mega Absol,Dark,sp_defense,60
+Mega Absol,Dark,speed,115
+Absol,Dark,hp,65
+Absol,Dark,attack,130
+Absol,Dark,defense,60
+Absol,Dark,sp_attack,75
+Absol,Dark,sp_defense,60
+Absol,Dark,speed,75
+Chimecho,Psychic,hp,75
+Chimecho,Psychic,attack,50
+Chimecho,Psychic,defense,80
+Chimecho,Psychic,sp_attack,95
+Chimecho,Psychic,sp_defense,90
+Chimecho,Psychic,speed,65
+Tropius,Grass,hp,99
+Tropius,Grass,attack,68
+Tropius,Grass,defense,83
+Tropius,Grass,sp_attack,72
+Tropius,Grass,sp_defense,87
+Tropius,Grass,speed,51
+Dusclops,Ghost,hp,40
+Dusclops,Ghost,attack,70
+Dusclops,Ghost,defense,130
+Dusclops,Ghost,sp_attack,60
+Dusclops,Ghost,sp_defense,130
+Dusclops,Ghost,speed,25
+Duskull,Ghost,hp,20
+Duskull,Ghost,attack,40
+Duskull,Ghost,defense,90
+Duskull,Ghost,sp_attack,30
+Duskull,Ghost,sp_defense,90
+Duskull,Ghost,speed,25
+Mega Banette,Ghost,hp,64
+Mega Banette,Ghost,attack,165
+Mega Banette,Ghost,defense,75
+Mega Banette,Ghost,sp_attack,93
+Mega Banette,Ghost,sp_defense,83
+Mega Banette,Ghost,speed,75
+Banette,Ghost,hp,64
+Banette,Ghost,attack,115
+Banette,Ghost,defense,65
+Banette,Ghost,sp_attack,83
+Banette,Ghost,sp_defense,63
+Banette,Ghost,speed,65
+Shuppet,Ghost,hp,44
+Shuppet,Ghost,attack,75
+Shuppet,Ghost,defense,35
+Shuppet,Ghost,sp_attack,63
+Shuppet,Ghost,sp_defense,33
+Shuppet,Ghost,speed,45
+Kecleon,Normal,hp,60
+Kecleon,Normal,attack,90
+Kecleon,Normal,defense,70
+Kecleon,Normal,sp_attack,60
+Kecleon,Normal,sp_defense,120
+Kecleon,Normal,speed,40
+Castform Snowy Form,Ice,hp,70
+Castform Snowy Form,Ice,attack,70
+Castform Snowy Form,Ice,defense,70
+Castform Snowy Form,Ice,sp_attack,70
+Castform Snowy Form,Ice,sp_defense,70
+Castform Snowy Form,Ice,speed,70
+Castform Rainy Form,Water,hp,70
+Castform Rainy Form,Water,attack,70
+Castform Rainy Form,Water,defense,70
+Castform Rainy Form,Water,sp_attack,70
+Castform Rainy Form,Water,sp_defense,70
+Castform Rainy Form,Water,speed,70
+Castform Sunny Form,Fire,hp,70
+Castform Sunny Form,Fire,attack,70
+Castform Sunny Form,Fire,defense,70
+Castform Sunny Form,Fire,sp_attack,70
+Castform Sunny Form,Fire,sp_defense,70
+Castform Sunny Form,Fire,speed,70
+Castform,Normal,hp,70
+Castform,Normal,attack,70
+Castform,Normal,defense,70
+Castform,Normal,sp_attack,70
+Castform,Normal,sp_defense,70
+Castform,Normal,speed,70
+Milotic,Water,hp,95
+Milotic,Water,attack,60
+Milotic,Water,defense,79
+Milotic,Water,sp_attack,100
+Milotic,Water,sp_defense,125
+Milotic,Water,speed,81
+Feebas,Water,hp,20
+Feebas,Water,attack,15
+Feebas,Water,defense,20
+Feebas,Water,sp_attack,10
+Feebas,Water,sp_defense,55
+Feebas,Water,speed,80
+Armaldo,Rock,hp,75
+Armaldo,Rock,attack,125
+Armaldo,Rock,defense,100
+Armaldo,Rock,sp_attack,70
+Armaldo,Rock,sp_defense,80
+Armaldo,Rock,speed,45
+Anorith,Rock,hp,45
+Anorith,Rock,attack,95
+Anorith,Rock,defense,50
+Anorith,Rock,sp_attack,40
+Anorith,Rock,sp_defense,50
+Anorith,Rock,speed,75
+Cradily,Rock,hp,86
+Cradily,Rock,attack,81
+Cradily,Rock,defense,97
+Cradily,Rock,sp_attack,81
+Cradily,Rock,sp_defense,107
+Cradily,Rock,speed,43
+Lileep,Rock,hp,66
+Lileep,Rock,attack,41
+Lileep,Rock,defense,77
+Lileep,Rock,sp_attack,61
+Lileep,Rock,sp_defense,87
+Lileep,Rock,speed,23
+Claydol,Ground,hp,60
+Claydol,Ground,attack,70
+Claydol,Ground,defense,105
+Claydol,Ground,sp_attack,70
+Claydol,Ground,sp_defense,120
+Claydol,Ground,speed,75
+Baltoy,Ground,hp,40
+Baltoy,Ground,attack,40
+Baltoy,Ground,defense,55
+Baltoy,Ground,sp_attack,40
+Baltoy,Ground,sp_defense,70
+Baltoy,Ground,speed,55
+Crawdaunt,Water,hp,63
+Crawdaunt,Water,attack,120
+Crawdaunt,Water,defense,85
+Crawdaunt,Water,sp_attack,90
+Crawdaunt,Water,sp_defense,55
+Crawdaunt,Water,speed,55
+Corphish,Water,hp,43
+Corphish,Water,attack,80
+Corphish,Water,defense,65
+Corphish,Water,sp_attack,50
+Corphish,Water,sp_defense,35
+Corphish,Water,speed,35
+Whiscash,Water,hp,110
+Whiscash,Water,attack,78
+Whiscash,Water,defense,73
+Whiscash,Water,sp_attack,76
+Whiscash,Water,sp_defense,71
+Whiscash,Water,speed,60
+Barboach,Water,hp,50
+Barboach,Water,attack,48
+Barboach,Water,defense,43
+Barboach,Water,sp_attack,46
+Barboach,Water,sp_defense,41
+Barboach,Water,speed,60
+Solrock,Rock,hp,90
+Solrock,Rock,attack,95
+Solrock,Rock,defense,85
+Solrock,Rock,sp_attack,55
+Solrock,Rock,sp_defense,65
+Solrock,Rock,speed,70
+Lunatone,Rock,hp,90
+Lunatone,Rock,attack,55
+Lunatone,Rock,defense,65
+Lunatone,Rock,sp_attack,95
+Lunatone,Rock,sp_defense,85
+Lunatone,Rock,speed,70
+Seviper,Poison,hp,73
+Seviper,Poison,attack,100
+Seviper,Poison,defense,60
+Seviper,Poison,sp_attack,100
+Seviper,Poison,sp_defense,60
+Seviper,Poison,speed,65
+Zangoose,Normal,hp,73
+Zangoose,Normal,attack,115
+Zangoose,Normal,defense,60
+Zangoose,Normal,sp_attack,60
+Zangoose,Normal,sp_defense,60
+Zangoose,Normal,speed,90
+Mega Altaria,Dragon,hp,75
+Mega Altaria,Dragon,attack,110
+Mega Altaria,Dragon,defense,110
+Mega Altaria,Dragon,sp_attack,110
+Mega Altaria,Dragon,sp_defense,105
+Mega Altaria,Dragon,speed,80
+Altaria,Dragon,hp,75
+Altaria,Dragon,attack,70
+Altaria,Dragon,defense,90
+Altaria,Dragon,sp_attack,70
+Altaria,Dragon,sp_defense,105
+Altaria,Dragon,speed,80
+Swablu,Normal,hp,45
+Swablu,Normal,attack,40
+Swablu,Normal,defense,60
+Swablu,Normal,sp_attack,40
+Swablu,Normal,sp_defense,75
+Swablu,Normal,speed,50
+Cacturne,Grass,hp,70
+Cacturne,Grass,attack,115
+Cacturne,Grass,defense,60
+Cacturne,Grass,sp_attack,115
+Cacturne,Grass,sp_defense,60
+Cacturne,Grass,speed,55
+Cacnea,Grass,hp,50
+Cacnea,Grass,attack,85
+Cacnea,Grass,defense,40
+Cacnea,Grass,sp_attack,85
+Cacnea,Grass,sp_defense,40
+Cacnea,Grass,speed,35
+Flygon,Ground,hp,80
+Flygon,Ground,attack,100
+Flygon,Ground,defense,80
+Flygon,Ground,sp_attack,80
+Flygon,Ground,sp_defense,80
+Flygon,Ground,speed,100
+Vibrava,Ground,hp,50
+Vibrava,Ground,attack,70
+Vibrava,Ground,defense,50
+Vibrava,Ground,sp_attack,50
+Vibrava,Ground,sp_defense,50
+Vibrava,Ground,speed,70
+Trapinch,Ground,hp,45
+Trapinch,Ground,attack,100
+Trapinch,Ground,defense,45
+Trapinch,Ground,sp_attack,45
+Trapinch,Ground,sp_defense,45
+Trapinch,Ground,speed,10
+Spinda,Normal,hp,60
+Spinda,Normal,attack,60
+Spinda,Normal,defense,60
+Spinda,Normal,sp_attack,60
+Spinda,Normal,sp_defense,60
+Spinda,Normal,speed,60
+Grumpig,Psychic,hp,80
+Grumpig,Psychic,attack,45
+Grumpig,Psychic,defense,65
+Grumpig,Psychic,sp_attack,90
+Grumpig,Psychic,sp_defense,110
+Grumpig,Psychic,speed,80
+Spoink,Psychic,hp,60
+Spoink,Psychic,attack,25
+Spoink,Psychic,defense,35
+Spoink,Psychic,sp_attack,70
+Spoink,Psychic,sp_defense,80
+Spoink,Psychic,speed,60
+Torkoal,Fire,hp,70
+Torkoal,Fire,attack,85
+Torkoal,Fire,defense,140
+Torkoal,Fire,sp_attack,85
+Torkoal,Fire,sp_defense,70
+Torkoal,Fire,speed,20
+Mega Camerupt,Fire,hp,70
+Mega Camerupt,Fire,attack,120
+Mega Camerupt,Fire,defense,100
+Mega Camerupt,Fire,sp_attack,145
+Mega Camerupt,Fire,sp_defense,105
+Mega Camerupt,Fire,speed,20
+Camerupt,Fire,hp,70
+Camerupt,Fire,attack,100
+Camerupt,Fire,defense,70
+Camerupt,Fire,sp_attack,105
+Camerupt,Fire,sp_defense,75
+Camerupt,Fire,speed,40
+Numel,Fire,hp,60
+Numel,Fire,attack,60
+Numel,Fire,defense,40
+Numel,Fire,sp_attack,65
+Numel,Fire,sp_defense,45
+Numel,Fire,speed,35
+Wailord,Water,hp,170
+Wailord,Water,attack,90
+Wailord,Water,defense,45
+Wailord,Water,sp_attack,90
+Wailord,Water,sp_defense,45
+Wailord,Water,speed,60
+Wailmer,Water,hp,130
+Wailmer,Water,attack,70
+Wailmer,Water,defense,35
+Wailmer,Water,sp_attack,70
+Wailmer,Water,sp_defense,35
+Wailmer,Water,speed,60
+Mega Sharpedo,Water,hp,70
+Mega Sharpedo,Water,attack,140
+Mega Sharpedo,Water,defense,70
+Mega Sharpedo,Water,sp_attack,110
+Mega Sharpedo,Water,sp_defense,65
+Mega Sharpedo,Water,speed,105
+Sharpedo,Water,hp,70
+Sharpedo,Water,attack,120
+Sharpedo,Water,defense,40
+Sharpedo,Water,sp_attack,95
+Sharpedo,Water,sp_defense,40
+Sharpedo,Water,speed,95
+Carvanha,Water,hp,45
+Carvanha,Water,attack,90
+Carvanha,Water,defense,20
+Carvanha,Water,sp_attack,65
+Carvanha,Water,sp_defense,20
+Carvanha,Water,speed,65
+Swalot,Poison,hp,100
+Swalot,Poison,attack,73
+Swalot,Poison,defense,83
+Swalot,Poison,sp_attack,73
+Swalot,Poison,sp_defense,83
+Swalot,Poison,speed,55
+Gulpin,Poison,hp,70
+Gulpin,Poison,attack,43
+Gulpin,Poison,defense,53
+Gulpin,Poison,sp_attack,43
+Gulpin,Poison,sp_defense,53
+Gulpin,Poison,speed,40
+Roselia,Grass,hp,50
+Roselia,Grass,attack,60
+Roselia,Grass,defense,45
+Roselia,Grass,sp_attack,100
+Roselia,Grass,sp_defense,80
+Roselia,Grass,speed,65
+Illumise,Bug,hp,65
+Illumise,Bug,attack,47
+Illumise,Bug,defense,75
+Illumise,Bug,sp_attack,73
+Illumise,Bug,sp_defense,85
+Illumise,Bug,speed,85
+Volbeat,Bug,hp,65
+Volbeat,Bug,attack,73
+Volbeat,Bug,defense,75
+Volbeat,Bug,sp_attack,47
+Volbeat,Bug,sp_defense,85
+Volbeat,Bug,speed,85
+Minun,Electric,hp,60
+Minun,Electric,attack,40
+Minun,Electric,defense,50
+Minun,Electric,sp_attack,75
+Minun,Electric,sp_defense,85
+Minun,Electric,speed,95
+Plusle,Electric,hp,60
+Plusle,Electric,attack,50
+Plusle,Electric,defense,40
+Plusle,Electric,sp_attack,85
+Plusle,Electric,sp_defense,75
+Plusle,Electric,speed,95
+Mega Manectric,Electric,hp,70
+Mega Manectric,Electric,attack,75
+Mega Manectric,Electric,defense,80
+Mega Manectric,Electric,sp_attack,135
+Mega Manectric,Electric,sp_defense,80
+Mega Manectric,Electric,speed,135
+Manectric,Electric,hp,70
+Manectric,Electric,attack,75
+Manectric,Electric,defense,60
+Manectric,Electric,sp_attack,105
+Manectric,Electric,sp_defense,60
+Manectric,Electric,speed,105
+Electrike,Electric,hp,40
+Electrike,Electric,attack,45
+Electrike,Electric,defense,40
+Electrike,Electric,sp_attack,65
+Electrike,Electric,sp_defense,40
+Electrike,Electric,speed,65
+Mega Medicham,Fighting,hp,60
+Mega Medicham,Fighting,attack,100
+Mega Medicham,Fighting,defense,85
+Mega Medicham,Fighting,sp_attack,80
+Mega Medicham,Fighting,sp_defense,85
+Mega Medicham,Fighting,speed,100
+Medicham,Fighting,hp,60
+Medicham,Fighting,attack,60
+Medicham,Fighting,defense,75
+Medicham,Fighting,sp_attack,60
+Medicham,Fighting,sp_defense,75
+Medicham,Fighting,speed,80
+Meditite,Fighting,hp,30
+Meditite,Fighting,attack,40
+Meditite,Fighting,defense,55
+Meditite,Fighting,sp_attack,40
+Meditite,Fighting,sp_defense,55
+Meditite,Fighting,speed,60
+Mega Aggron,Steel,hp,70
+Mega Aggron,Steel,attack,140
+Mega Aggron,Steel,defense,230
+Mega Aggron,Steel,sp_attack,60
+Mega Aggron,Steel,sp_defense,80
+Mega Aggron,Steel,speed,50
+Aggron,Steel,hp,70
+Aggron,Steel,attack,110
+Aggron,Steel,defense,180
+Aggron,Steel,sp_attack,60
+Aggron,Steel,sp_defense,60
+Aggron,Steel,speed,50
+Lairon,Steel,hp,60
+Lairon,Steel,attack,90
+Lairon,Steel,defense,140
+Lairon,Steel,sp_attack,50
+Lairon,Steel,sp_defense,50
+Lairon,Steel,speed,40
+Aron,Steel,hp,50
+Aron,Steel,attack,70
+Aron,Steel,defense,100
+Aron,Steel,sp_attack,40
+Aron,Steel,sp_defense,40
+Aron,Steel,speed,30
+Mega Mawile,Steel,hp,50
+Mega Mawile,Steel,attack,105
+Mega Mawile,Steel,defense,125
+Mega Mawile,Steel,sp_attack,55
+Mega Mawile,Steel,sp_defense,95
+Mega Mawile,Steel,speed,50
+Mawile,Steel,hp,50
+Mawile,Steel,attack,85
+Mawile,Steel,defense,85
+Mawile,Steel,sp_attack,55
+Mawile,Steel,sp_defense,55
+Mawile,Steel,speed,50
+Mega Sableye,Dark,hp,50
+Mega Sableye,Dark,attack,85
+Mega Sableye,Dark,defense,125
+Mega Sableye,Dark,sp_attack,85
+Mega Sableye,Dark,sp_defense,115
+Mega Sableye,Dark,speed,20
+Sableye,Dark,hp,50
+Sableye,Dark,attack,75
+Sableye,Dark,defense,75
+Sableye,Dark,sp_attack,65
+Sableye,Dark,sp_defense,65
+Sableye,Dark,speed,50
+Delcatty,Normal,hp,70
+Delcatty,Normal,attack,65
+Delcatty,Normal,defense,65
+Delcatty,Normal,sp_attack,55
+Delcatty,Normal,sp_defense,55
+Delcatty,Normal,speed,90
+Skitty,Normal,hp,50
+Skitty,Normal,attack,45
+Skitty,Normal,defense,45
+Skitty,Normal,sp_attack,35
+Skitty,Normal,sp_defense,35
+Skitty,Normal,speed,50
+Nosepass,Rock,hp,30
+Nosepass,Rock,attack,45
+Nosepass,Rock,defense,135
+Nosepass,Rock,sp_attack,45
+Nosepass,Rock,sp_defense,90
+Nosepass,Rock,speed,30
+Azurill,Normal,hp,50
+Azurill,Normal,attack,20
+Azurill,Normal,defense,40
+Azurill,Normal,sp_attack,20
+Azurill,Normal,sp_defense,40
+Azurill,Normal,speed,20
+Hariyama,Fighting,hp,144
+Hariyama,Fighting,attack,120
+Hariyama,Fighting,defense,60
+Hariyama,Fighting,sp_attack,40
+Hariyama,Fighting,sp_defense,60
+Hariyama,Fighting,speed,50
+Makuhita,Fighting,hp,72
+Makuhita,Fighting,attack,60
+Makuhita,Fighting,defense,30
+Makuhita,Fighting,sp_attack,20
+Makuhita,Fighting,sp_defense,30
+Makuhita,Fighting,speed,25
+Exploud,Normal,hp,104
+Exploud,Normal,attack,91
+Exploud,Normal,defense,63
+Exploud,Normal,sp_attack,91
+Exploud,Normal,sp_defense,73
+Exploud,Normal,speed,68
+Loudred,Normal,hp,84
+Loudred,Normal,attack,71
+Loudred,Normal,defense,43
+Loudred,Normal,sp_attack,71
+Loudred,Normal,sp_defense,43
+Loudred,Normal,speed,48
+Whismur,Normal,hp,64
+Whismur,Normal,attack,51
+Whismur,Normal,defense,23
+Whismur,Normal,sp_attack,51
+Whismur,Normal,sp_defense,23
+Whismur,Normal,speed,28
+Shedinja,Bug,hp,1
+Shedinja,Bug,attack,90
+Shedinja,Bug,defense,45
+Shedinja,Bug,sp_attack,30
+Shedinja,Bug,sp_defense,30
+Shedinja,Bug,speed,40
+Ninjask,Bug,hp,61
+Ninjask,Bug,attack,90
+Ninjask,Bug,defense,45
+Ninjask,Bug,sp_attack,50
+Ninjask,Bug,sp_defense,50
+Ninjask,Bug,speed,160
+Nincada,Bug,hp,31
+Nincada,Bug,attack,45
+Nincada,Bug,defense,90
+Nincada,Bug,sp_attack,30
+Nincada,Bug,sp_defense,30
+Nincada,Bug,speed,40
+Slaking,Normal,hp,150
+Slaking,Normal,attack,160
+Slaking,Normal,defense,100
+Slaking,Normal,sp_attack,95
+Slaking,Normal,sp_defense,65
+Slaking,Normal,speed,100
+Vigoroth,Normal,hp,80
+Vigoroth,Normal,attack,80
+Vigoroth,Normal,defense,80
+Vigoroth,Normal,sp_attack,55
+Vigoroth,Normal,sp_defense,55
+Vigoroth,Normal,speed,90
+Slakoth,Normal,hp,60
+Slakoth,Normal,attack,60
+Slakoth,Normal,defense,60
+Slakoth,Normal,sp_attack,35
+Slakoth,Normal,sp_defense,35
+Slakoth,Normal,speed,30
+Breloom,Grass,hp,60
+Breloom,Grass,attack,130
+Breloom,Grass,defense,80
+Breloom,Grass,sp_attack,60
+Breloom,Grass,sp_defense,60
+Breloom,Grass,speed,70
+Shroomish,Grass,hp,60
+Shroomish,Grass,attack,40
+Shroomish,Grass,defense,60
+Shroomish,Grass,sp_attack,40
+Shroomish,Grass,sp_defense,60
+Shroomish,Grass,speed,35
+Masquerain,Bug,hp,70
+Masquerain,Bug,attack,60
+Masquerain,Bug,defense,62
+Masquerain,Bug,sp_attack,100
+Masquerain,Bug,sp_defense,82
+Masquerain,Bug,speed,80
+Surskit,Bug,hp,40
+Surskit,Bug,attack,30
+Surskit,Bug,defense,32
+Surskit,Bug,sp_attack,50
+Surskit,Bug,sp_defense,52
+Surskit,Bug,speed,65
+Mega Gardevoir,Psychic,hp,68
+Mega Gardevoir,Psychic,attack,85
+Mega Gardevoir,Psychic,defense,65
+Mega Gardevoir,Psychic,sp_attack,165
+Mega Gardevoir,Psychic,sp_defense,135
+Mega Gardevoir,Psychic,speed,100
+Gardevoir,Psychic,hp,68
+Gardevoir,Psychic,attack,65
+Gardevoir,Psychic,defense,65
+Gardevoir,Psychic,sp_attack,125
+Gardevoir,Psychic,sp_defense,115
+Gardevoir,Psychic,speed,80
+Kirlia,Psychic,hp,38
+Kirlia,Psychic,attack,35
+Kirlia,Psychic,defense,35
+Kirlia,Psychic,sp_attack,65
+Kirlia,Psychic,sp_defense,55
+Kirlia,Psychic,speed,50
+Ralts,Psychic,hp,28
+Ralts,Psychic,attack,25
+Ralts,Psychic,defense,25
+Ralts,Psychic,sp_attack,45
+Ralts,Psychic,sp_defense,35
+Ralts,Psychic,speed,40
+Pelipper,Water,hp,60
+Pelipper,Water,attack,50
+Pelipper,Water,defense,100
+Pelipper,Water,sp_attack,95
+Pelipper,Water,sp_defense,70
+Pelipper,Water,speed,65
+Wingull,Water,hp,40
+Wingull,Water,attack,30
+Wingull,Water,defense,30
+Wingull,Water,sp_attack,55
+Wingull,Water,sp_defense,30
+Wingull,Water,speed,85
+Swellow,Normal,hp,60
+Swellow,Normal,attack,85
+Swellow,Normal,defense,60
+Swellow,Normal,sp_attack,75
+Swellow,Normal,sp_defense,50
+Swellow,Normal,speed,125
+Taillow,Normal,hp,40
+Taillow,Normal,attack,55
+Taillow,Normal,defense,30
+Taillow,Normal,sp_attack,30
+Taillow,Normal,sp_defense,30
+Taillow,Normal,speed,85
+Shiftry,Grass,hp,90
+Shiftry,Grass,attack,100
+Shiftry,Grass,defense,60
+Shiftry,Grass,sp_attack,90
+Shiftry,Grass,sp_defense,60
+Shiftry,Grass,speed,80
+Nuzleaf,Grass,hp,70
+Nuzleaf,Grass,attack,70
+Nuzleaf,Grass,defense,40
+Nuzleaf,Grass,sp_attack,60
+Nuzleaf,Grass,sp_defense,40
+Nuzleaf,Grass,speed,60
+Seedot,Grass,hp,40
+Seedot,Grass,attack,40
+Seedot,Grass,defense,50
+Seedot,Grass,sp_attack,30
+Seedot,Grass,sp_defense,30
+Seedot,Grass,speed,30
+Ludicolo,Water,hp,80
+Ludicolo,Water,attack,70
+Ludicolo,Water,defense,70
+Ludicolo,Water,sp_attack,90
+Ludicolo,Water,sp_defense,100
+Ludicolo,Water,speed,70
+Lombre,Water,hp,60
+Lombre,Water,attack,50
+Lombre,Water,defense,50
+Lombre,Water,sp_attack,60
+Lombre,Water,sp_defense,70
+Lombre,Water,speed,50
+Lotad,Water,hp,40
+Lotad,Water,attack,30
+Lotad,Water,defense,30
+Lotad,Water,sp_attack,40
+Lotad,Water,sp_defense,50
+Lotad,Water,speed,30
+Dustox,Bug,hp,60
+Dustox,Bug,attack,50
+Dustox,Bug,defense,70
+Dustox,Bug,sp_attack,50
+Dustox,Bug,sp_defense,90
+Dustox,Bug,speed,65
+Cascoon,Bug,hp,50
+Cascoon,Bug,attack,35
+Cascoon,Bug,defense,55
+Cascoon,Bug,sp_attack,25
+Cascoon,Bug,sp_defense,25
+Cascoon,Bug,speed,15
+Beautifly,Bug,hp,60
+Beautifly,Bug,attack,70
+Beautifly,Bug,defense,50
+Beautifly,Bug,sp_attack,100
+Beautifly,Bug,sp_defense,50
+Beautifly,Bug,speed,65
+Silcoon,Bug,hp,50
+Silcoon,Bug,attack,35
+Silcoon,Bug,defense,55
+Silcoon,Bug,sp_attack,25
+Silcoon,Bug,sp_defense,25
+Silcoon,Bug,speed,15
+Wurmple,Bug,hp,45
+Wurmple,Bug,attack,45
+Wurmple,Bug,defense,35
+Wurmple,Bug,sp_attack,20
+Wurmple,Bug,sp_defense,30
+Wurmple,Bug,speed,20
+Galarian Linoone,Dark,hp,78
+Galarian Linoone,Dark,attack,70
+Galarian Linoone,Dark,defense,61
+Galarian Linoone,Dark,sp_attack,50
+Galarian Linoone,Dark,sp_defense,61
+Galarian Linoone,Dark,speed,100
+Linoone,Normal,hp,78
+Linoone,Normal,attack,70
+Linoone,Normal,defense,61
+Linoone,Normal,sp_attack,50
+Linoone,Normal,sp_defense,61
+Linoone,Normal,speed,100
+Galarian Zigzagoon,Dark,hp,38
+Galarian Zigzagoon,Dark,attack,30
+Galarian Zigzagoon,Dark,defense,41
+Galarian Zigzagoon,Dark,sp_attack,30
+Galarian Zigzagoon,Dark,sp_defense,41
+Galarian Zigzagoon,Dark,speed,60
+Zigzagoon,Normal,hp,38
+Zigzagoon,Normal,attack,30
+Zigzagoon,Normal,defense,41
+Zigzagoon,Normal,sp_attack,30
+Zigzagoon,Normal,sp_defense,41
+Zigzagoon,Normal,speed,60
+Mightyena,Dark,hp,70
+Mightyena,Dark,attack,90
+Mightyena,Dark,defense,70
+Mightyena,Dark,sp_attack,60
+Mightyena,Dark,sp_defense,60
+Mightyena,Dark,speed,70
+Poochyena,Dark,hp,35
+Poochyena,Dark,attack,55
+Poochyena,Dark,defense,35
+Poochyena,Dark,sp_attack,30
+Poochyena,Dark,sp_defense,30
+Poochyena,Dark,speed,35
+Mega Swampert,Water,hp,100
+Mega Swampert,Water,attack,150
+Mega Swampert,Water,defense,110
+Mega Swampert,Water,sp_attack,95
+Mega Swampert,Water,sp_defense,110
+Mega Swampert,Water,speed,70
+Swampert,Water,hp,100
+Swampert,Water,attack,110
+Swampert,Water,defense,90
+Swampert,Water,sp_attack,85
+Swampert,Water,sp_defense,90
+Swampert,Water,speed,60
+Marshtomp,Water,hp,70
+Marshtomp,Water,attack,85
+Marshtomp,Water,defense,70
+Marshtomp,Water,sp_attack,60
+Marshtomp,Water,sp_defense,70
+Marshtomp,Water,speed,50
+Mudkip,Water,hp,50
+Mudkip,Water,attack,70
+Mudkip,Water,defense,50
+Mudkip,Water,sp_attack,50
+Mudkip,Water,sp_defense,50
+Mudkip,Water,speed,40
+Mega Blaziken,Fire,hp,80
+Mega Blaziken,Fire,attack,160
+Mega Blaziken,Fire,defense,80
+Mega Blaziken,Fire,sp_attack,130
+Mega Blaziken,Fire,sp_defense,80
+Mega Blaziken,Fire,speed,100
+Blaziken,Fire,hp,80
+Blaziken,Fire,attack,120
+Blaziken,Fire,defense,70
+Blaziken,Fire,sp_attack,110
+Blaziken,Fire,sp_defense,70
+Blaziken,Fire,speed,80
+Combusken,Fire,hp,60
+Combusken,Fire,attack,85
+Combusken,Fire,defense,60
+Combusken,Fire,sp_attack,85
+Combusken,Fire,sp_defense,60
+Combusken,Fire,speed,55
+Torchic,Fire,hp,45
+Torchic,Fire,attack,60
+Torchic,Fire,defense,40
+Torchic,Fire,sp_attack,70
+Torchic,Fire,sp_defense,50
+Torchic,Fire,speed,45
+Mega Sceptile,Grass,hp,70
+Mega Sceptile,Grass,attack,110
+Mega Sceptile,Grass,defense,75
+Mega Sceptile,Grass,sp_attack,145
+Mega Sceptile,Grass,sp_defense,85
+Mega Sceptile,Grass,speed,145
+Sceptile,Grass,hp,70
+Sceptile,Grass,attack,85
+Sceptile,Grass,defense,65
+Sceptile,Grass,sp_attack,105
+Sceptile,Grass,sp_defense,85
+Sceptile,Grass,speed,120
+Grovyle,Grass,hp,50
+Grovyle,Grass,attack,65
+Grovyle,Grass,defense,45
+Grovyle,Grass,sp_attack,85
+Grovyle,Grass,sp_defense,65
+Grovyle,Grass,speed,95
+Treecko,Grass,hp,40
+Treecko,Grass,attack,45
+Treecko,Grass,defense,35
+Treecko,Grass,sp_attack,65
+Treecko,Grass,sp_defense,55
+Treecko,Grass,speed,70
+Celebi,Psychic,hp,100
+Celebi,Psychic,attack,100
+Celebi,Psychic,defense,100
+Celebi,Psychic,sp_attack,100
+Celebi,Psychic,sp_defense,100
+Celebi,Psychic,speed,100
+Ho-oh,Fire,hp,106
+Ho-oh,Fire,attack,130
+Ho-oh,Fire,defense,90
+Ho-oh,Fire,sp_attack,110
+Ho-oh,Fire,sp_defense,154
+Ho-oh,Fire,speed,90
+Lugia,Psychic,hp,106
+Lugia,Psychic,attack,90
+Lugia,Psychic,defense,130
+Lugia,Psychic,sp_attack,90
+Lugia,Psychic,sp_defense,154
+Lugia,Psychic,speed,110
+Mega Tyranitar,Rock,hp,100
+Mega Tyranitar,Rock,attack,164
+Mega Tyranitar,Rock,defense,150
+Mega Tyranitar,Rock,sp_attack,95
+Mega Tyranitar,Rock,sp_defense,120
+Mega Tyranitar,Rock,speed,71
+Tyranitar,Rock,hp,100
+Tyranitar,Rock,attack,134
+Tyranitar,Rock,defense,110
+Tyranitar,Rock,sp_attack,95
+Tyranitar,Rock,sp_defense,100
+Tyranitar,Rock,speed,61
+Pupitar,Rock,hp,70
+Pupitar,Rock,attack,84
+Pupitar,Rock,defense,70
+Pupitar,Rock,sp_attack,65
+Pupitar,Rock,sp_defense,70
+Pupitar,Rock,speed,51
+Larvitar,Rock,hp,50
+Larvitar,Rock,attack,64
+Larvitar,Rock,defense,50
+Larvitar,Rock,sp_attack,45
+Larvitar,Rock,sp_defense,50
+Larvitar,Rock,speed,41
+Suicune,Water,hp,100
+Suicune,Water,attack,75
+Suicune,Water,defense,115
+Suicune,Water,sp_attack,90
+Suicune,Water,sp_defense,115
+Suicune,Water,speed,85
+Entei,Fire,hp,115
+Entei,Fire,attack,115
+Entei,Fire,defense,85
+Entei,Fire,sp_attack,90
+Entei,Fire,sp_defense,75
+Entei,Fire,speed,100
+Raikou,Electric,hp,90
+Raikou,Electric,attack,85
+Raikou,Electric,defense,75
+Raikou,Electric,sp_attack,115
+Raikou,Electric,sp_defense,100
+Raikou,Electric,speed,115
+Blissey,Normal,hp,255
+Blissey,Normal,attack,10
+Blissey,Normal,defense,10
+Blissey,Normal,sp_attack,75
+Blissey,Normal,sp_defense,135
+Blissey,Normal,speed,55
+Miltank,Normal,hp,95
+Miltank,Normal,attack,80
+Miltank,Normal,defense,105
+Miltank,Normal,sp_attack,40
+Miltank,Normal,sp_defense,70
+Miltank,Normal,speed,100
+Magby,Fire,hp,45
+Magby,Fire,attack,75
+Magby,Fire,defense,37
+Magby,Fire,sp_attack,70
+Magby,Fire,sp_defense,55
+Magby,Fire,speed,83
+Elekid,Electric,hp,45
+Elekid,Electric,attack,63
+Elekid,Electric,defense,37
+Elekid,Electric,sp_attack,65
+Elekid,Electric,sp_defense,55
+Elekid,Electric,speed,95
+Smoochum,Ice,hp,45
+Smoochum,Ice,attack,30
+Smoochum,Ice,defense,15
+Smoochum,Ice,sp_attack,85
+Smoochum,Ice,sp_defense,65
+Smoochum,Ice,speed,65
+Hitmontop,Fighting,hp,50
+Hitmontop,Fighting,attack,95
+Hitmontop,Fighting,defense,95
+Hitmontop,Fighting,sp_attack,35
+Hitmontop,Fighting,sp_defense,110
+Hitmontop,Fighting,speed,70
+Tyrogue,Fighting,hp,35
+Tyrogue,Fighting,attack,35
+Tyrogue,Fighting,defense,35
+Tyrogue,Fighting,sp_attack,35
+Tyrogue,Fighting,sp_defense,35
+Tyrogue,Fighting,speed,35
+Smeargle,Normal,hp,55
+Smeargle,Normal,attack,20
+Smeargle,Normal,defense,35
+Smeargle,Normal,sp_attack,20
+Smeargle,Normal,sp_defense,45
+Smeargle,Normal,speed,75
+Stantler,Normal,hp,73
+Stantler,Normal,attack,95
+Stantler,Normal,defense,62
+Stantler,Normal,sp_attack,85
+Stantler,Normal,sp_defense,65
+Stantler,Normal,speed,85
+Porygon2,Normal,hp,85
+Porygon3,Normal,attack,80
+Porygon4,Normal,defense,90
+Porygon5,Normal,sp_attack,105
+Porygon6,Normal,sp_defense,95
+Porygon7,Normal,speed,60
+Donphan,Ground,hp,90
+Donphan,Ground,attack,120
+Donphan,Ground,defense,120
+Donphan,Ground,sp_attack,60
+Donphan,Ground,sp_defense,60
+Donphan,Ground,speed,50
+Phanpy,Ground,hp,90
+Phanpy,Ground,attack,60
+Phanpy,Ground,defense,60
+Phanpy,Ground,sp_attack,40
+Phanpy,Ground,sp_defense,40
+Phanpy,Ground,speed,40
+Kingdra,Water,hp,75
+Kingdra,Water,attack,95
+Kingdra,Water,defense,95
+Kingdra,Water,sp_attack,95
+Kingdra,Water,sp_defense,95
+Kingdra,Water,speed,85
+Mega Houndoom,Dark,hp,75
+Mega Houndoom,Dark,attack,90
+Mega Houndoom,Dark,defense,90
+Mega Houndoom,Dark,sp_attack,140
+Mega Houndoom,Dark,sp_defense,90
+Mega Houndoom,Dark,speed,115
+Houndoom,Dark,hp,75
+Houndoom,Dark,attack,90
+Houndoom,Dark,defense,50
+Houndoom,Dark,sp_attack,110
+Houndoom,Dark,sp_defense,80
+Houndoom,Dark,speed,95
+Houndour,Dark,hp,45
+Houndour,Dark,attack,60
+Houndour,Dark,defense,30
+Houndour,Dark,sp_attack,80
+Houndour,Dark,sp_defense,50
+Houndour,Dark,speed,65
+Skarmory,Steel,hp,65
+Skarmory,Steel,attack,80
+Skarmory,Steel,defense,140
+Skarmory,Steel,sp_attack,40
+Skarmory,Steel,sp_defense,70
+Skarmory,Steel,speed,70
+Mantine,Water,hp,85
+Mantine,Water,attack,40
+Mantine,Water,defense,70
+Mantine,Water,sp_attack,80
+Mantine,Water,sp_defense,140
+Mantine,Water,speed,70
+Delibird,Ice,hp,45
+Delibird,Ice,attack,55
+Delibird,Ice,defense,45
+Delibird,Ice,sp_attack,65
+Delibird,Ice,sp_defense,45
+Delibird,Ice,speed,75
+Octillery,Water,hp,75
+Octillery,Water,attack,105
+Octillery,Water,defense,75
+Octillery,Water,sp_attack,105
+Octillery,Water,sp_defense,75
+Octillery,Water,speed,45
+Remoraid,Water,hp,35
+Remoraid,Water,attack,65
+Remoraid,Water,defense,35
+Remoraid,Water,sp_attack,65
+Remoraid,Water,sp_defense,35
+Remoraid,Water,speed,65
+Galarian Corsola,Ghost,hp,60
+Galarian Corsola,Ghost,attack,55
+Galarian Corsola,Ghost,defense,100
+Galarian Corsola,Ghost,sp_attack,65
+Galarian Corsola,Ghost,sp_defense,100
+Galarian Corsola,Ghost,speed,30
+Corsola,Water,hp,65
+Corsola,Water,attack,55
+Corsola,Water,defense,95
+Corsola,Water,sp_attack,65
+Corsola,Water,sp_defense,95
+Corsola,Water,speed,35
+Piloswine,Ice,hp,100
+Piloswine,Ice,attack,100
+Piloswine,Ice,defense,80
+Piloswine,Ice,sp_attack,60
+Piloswine,Ice,sp_defense,60
+Piloswine,Ice,speed,50
+Swinub,Ice,hp,50
+Swinub,Ice,attack,50
+Swinub,Ice,defense,40
+Swinub,Ice,sp_attack,30
+Swinub,Ice,sp_defense,30
+Swinub,Ice,speed,50
+Magcargo,Fire,hp,60
+Magcargo,Fire,attack,50
+Magcargo,Fire,defense,120
+Magcargo,Fire,sp_attack,90
+Magcargo,Fire,sp_defense,80
+Magcargo,Fire,speed,30
+Slugma,Fire,hp,40
+Slugma,Fire,attack,40
+Slugma,Fire,defense,40
+Slugma,Fire,sp_attack,70
+Slugma,Fire,sp_defense,40
+Slugma,Fire,speed,20
+Ursaring,Normal,hp,90
+Ursaring,Normal,attack,130
+Ursaring,Normal,defense,75
+Ursaring,Normal,sp_attack,75
+Ursaring,Normal,sp_defense,75
+Ursaring,Normal,speed,55
+Teddiursa,Normal,hp,60
+Teddiursa,Normal,attack,80
+Teddiursa,Normal,defense,50
+Teddiursa,Normal,sp_attack,50
+Teddiursa,Normal,sp_defense,50
+Teddiursa,Normal,speed,40
+Sneasel,Dark,hp,55
+Sneasel,Dark,attack,95
+Sneasel,Dark,defense,55
+Sneasel,Dark,sp_attack,35
+Sneasel,Dark,sp_defense,75
+Sneasel,Dark,speed,115
+Mega Heracross,Bug,hp,80
+Mega Heracross,Bug,attack,185
+Mega Heracross,Bug,defense,115
+Mega Heracross,Bug,sp_attack,40
+Mega Heracross,Bug,sp_defense,105
+Mega Heracross,Bug,speed,75
+Heracross,Bug,hp,80
+Heracross,Bug,attack,125
+Heracross,Bug,defense,75
+Heracross,Bug,sp_attack,40
+Heracross,Bug,sp_defense,95
+Heracross,Bug,speed,85
+Shuckle,Bug,hp,20
+Shuckle,Bug,attack,10
+Shuckle,Bug,defense,230
+Shuckle,Bug,sp_attack,10
+Shuckle,Bug,sp_defense,230
+Shuckle,Bug,speed,5
+Mega Scizor,Bug,hp,70
+Mega Scizor,Bug,attack,150
+Mega Scizor,Bug,defense,140
+Mega Scizor,Bug,sp_attack,65
+Mega Scizor,Bug,sp_defense,100
+Mega Scizor,Bug,speed,75
+Scizor,Bug,hp,70
+Scizor,Bug,attack,130
+Scizor,Bug,defense,100
+Scizor,Bug,sp_attack,55
+Scizor,Bug,sp_defense,80
+Scizor,Bug,speed,65
+Qwilfish,Water,hp,65
+Qwilfish,Water,attack,95
+Qwilfish,Water,defense,85
+Qwilfish,Water,sp_attack,55
+Qwilfish,Water,sp_defense,55
+Qwilfish,Water,speed,85
+Granbull,Fairy,hp,90
+Granbull,Fairy,attack,120
+Granbull,Fairy,defense,75
+Granbull,Fairy,sp_attack,60
+Granbull,Fairy,sp_defense,60
+Granbull,Fairy,speed,45
+Snubbull,Fairy,hp,60
+Snubbull,Fairy,attack,80
+Snubbull,Fairy,defense,50
+Snubbull,Fairy,sp_attack,40
+Snubbull,Fairy,sp_defense,40
+Snubbull,Fairy,speed,30
+Mega Steelix,Steel,hp,75
+Mega Steelix,Steel,attack,125
+Mega Steelix,Steel,defense,230
+Mega Steelix,Steel,sp_attack,55
+Mega Steelix,Steel,sp_defense,95
+Mega Steelix,Steel,speed,30
+Steelix,Steel,hp,75
+Steelix,Steel,attack,85
+Steelix,Steel,defense,200
+Steelix,Steel,sp_attack,55
+Steelix,Steel,sp_defense,65
+Steelix,Steel,speed,30
+Gligar,Ground,hp,65
+Gligar,Ground,attack,75
+Gligar,Ground,defense,105
+Gligar,Ground,sp_attack,35
+Gligar,Ground,sp_defense,65
+Gligar,Ground,speed,85
+Dunsparce,Normal,hp,100
+Dunsparce,Normal,attack,70
+Dunsparce,Normal,defense,70
+Dunsparce,Normal,sp_attack,65
+Dunsparce,Normal,sp_defense,65
+Dunsparce,Normal,speed,45
+Forretress,Bug,hp,75
+Forretress,Bug,attack,90
+Forretress,Bug,defense,140
+Forretress,Bug,sp_attack,60
+Forretress,Bug,sp_defense,60
+Forretress,Bug,speed,40
+Pineco,Bug,hp,50
+Pineco,Bug,attack,65
+Pineco,Bug,defense,90
+Pineco,Bug,sp_attack,35
+Pineco,Bug,sp_defense,35
+Pineco,Bug,speed,15
+Girafarig,Normal,hp,70
+Girafarig,Normal,attack,80
+Girafarig,Normal,defense,65
+Girafarig,Normal,sp_attack,90
+Girafarig,Normal,sp_defense,65
+Girafarig,Normal,speed,85
+Wobbuffet,Psychic,hp,190
+Wobbuffet,Psychic,attack,33
+Wobbuffet,Psychic,defense,58
+Wobbuffet,Psychic,sp_attack,33
+Wobbuffet,Psychic,sp_defense,58
+Wobbuffet,Psychic,speed,33
+Unown,Psychic,hp,48
+Unown,Psychic,attack,72
+Unown,Psychic,defense,48
+Unown,Psychic,sp_attack,72
+Unown,Psychic,sp_defense,48
+Unown,Psychic,speed,48
+Misdreavus,Ghost,hp,60
+Misdreavus,Ghost,attack,60
+Misdreavus,Ghost,defense,60
+Misdreavus,Ghost,sp_attack,85
+Misdreavus,Ghost,sp_defense,85
+Misdreavus,Ghost,speed,85
+Slowking,Water,hp,95
+Slowking,Water,attack,75
+Slowking,Water,defense,80
+Slowking,Water,sp_attack,100
+Slowking,Water,sp_defense,110
+Slowking,Water,speed,30
+Murkrow,Dark,hp,60
+Murkrow,Dark,attack,85
+Murkrow,Dark,defense,42
+Murkrow,Dark,sp_attack,85
+Murkrow,Dark,sp_defense,42
+Murkrow,Dark,speed,91
+Umbreon,Dark,hp,95
+Umbreon,Dark,attack,65
+Umbreon,Dark,defense,110
+Umbreon,Dark,sp_attack,60
+Umbreon,Dark,sp_defense,130
+Umbreon,Dark,speed,65
+Espeon,Psychic,hp,65
+Espeon,Psychic,attack,65
+Espeon,Psychic,defense,60
+Espeon,Psychic,sp_attack,130
+Espeon,Psychic,sp_defense,95
+Espeon,Psychic,speed,110
+Quagsire,Water,hp,95
+Quagsire,Water,attack,85
+Quagsire,Water,defense,85
+Quagsire,Water,sp_attack,65
+Quagsire,Water,sp_defense,65
+Quagsire,Water,speed,35
+Wooper,Water,hp,55
+Wooper,Water,attack,45
+Wooper,Water,defense,45
+Wooper,Water,sp_attack,25
+Wooper,Water,sp_defense,25
+Wooper,Water,speed,15
+Yanma,Bug,hp,65
+Yanma,Bug,attack,65
+Yanma,Bug,defense,45
+Yanma,Bug,sp_attack,75
+Yanma,Bug,sp_defense,45
+Yanma,Bug,speed,95
+Sunflora,Grass,hp,75
+Sunflora,Grass,attack,75
+Sunflora,Grass,defense,55
+Sunflora,Grass,sp_attack,105
+Sunflora,Grass,sp_defense,85
+Sunflora,Grass,speed,30
+Sunkern,Grass,hp,30
+Sunkern,Grass,attack,30
+Sunkern,Grass,defense,30
+Sunkern,Grass,sp_attack,30
+Sunkern,Grass,sp_defense,30
+Sunkern,Grass,speed,30
+Aipom,Normal,hp,55
+Aipom,Normal,attack,70
+Aipom,Normal,defense,55
+Aipom,Normal,sp_attack,40
+Aipom,Normal,sp_defense,55
+Aipom,Normal,speed,85
+Jumpluff,Grass,hp,75
+Jumpluff,Grass,attack,55
+Jumpluff,Grass,defense,70
+Jumpluff,Grass,sp_attack,55
+Jumpluff,Grass,sp_defense,95
+Jumpluff,Grass,speed,110
+Skiploom,Grass,hp,55
+Skiploom,Grass,attack,45
+Skiploom,Grass,defense,50
+Skiploom,Grass,sp_attack,45
+Skiploom,Grass,sp_defense,65
+Skiploom,Grass,speed,80
+Hoppip,Grass,hp,35
+Hoppip,Grass,attack,35
+Hoppip,Grass,defense,40
+Hoppip,Grass,sp_attack,35
+Hoppip,Grass,sp_defense,55
+Hoppip,Grass,speed,50
+Politoed,Water,hp,90
+Politoed,Water,attack,75
+Politoed,Water,defense,75
+Politoed,Water,sp_attack,90
+Politoed,Water,sp_defense,100
+Politoed,Water,speed,70
+Sudowoodo,Rock,hp,70
+Sudowoodo,Rock,attack,100
+Sudowoodo,Rock,defense,115
+Sudowoodo,Rock,sp_attack,30
+Sudowoodo,Rock,sp_defense,65
+Sudowoodo,Rock,speed,30
+Azumarill,Water,hp,100
+Azumarill,Water,attack,50
+Azumarill,Water,defense,80
+Azumarill,Water,sp_attack,60
+Azumarill,Water,sp_defense,80
+Azumarill,Water,speed,50
+Marill,Water,hp,70
+Marill,Water,attack,20
+Marill,Water,defense,50
+Marill,Water,sp_attack,20
+Marill,Water,sp_defense,50
+Marill,Water,speed,40
+Bellossom,Grass,hp,75
+Bellossom,Grass,attack,80
+Bellossom,Grass,defense,95
+Bellossom,Grass,sp_attack,90
+Bellossom,Grass,sp_defense,100
+Bellossom,Grass,speed,50
+Mega Ampharos,Electric,hp,90
+Mega Ampharos,Electric,attack,95
+Mega Ampharos,Electric,defense,105
+Mega Ampharos,Electric,sp_attack,165
+Mega Ampharos,Electric,sp_defense,110
+Mega Ampharos,Electric,speed,45
+Ampharos,Electric,hp,90
+Ampharos,Electric,attack,75
+Ampharos,Electric,defense,85
+Ampharos,Electric,sp_attack,115
+Ampharos,Electric,sp_defense,90
+Ampharos,Electric,speed,55
+Flaaffy,Electric,hp,70
+Flaaffy,Electric,attack,55
+Flaaffy,Electric,defense,55
+Flaaffy,Electric,sp_attack,80
+Flaaffy,Electric,sp_defense,60
+Flaaffy,Electric,speed,45
+Mareep,Electric,hp,55
+Mareep,Electric,attack,40
+Mareep,Electric,defense,40
+Mareep,Electric,sp_attack,65
+Mareep,Electric,sp_defense,45
+Mareep,Electric,speed,35
+Xatu,Psychic,hp,65
+Xatu,Psychic,attack,75
+Xatu,Psychic,defense,70
+Xatu,Psychic,sp_attack,95
+Xatu,Psychic,sp_defense,70
+Xatu,Psychic,speed,95
+Natu,Psychic,hp,40
+Natu,Psychic,attack,50
+Natu,Psychic,defense,45
+Natu,Psychic,sp_attack,70
+Natu,Psychic,sp_defense,45
+Natu,Psychic,speed,70
+Togetic,Fairy,hp,55
+Togetic,Fairy,attack,40
+Togetic,Fairy,defense,85
+Togetic,Fairy,sp_attack,80
+Togetic,Fairy,sp_defense,105
+Togetic,Fairy,speed,40
+Togepi,Fairy,hp,35
+Togepi,Fairy,attack,20
+Togepi,Fairy,defense,65
+Togepi,Fairy,sp_attack,40
+Togepi,Fairy,sp_defense,65
+Togepi,Fairy,speed,20
+Igglybuff,Normal,hp,90
+Igglybuff,Normal,attack,30
+Igglybuff,Normal,defense,15
+Igglybuff,Normal,sp_attack,40
+Igglybuff,Normal,sp_defense,20
+Igglybuff,Normal,speed,15
+Cleffa,Fairy,hp,50
+Cleffa,Fairy,attack,25
+Cleffa,Fairy,defense,28
+Cleffa,Fairy,sp_attack,45
+Cleffa,Fairy,sp_defense,55
+Cleffa,Fairy,speed,15
+Pichu,Electric,hp,20
+Pichu,Electric,attack,40
+Pichu,Electric,defense,15
+Pichu,Electric,sp_attack,35
+Pichu,Electric,sp_defense,35
+Pichu,Electric,speed,60
+Lanturn,Water,hp,125
+Lanturn,Water,attack,58
+Lanturn,Water,defense,58
+Lanturn,Water,sp_attack,76
+Lanturn,Water,sp_defense,76
+Lanturn,Water,speed,67
+Chinchou,Water,hp,75
+Chinchou,Water,attack,38
+Chinchou,Water,defense,38
+Chinchou,Water,sp_attack,56
+Chinchou,Water,sp_defense,56
+Chinchou,Water,speed,67
+Crobat,Poison,hp,85
+Crobat,Poison,attack,90
+Crobat,Poison,defense,80
+Crobat,Poison,sp_attack,70
+Crobat,Poison,sp_defense,80
+Crobat,Poison,speed,130
+Ariados,Bug,hp,70
+Ariados,Bug,attack,90
+Ariados,Bug,defense,70
+Ariados,Bug,sp_attack,60
+Ariados,Bug,sp_defense,70
+Ariados,Bug,speed,40
+Spinarak,Bug,hp,40
+Spinarak,Bug,attack,60
+Spinarak,Bug,defense,40
+Spinarak,Bug,sp_attack,40
+Spinarak,Bug,sp_defense,40
+Spinarak,Bug,speed,30
+Ledian,Bug,hp,55
+Ledian,Bug,attack,35
+Ledian,Bug,defense,50
+Ledian,Bug,sp_attack,55
+Ledian,Bug,sp_defense,110
+Ledian,Bug,speed,85
+Ledyba,Bug,hp,40
+Ledyba,Bug,attack,20
+Ledyba,Bug,defense,30
+Ledyba,Bug,sp_attack,40
+Ledyba,Bug,sp_defense,80
+Ledyba,Bug,speed,55
+Noctowl,Normal,hp,100
+Noctowl,Normal,attack,50
+Noctowl,Normal,defense,50
+Noctowl,Normal,sp_attack,86
+Noctowl,Normal,sp_defense,96
+Noctowl,Normal,speed,70
+Hoothoot,Normal,hp,60
+Hoothoot,Normal,attack,30
+Hoothoot,Normal,defense,30
+Hoothoot,Normal,sp_attack,36
+Hoothoot,Normal,sp_defense,56
+Hoothoot,Normal,speed,50
+Furret,Normal,hp,85
+Furret,Normal,attack,76
+Furret,Normal,defense,64
+Furret,Normal,sp_attack,45
+Furret,Normal,sp_defense,55
+Furret,Normal,speed,90
+Sentret,Normal,hp,35
+Sentret,Normal,attack,46
+Sentret,Normal,defense,34
+Sentret,Normal,sp_attack,35
+Sentret,Normal,sp_defense,45
+Sentret,Normal,speed,20
+Feraligatr,Water,hp,85
+Feraligatr,Water,attack,105
+Feraligatr,Water,defense,100
+Feraligatr,Water,sp_attack,79
+Feraligatr,Water,sp_defense,83
+Feraligatr,Water,speed,78
+Croconaw,Water,hp,65
+Croconaw,Water,attack,80
+Croconaw,Water,defense,80
+Croconaw,Water,sp_attack,59
+Croconaw,Water,sp_defense,63
+Croconaw,Water,speed,58
+Totodile,Water,hp,50
+Totodile,Water,attack,65
+Totodile,Water,defense,64
+Totodile,Water,sp_attack,44
+Totodile,Water,sp_defense,48
+Totodile,Water,speed,43
+Typhlosion,Fire,hp,78
+Typhlosion,Fire,attack,84
+Typhlosion,Fire,defense,78
+Typhlosion,Fire,sp_attack,109
+Typhlosion,Fire,sp_defense,85
+Typhlosion,Fire,speed,100
+Quilava,Fire,hp,58
+Quilava,Fire,attack,64
+Quilava,Fire,defense,58
+Quilava,Fire,sp_attack,80
+Quilava,Fire,sp_defense,65
+Quilava,Fire,speed,80
+Cyndaquil,Fire,hp,39
+Cyndaquil,Fire,attack,52
+Cyndaquil,Fire,defense,43
+Cyndaquil,Fire,sp_attack,60
+Cyndaquil,Fire,sp_defense,50
+Cyndaquil,Fire,speed,65
+Meganium,Grass,hp,80
+Meganium,Grass,attack,82
+Meganium,Grass,defense,100
+Meganium,Grass,sp_attack,83
+Meganium,Grass,sp_defense,100
+Meganium,Grass,speed,80
+Bayleef,Grass,hp,60
+Bayleef,Grass,attack,62
+Bayleef,Grass,defense,80
+Bayleef,Grass,sp_attack,63
+Bayleef,Grass,sp_defense,80
+Bayleef,Grass,speed,60
+Chikorita,Grass,hp,45
+Chikorita,Grass,attack,49
+Chikorita,Grass,defense,65
+Chikorita,Grass,sp_attack,49
+Chikorita,Grass,sp_defense,65
+Chikorita,Grass,speed,45
+Mew,Psychic,hp,100
+Mew,Psychic,attack,100
+Mew,Psychic,defense,100
+Mew,Psychic,sp_attack,100
+Mew,Psychic,sp_defense,100
+Mew,Psychic,speed,100
+Mega Mewtwo Y,Psychic,hp,106
+Mega Mewtwo Y,Psychic,attack,150
+Mega Mewtwo Y,Psychic,defense,70
+Mega Mewtwo Y,Psychic,sp_attack,194
+Mega Mewtwo Y,Psychic,sp_defense,120
+Mega Mewtwo Y,Psychic,speed,140
+Mega Mewtwo X,Psychic,hp,106
+Mega Mewtwo X,Psychic,attack,190
+Mega Mewtwo X,Psychic,defense,100
+Mega Mewtwo X,Psychic,sp_attack,154
+Mega Mewtwo X,Psychic,sp_defense,100
+Mega Mewtwo X,Psychic,speed,130
+Mewtwo,Psychic,hp,106
+Mewtwo,Psychic,attack,110
+Mewtwo,Psychic,defense,90
+Mewtwo,Psychic,sp_attack,154
+Mewtwo,Psychic,sp_defense,90
+Mewtwo,Psychic,speed,130
+Dragonite,Dragon,hp,91
+Dragonite,Dragon,attack,134
+Dragonite,Dragon,defense,95
+Dragonite,Dragon,sp_attack,100
+Dragonite,Dragon,sp_defense,100
+Dragonite,Dragon,speed,80
+Dragonair,Dragon,hp,61
+Dragonair,Dragon,attack,84
+Dragonair,Dragon,defense,65
+Dragonair,Dragon,sp_attack,70
+Dragonair,Dragon,sp_defense,70
+Dragonair,Dragon,speed,70
+Dratini,Dragon,hp,41
+Dratini,Dragon,attack,64
+Dratini,Dragon,defense,45
+Dratini,Dragon,sp_attack,50
+Dratini,Dragon,sp_defense,50
+Dratini,Dragon,speed,50
+Moltres,Fire,hp,90
+Moltres,Fire,attack,100
+Moltres,Fire,defense,90
+Moltres,Fire,sp_attack,125
+Moltres,Fire,sp_defense,85
+Moltres,Fire,speed,90
+Zapdos,Electric,hp,90
+Zapdos,Electric,attack,90
+Zapdos,Electric,defense,85
+Zapdos,Electric,sp_attack,125
+Zapdos,Electric,sp_defense,90
+Zapdos,Electric,speed,100
+Articuno,Ice,hp,90
+Articuno,Ice,attack,85
+Articuno,Ice,defense,100
+Articuno,Ice,sp_attack,95
+Articuno,Ice,sp_defense,125
+Articuno,Ice,speed,85
+Snorlax,Normal,hp,160
+Snorlax,Normal,attack,110
+Snorlax,Normal,defense,65
+Snorlax,Normal,sp_attack,65
+Snorlax,Normal,sp_defense,110
+Snorlax,Normal,speed,30
+Mega Aerodactyl,Rock,hp,80
+Mega Aerodactyl,Rock,attack,135
+Mega Aerodactyl,Rock,defense,85
+Mega Aerodactyl,Rock,sp_attack,70
+Mega Aerodactyl,Rock,sp_defense,95
+Mega Aerodactyl,Rock,speed,150
+Aerodactyl,Rock,hp,80
+Aerodactyl,Rock,attack,105
+Aerodactyl,Rock,defense,65
+Aerodactyl,Rock,sp_attack,60
+Aerodactyl,Rock,sp_defense,75
+Aerodactyl,Rock,speed,130
+Kabutops,Rock,hp,60
+Kabutops,Rock,attack,115
+Kabutops,Rock,defense,105
+Kabutops,Rock,sp_attack,65
+Kabutops,Rock,sp_defense,70
+Kabutops,Rock,speed,80
+Kabuto,Rock,hp,30
+Kabuto,Rock,attack,80
+Kabuto,Rock,defense,90
+Kabuto,Rock,sp_attack,55
+Kabuto,Rock,sp_defense,45
+Kabuto,Rock,speed,55
+Omastar,Rock,hp,70
+Omastar,Rock,attack,60
+Omastar,Rock,defense,125
+Omastar,Rock,sp_attack,115
+Omastar,Rock,sp_defense,70
+Omastar,Rock,speed,55
+Omanyte,Rock,hp,35
+Omanyte,Rock,attack,40
+Omanyte,Rock,defense,100
+Omanyte,Rock,sp_attack,90
+Omanyte,Rock,sp_defense,55
+Omanyte,Rock,speed,35
+Porygon,Normal,hp,65
+Porygon,Normal,attack,60
+Porygon,Normal,defense,70
+Porygon,Normal,sp_attack,85
+Porygon,Normal,sp_defense,75
+Porygon,Normal,speed,40
+Flareon,Fire,hp,65
+Flareon,Fire,attack,130
+Flareon,Fire,defense,60
+Flareon,Fire,sp_attack,95
+Flareon,Fire,sp_defense,110
+Flareon,Fire,speed,65
+Jolteon,Electric,hp,65
+Jolteon,Electric,attack,65
+Jolteon,Electric,defense,60
+Jolteon,Electric,sp_attack,110
+Jolteon,Electric,sp_defense,95
+Jolteon,Electric,speed,130
+Vaporeon,Water,hp,130
+Vaporeon,Water,attack,65
+Vaporeon,Water,defense,60
+Vaporeon,Water,sp_attack,110
+Vaporeon,Water,sp_defense,95
+Vaporeon,Water,speed,65
+Partner Eevee,Normal,hp,65
+Partner Eevee,Normal,attack,75
+Partner Eevee,Normal,defense,70
+Partner Eevee,Normal,sp_attack,65
+Partner Eevee,Normal,sp_defense,85
+Partner Eevee,Normal,speed,75
+Eevee,Normal,hp,55
+Eevee,Normal,attack,55
+Eevee,Normal,defense,50
+Eevee,Normal,sp_attack,45
+Eevee,Normal,sp_defense,65
+Eevee,Normal,speed,55
+Ditto,Normal,hp,48
+Ditto,Normal,attack,48
+Ditto,Normal,defense,48
+Ditto,Normal,sp_attack,48
+Ditto,Normal,sp_defense,48
+Ditto,Normal,speed,48
+Lapras,Water,hp,130
+Lapras,Water,attack,85
+Lapras,Water,defense,80
+Lapras,Water,sp_attack,85
+Lapras,Water,sp_defense,95
+Lapras,Water,speed,60
+Mega Gyarados,Water,hp,95
+Mega Gyarados,Water,attack,155
+Mega Gyarados,Water,defense,109
+Mega Gyarados,Water,sp_attack,70
+Mega Gyarados,Water,sp_defense,130
+Mega Gyarados,Water,speed,81
+Gyarados,Water,hp,95
+Gyarados,Water,attack,125
+Gyarados,Water,defense,79
+Gyarados,Water,sp_attack,60
+Gyarados,Water,sp_defense,100
+Gyarados,Water,speed,81
+Magikarp,Water,hp,20
+Magikarp,Water,attack,10
+Magikarp,Water,defense,55
+Magikarp,Water,sp_attack,15
+Magikarp,Water,sp_defense,20
+Magikarp,Water,speed,80
+Tauros,Normal,hp,75
+Tauros,Normal,attack,100
+Tauros,Normal,defense,95
+Tauros,Normal,sp_attack,40
+Tauros,Normal,sp_defense,70
+Tauros,Normal,speed,110
+Mega Pinsir,Bug,hp,65
+Mega Pinsir,Bug,attack,155
+Mega Pinsir,Bug,defense,120
+Mega Pinsir,Bug,sp_attack,65
+Mega Pinsir,Bug,sp_defense,90
+Mega Pinsir,Bug,speed,105
+Pinsir,Bug,hp,65
+Pinsir,Bug,attack,125
+Pinsir,Bug,defense,100
+Pinsir,Bug,sp_attack,55
+Pinsir,Bug,sp_defense,70
+Pinsir,Bug,speed,85
+Magmar,Fire,hp,65
+Magmar,Fire,attack,95
+Magmar,Fire,defense,57
+Magmar,Fire,sp_attack,100
+Magmar,Fire,sp_defense,85
+Magmar,Fire,speed,93
+Electabuzz,Electric,hp,65
+Electabuzz,Electric,attack,83
+Electabuzz,Electric,defense,57
+Electabuzz,Electric,sp_attack,95
+Electabuzz,Electric,sp_defense,85
+Electabuzz,Electric,speed,105
+Jynx,Ice,hp,65
+Jynx,Ice,attack,50
+Jynx,Ice,defense,35
+Jynx,Ice,sp_attack,115
+Jynx,Ice,sp_defense,95
+Jynx,Ice,speed,95
+Scyther,Bug,hp,70
+Scyther,Bug,attack,110
+Scyther,Bug,defense,80
+Scyther,Bug,sp_attack,55
+Scyther,Bug,sp_defense,80
+Scyther,Bug,speed,105
+Galarian Mr. Mime,Psychic,hp,50
+Galarian Mr. Mime,Psychic,attack,65
+Galarian Mr. Mime,Psychic,defense,65
+Galarian Mr. Mime,Psychic,sp_attack,90
+Galarian Mr. Mime,Psychic,sp_defense,90
+Galarian Mr. Mime,Psychic,speed,100
+Mr. Mime,Psychic,hp,40
+Mr. Mime,Psychic,attack,45
+Mr. Mime,Psychic,defense,65
+Mr. Mime,Psychic,sp_attack,100
+Mr. Mime,Psychic,sp_defense,120
+Mr. Mime,Psychic,speed,90
+Starmie,Water,hp,60
+Starmie,Water,attack,75
+Starmie,Water,defense,85
+Starmie,Water,sp_attack,100
+Starmie,Water,sp_defense,85
+Starmie,Water,speed,115
+Staryu,Water,hp,30
+Staryu,Water,attack,45
+Staryu,Water,defense,55
+Staryu,Water,sp_attack,70
+Staryu,Water,sp_defense,55
+Staryu,Water,speed,85
+Seaking,Water,hp,80
+Seaking,Water,attack,92
+Seaking,Water,defense,65
+Seaking,Water,sp_attack,65
+Seaking,Water,sp_defense,80
+Seaking,Water,speed,68
+Goldeen,Water,hp,45
+Goldeen,Water,attack,67
+Goldeen,Water,defense,60
+Goldeen,Water,sp_attack,35
+Goldeen,Water,sp_defense,50
+Goldeen,Water,speed,63
+Seadra,Water,hp,55
+Seadra,Water,attack,65
+Seadra,Water,defense,95
+Seadra,Water,sp_attack,95
+Seadra,Water,sp_defense,45
+Seadra,Water,speed,85
+Horsea,Water,hp,30
+Horsea,Water,attack,40
+Horsea,Water,defense,70
+Horsea,Water,sp_attack,70
+Horsea,Water,sp_defense,25
+Horsea,Water,speed,60
+Mega Kangaskhan,Normal,hp,105
+Mega Kangaskhan,Normal,attack,125
+Mega Kangaskhan,Normal,defense,100
+Mega Kangaskhan,Normal,sp_attack,60
+Mega Kangaskhan,Normal,sp_defense,100
+Mega Kangaskhan,Normal,speed,100
+Kangaskhan,Normal,hp,105
+Kangaskhan,Normal,attack,95
+Kangaskhan,Normal,defense,80
+Kangaskhan,Normal,sp_attack,40
+Kangaskhan,Normal,sp_defense,80
+Kangaskhan,Normal,speed,90
+Tangela,Grass,hp,65
+Tangela,Grass,attack,55
+Tangela,Grass,defense,115
+Tangela,Grass,sp_attack,100
+Tangela,Grass,sp_defense,40
+Tangela,Grass,speed,60
+Chansey,Normal,hp,250
+Chansey,Normal,attack,5
+Chansey,Normal,defense,5
+Chansey,Normal,sp_attack,35
+Chansey,Normal,sp_defense,105
+Chansey,Normal,speed,50
+Rhydon,Ground,hp,105
+Rhydon,Ground,attack,130
+Rhydon,Ground,defense,120
+Rhydon,Ground,sp_attack,45
+Rhydon,Ground,sp_defense,45
+Rhydon,Ground,speed,40
+Rhyhorn,Ground,hp,80
+Rhyhorn,Ground,attack,85
+Rhyhorn,Ground,defense,95
+Rhyhorn,Ground,sp_attack,30
+Rhyhorn,Ground,sp_defense,30
+Rhyhorn,Ground,speed,25
+Galarian Weezing,Poison,hp,65
+Galarian Weezing,Poison,attack,90
+Galarian Weezing,Poison,defense,120
+Galarian Weezing,Poison,sp_attack,85
+Galarian Weezing,Poison,sp_defense,70
+Galarian Weezing,Poison,speed,60
+Weezing,Poison,hp,65
+Weezing,Poison,attack,90
+Weezing,Poison,defense,120
+Weezing,Poison,sp_attack,85
+Weezing,Poison,sp_defense,70
+Weezing,Poison,speed,60
+Koffing,Poison,hp,40
+Koffing,Poison,attack,65
+Koffing,Poison,defense,95
+Koffing,Poison,sp_attack,60
+Koffing,Poison,sp_defense,45
+Koffing,Poison,speed,35
+Lickitung,Normal,hp,90
+Lickitung,Normal,attack,55
+Lickitung,Normal,defense,75
+Lickitung,Normal,sp_attack,60
+Lickitung,Normal,sp_defense,75
+Lickitung,Normal,speed,30
+Hitmonchan,Fighting,hp,50
+Hitmonchan,Fighting,attack,105
+Hitmonchan,Fighting,defense,79
+Hitmonchan,Fighting,sp_attack,35
+Hitmonchan,Fighting,sp_defense,110
+Hitmonchan,Fighting,speed,76
+Hitmonlee,Fighting,hp,50
+Hitmonlee,Fighting,attack,120
+Hitmonlee,Fighting,defense,53
+Hitmonlee,Fighting,sp_attack,35
+Hitmonlee,Fighting,sp_defense,110
+Hitmonlee,Fighting,speed,87
+Alolan Marowak,Fire,hp,60
+Alolan Marowak,Fire,attack,80
+Alolan Marowak,Fire,defense,110
+Alolan Marowak,Fire,sp_attack,50
+Alolan Marowak,Fire,sp_defense,80
+Alolan Marowak,Fire,speed,45
+Marowak,Ground,hp,60
+Marowak,Ground,attack,80
+Marowak,Ground,defense,110
+Marowak,Ground,sp_attack,50
+Marowak,Ground,sp_defense,80
+Marowak,Ground,speed,45
+Cubone,Ground,hp,50
+Cubone,Ground,attack,50
+Cubone,Ground,defense,95
+Cubone,Ground,sp_attack,40
+Cubone,Ground,sp_defense,50
+Cubone,Ground,speed,35
+Alolan Exeggutor,Grass,hp,95
+Alolan Exeggutor,Grass,attack,105
+Alolan Exeggutor,Grass,defense,85
+Alolan Exeggutor,Grass,sp_attack,125
+Alolan Exeggutor,Grass,sp_defense,75
+Alolan Exeggutor,Grass,speed,45
+Exeggutor,Grass,hp,95
+Exeggutor,Grass,attack,95
+Exeggutor,Grass,defense,85
+Exeggutor,Grass,sp_attack,125
+Exeggutor,Grass,sp_defense,75
+Exeggutor,Grass,speed,55
+Exeggcute,Grass,hp,60
+Exeggcute,Grass,attack,40
+Exeggcute,Grass,defense,80
+Exeggcute,Grass,sp_attack,60
+Exeggcute,Grass,sp_defense,45
+Exeggcute,Grass,speed,40
+Electrode,Electric,hp,60
+Electrode,Electric,attack,50
+Electrode,Electric,defense,70
+Electrode,Electric,sp_attack,80
+Electrode,Electric,sp_defense,80
+Electrode,Electric,speed,150
+Voltorb,Electric,hp,40
+Voltorb,Electric,attack,30
+Voltorb,Electric,defense,50
+Voltorb,Electric,sp_attack,55
+Voltorb,Electric,sp_defense,55
+Voltorb,Electric,speed,100
+Kingler,Water,hp,55
+Kingler,Water,attack,130
+Kingler,Water,defense,115
+Kingler,Water,sp_attack,50
+Kingler,Water,sp_defense,50
+Kingler,Water,speed,75
+Krabby,Water,hp,30
+Krabby,Water,attack,105
+Krabby,Water,defense,90
+Krabby,Water,sp_attack,25
+Krabby,Water,sp_defense,25
+Krabby,Water,speed,50
+Hypno,Psychic,hp,85
+Hypno,Psychic,attack,73
+Hypno,Psychic,defense,70
+Hypno,Psychic,sp_attack,73
+Hypno,Psychic,sp_defense,115
+Hypno,Psychic,speed,67
+Drowzee,Psychic,hp,60
+Drowzee,Psychic,attack,48
+Drowzee,Psychic,defense,45
+Drowzee,Psychic,sp_attack,43
+Drowzee,Psychic,sp_defense,90
+Drowzee,Psychic,speed,42
+Onix,Rock,hp,35
+Onix,Rock,attack,45
+Onix,Rock,defense,160
+Onix,Rock,sp_attack,30
+Onix,Rock,sp_defense,45
+Onix,Rock,speed,70
+Mega Gengar,Ghost,hp,60
+Mega Gengar,Ghost,attack,65
+Mega Gengar,Ghost,defense,80
+Mega Gengar,Ghost,sp_attack,170
+Mega Gengar,Ghost,sp_defense,95
+Mega Gengar,Ghost,speed,130
+Gengar,Ghost,hp,60
+Gengar,Ghost,attack,65
+Gengar,Ghost,defense,60
+Gengar,Ghost,sp_attack,130
+Gengar,Ghost,sp_defense,75
+Gengar,Ghost,speed,110
+Haunter,Ghost,hp,45
+Haunter,Ghost,attack,50
+Haunter,Ghost,defense,45
+Haunter,Ghost,sp_attack,115
+Haunter,Ghost,sp_defense,55
+Haunter,Ghost,speed,95
+Gastly,Ghost,hp,30
+Gastly,Ghost,attack,35
+Gastly,Ghost,defense,30
+Gastly,Ghost,sp_attack,100
+Gastly,Ghost,sp_defense,35
+Gastly,Ghost,speed,80
+Cloyster,Water,hp,50
+Cloyster,Water,attack,95
+Cloyster,Water,defense,180
+Cloyster,Water,sp_attack,85
+Cloyster,Water,sp_defense,45
+Cloyster,Water,speed,70
+Shellder,Water,hp,30
+Shellder,Water,attack,65
+Shellder,Water,defense,100
+Shellder,Water,sp_attack,45
+Shellder,Water,sp_defense,25
+Shellder,Water,speed,40
+Alolan Muk,Poison,hp,105
+Alolan Muk,Poison,attack,105
+Alolan Muk,Poison,defense,75
+Alolan Muk,Poison,sp_attack,65
+Alolan Muk,Poison,sp_defense,100
+Alolan Muk,Poison,speed,50
+Muk,Poison,hp,105
+Muk,Poison,attack,105
+Muk,Poison,defense,75
+Muk,Poison,sp_attack,65
+Muk,Poison,sp_defense,100
+Muk,Poison,speed,50
+Alolan Grimer,Poison,hp,80
+Alolan Grimer,Poison,attack,80
+Alolan Grimer,Poison,defense,50
+Alolan Grimer,Poison,sp_attack,40
+Alolan Grimer,Poison,sp_defense,50
+Alolan Grimer,Poison,speed,25
+Grimer,Poison,hp,80
+Grimer,Poison,attack,80
+Grimer,Poison,defense,50
+Grimer,Poison,sp_attack,40
+Grimer,Poison,sp_defense,50
+Grimer,Poison,speed,25
+Dewgong,Water,hp,90
+Dewgong,Water,attack,70
+Dewgong,Water,defense,80
+Dewgong,Water,sp_attack,70
+Dewgong,Water,sp_defense,95
+Dewgong,Water,speed,70
+Seel,Water,hp,65
+Seel,Water,attack,45
+Seel,Water,defense,55
+Seel,Water,sp_attack,45
+Seel,Water,sp_defense,70
+Seel,Water,speed,45
+Dodrio,Normal,hp,60
+Dodrio,Normal,attack,110
+Dodrio,Normal,defense,70
+Dodrio,Normal,sp_attack,60
+Dodrio,Normal,sp_defense,60
+Dodrio,Normal,speed,110
+Doduo,Normal,hp,35
+Doduo,Normal,attack,85
+Doduo,Normal,defense,45
+Doduo,Normal,sp_attack,35
+Doduo,Normal,sp_defense,35
+Doduo,Normal,speed,75
+Galarian Farfetch'd,Fighting,hp,52
+Galarian Farfetch'd,Fighting,attack,95
+Galarian Farfetch'd,Fighting,defense,55
+Galarian Farfetch'd,Fighting,sp_attack,58
+Galarian Farfetch'd,Fighting,sp_defense,62
+Galarian Farfetch'd,Fighting,speed,55
+Farfetch'd,Normal,hp,52
+Farfetch'd,Normal,attack,90
+Farfetch'd,Normal,defense,55
+Farfetch'd,Normal,sp_attack,58
+Farfetch'd,Normal,sp_defense,62
+Farfetch'd,Normal,speed,60
+Magneton,Electric,hp,50
+Magneton,Electric,attack,60
+Magneton,Electric,defense,95
+Magneton,Electric,sp_attack,120
+Magneton,Electric,sp_defense,70
+Magneton,Electric,speed,70
+Magnemite,Electric,hp,25
+Magnemite,Electric,attack,35
+Magnemite,Electric,defense,70
+Magnemite,Electric,sp_attack,95
+Magnemite,Electric,sp_defense,55
+Magnemite,Electric,speed,45
+Mega Slowbro,Water,hp,95
+Mega Slowbro,Water,attack,75
+Mega Slowbro,Water,defense,180
+Mega Slowbro,Water,sp_attack,130
+Mega Slowbro,Water,sp_defense,80
+Mega Slowbro,Water,speed,30
+Slowbro,Water,hp,95
+Slowbro,Water,attack,75
+Slowbro,Water,defense,110
+Slowbro,Water,sp_attack,100
+Slowbro,Water,sp_defense,80
+Slowbro,Water,speed,30
+Slowpoke,Water,hp,90
+Slowpoke,Water,attack,65
+Slowpoke,Water,defense,65
+Slowpoke,Water,sp_attack,40
+Slowpoke,Water,sp_defense,40
+Slowpoke,Water,speed,15
+Galarian Rapidash,Psychic,hp,65
+Galarian Rapidash,Psychic,attack,100
+Galarian Rapidash,Psychic,defense,70
+Galarian Rapidash,Psychic,sp_attack,80
+Galarian Rapidash,Psychic,sp_defense,80
+Galarian Rapidash,Psychic,speed,105
+Rapidash,Fire,hp,65
+Rapidash,Fire,attack,100
+Rapidash,Fire,defense,70
+Rapidash,Fire,sp_attack,80
+Rapidash,Fire,sp_defense,80
+Rapidash,Fire,speed,105
+Galarian Ponyta,Psychic,hp,50
+Galarian Ponyta,Psychic,attack,85
+Galarian Ponyta,Psychic,defense,55
+Galarian Ponyta,Psychic,sp_attack,65
+Galarian Ponyta,Psychic,sp_defense,65
+Galarian Ponyta,Psychic,speed,90
+Ponyta,Fire,hp,50
+Ponyta,Fire,attack,85
+Ponyta,Fire,defense,55
+Ponyta,Fire,sp_attack,65
+Ponyta,Fire,sp_defense,65
+Ponyta,Fire,speed,90
+Alolan Golem,Rock,hp,80
+Alolan Golem,Rock,attack,120
+Alolan Golem,Rock,defense,130
+Alolan Golem,Rock,sp_attack,55
+Alolan Golem,Rock,sp_defense,65
+Alolan Golem,Rock,speed,45
+Golem,Rock,hp,80
+Golem,Rock,attack,120
+Golem,Rock,defense,130
+Golem,Rock,sp_attack,55
+Golem,Rock,sp_defense,65
+Golem,Rock,speed,45
+Alolan Graveler,Rock,hp,55
+Alolan Graveler,Rock,attack,95
+Alolan Graveler,Rock,defense,115
+Alolan Graveler,Rock,sp_attack,45
+Alolan Graveler,Rock,sp_defense,45
+Alolan Graveler,Rock,speed,35
+Graveler,Rock,hp,55
+Graveler,Rock,attack,95
+Graveler,Rock,defense,115
+Graveler,Rock,sp_attack,45
+Graveler,Rock,sp_defense,45
+Graveler,Rock,speed,35
+Alolan Geodude,Rock,hp,40
+Alolan Geodude,Rock,attack,80
+Alolan Geodude,Rock,defense,100
+Alolan Geodude,Rock,sp_attack,30
+Alolan Geodude,Rock,sp_defense,30
+Alolan Geodude,Rock,speed,20
+Geodude,Rock,hp,40
+Geodude,Rock,attack,80
+Geodude,Rock,defense,100
+Geodude,Rock,sp_attack,30
+Geodude,Rock,sp_defense,30
+Geodude,Rock,speed,20
+Tentacruel,Water,hp,80
+Tentacruel,Water,attack,70
+Tentacruel,Water,defense,65
+Tentacruel,Water,sp_attack,80
+Tentacruel,Water,sp_defense,120
+Tentacruel,Water,speed,100
+Tentacool,Water,hp,40
+Tentacool,Water,attack,40
+Tentacool,Water,defense,35
+Tentacool,Water,sp_attack,50
+Tentacool,Water,sp_defense,100
+Tentacool,Water,speed,70
+Victreebel,Grass,hp,80
+Victreebel,Grass,attack,105
+Victreebel,Grass,defense,65
+Victreebel,Grass,sp_attack,100
+Victreebel,Grass,sp_defense,70
+Victreebel,Grass,speed,70
+Weepinbell,Grass,hp,65
+Weepinbell,Grass,attack,90
+Weepinbell,Grass,defense,50
+Weepinbell,Grass,sp_attack,85
+Weepinbell,Grass,sp_defense,45
+Weepinbell,Grass,speed,55
+Bellsprout,Grass,hp,50
+Bellsprout,Grass,attack,75
+Bellsprout,Grass,defense,35
+Bellsprout,Grass,sp_attack,70
+Bellsprout,Grass,sp_defense,30
+Bellsprout,Grass,speed,40
+Machamp,Fighting,hp,90
+Machamp,Fighting,attack,130
+Machamp,Fighting,defense,80
+Machamp,Fighting,sp_attack,65
+Machamp,Fighting,sp_defense,85
+Machamp,Fighting,speed,55
+Machoke,Fighting,hp,80
+Machoke,Fighting,attack,100
+Machoke,Fighting,defense,70
+Machoke,Fighting,sp_attack,50
+Machoke,Fighting,sp_defense,60
+Machoke,Fighting,speed,45
+Machop,Fighting,hp,70
+Machop,Fighting,attack,80
+Machop,Fighting,defense,50
+Machop,Fighting,sp_attack,35
+Machop,Fighting,sp_defense,35
+Machop,Fighting,speed,35
+Mega Alakazam,Psychic,hp,55
+Mega Alakazam,Psychic,attack,50
+Mega Alakazam,Psychic,defense,65
+Mega Alakazam,Psychic,sp_attack,175
+Mega Alakazam,Psychic,sp_defense,105
+Mega Alakazam,Psychic,speed,150
+Alakazam,Psychic,hp,55
+Alakazam,Psychic,attack,50
+Alakazam,Psychic,defense,45
+Alakazam,Psychic,sp_attack,135
+Alakazam,Psychic,sp_defense,95
+Alakazam,Psychic,speed,120
+Kadabra,Psychic,hp,40
+Kadabra,Psychic,attack,35
+Kadabra,Psychic,defense,30
+Kadabra,Psychic,sp_attack,120
+Kadabra,Psychic,sp_defense,70
+Kadabra,Psychic,speed,105
+Abra,Psychic,hp,25
+Abra,Psychic,attack,20
+Abra,Psychic,defense,15
+Abra,Psychic,sp_attack,105
+Abra,Psychic,sp_defense,55
+Abra,Psychic,speed,90
+Poliwrath,Water,hp,90
+Poliwrath,Water,attack,95
+Poliwrath,Water,defense,95
+Poliwrath,Water,sp_attack,70
+Poliwrath,Water,sp_defense,90
+Poliwrath,Water,speed,70
+Poliwhirl,Water,hp,65
+Poliwhirl,Water,attack,65
+Poliwhirl,Water,defense,65
+Poliwhirl,Water,sp_attack,50
+Poliwhirl,Water,sp_defense,50
+Poliwhirl,Water,speed,90
+Poliwag,Water,hp,40
+Poliwag,Water,attack,50
+Poliwag,Water,defense,40
+Poliwag,Water,sp_attack,40
+Poliwag,Water,sp_defense,40
+Poliwag,Water,speed,90
+Arcanine,Fire,hp,90
+Arcanine,Fire,attack,110
+Arcanine,Fire,defense,80
+Arcanine,Fire,sp_attack,100
+Arcanine,Fire,sp_defense,80
+Arcanine,Fire,speed,95
+Growlithe,Fire,hp,55
+Growlithe,Fire,attack,70
+Growlithe,Fire,defense,45
+Growlithe,Fire,sp_attack,70
+Growlithe,Fire,sp_defense,50
+Growlithe,Fire,speed,60
+Primeape,Fighting,hp,65
+Primeape,Fighting,attack,105
+Primeape,Fighting,defense,60
+Primeape,Fighting,sp_attack,60
+Primeape,Fighting,sp_defense,70
+Primeape,Fighting,speed,95
+Mankey,Fighting,hp,40
+Mankey,Fighting,attack,80
+Mankey,Fighting,defense,35
+Mankey,Fighting,sp_attack,35
+Mankey,Fighting,sp_defense,45
+Mankey,Fighting,speed,70
+Golduck,Water,hp,80
+Golduck,Water,attack,82
+Golduck,Water,defense,78
+Golduck,Water,sp_attack,95
+Golduck,Water,sp_defense,80
+Golduck,Water,speed,85
+Psyduck,Water,hp,50
+Psyduck,Water,attack,52
+Psyduck,Water,defense,48
+Psyduck,Water,sp_attack,65
+Psyduck,Water,sp_defense,50
+Psyduck,Water,speed,55
+Alolan Persian,Dark,hp,65
+Alolan Persian,Dark,attack,60
+Alolan Persian,Dark,defense,60
+Alolan Persian,Dark,sp_attack,75
+Alolan Persian,Dark,sp_defense,65
+Alolan Persian,Dark,speed,115
+Persian,Normal,hp,65
+Persian,Normal,attack,70
+Persian,Normal,defense,60
+Persian,Normal,sp_attack,65
+Persian,Normal,sp_defense,65
+Persian,Normal,speed,115
+Galarian Meowth,Steel,hp,50
+Galarian Meowth,Steel,attack,65
+Galarian Meowth,Steel,defense,55
+Galarian Meowth,Steel,sp_attack,40
+Galarian Meowth,Steel,sp_defense,40
+Galarian Meowth,Steel,speed,40
+Alolan Meowth,Dark,hp,40
+Alolan Meowth,Dark,attack,35
+Alolan Meowth,Dark,defense,35
+Alolan Meowth,Dark,sp_attack,50
+Alolan Meowth,Dark,sp_defense,40
+Alolan Meowth,Dark,speed,90
+Meowth,Normal,hp,40
+Meowth,Normal,attack,45
+Meowth,Normal,defense,35
+Meowth,Normal,sp_attack,40
+Meowth,Normal,sp_defense,40
+Meowth,Normal,speed,90
+Alolan Dugtrio,Ground,hp,35
+Alolan Dugtrio,Ground,attack,100
+Alolan Dugtrio,Ground,defense,60
+Alolan Dugtrio,Ground,sp_attack,50
+Alolan Dugtrio,Ground,sp_defense,70
+Alolan Dugtrio,Ground,speed,110
+Dugtrio,Ground,hp,35
+Dugtrio,Ground,attack,100
+Dugtrio,Ground,defense,50
+Dugtrio,Ground,sp_attack,50
+Dugtrio,Ground,sp_defense,70
+Dugtrio,Ground,speed,120
+Alolan Diglett,Ground,hp,10
+Alolan Diglett,Ground,attack,55
+Alolan Diglett,Ground,defense,30
+Alolan Diglett,Ground,sp_attack,35
+Alolan Diglett,Ground,sp_defense,45
+Alolan Diglett,Ground,speed,90
+Diglett,Ground,hp,10
+Diglett,Ground,attack,55
+Diglett,Ground,defense,25
+Diglett,Ground,sp_attack,35
+Diglett,Ground,sp_defense,45
+Diglett,Ground,speed,95
+Venomoth,Bug,hp,70
+Venomoth,Bug,attack,65
+Venomoth,Bug,defense,60
+Venomoth,Bug,sp_attack,90
+Venomoth,Bug,sp_defense,75
+Venomoth,Bug,speed,90
+Venonat,Bug,hp,60
+Venonat,Bug,attack,55
+Venonat,Bug,defense,50
+Venonat,Bug,sp_attack,40
+Venonat,Bug,sp_defense,55
+Venonat,Bug,speed,45
+Parasect,Bug,hp,60
+Parasect,Bug,attack,95
+Parasect,Bug,defense,80
+Parasect,Bug,sp_attack,60
+Parasect,Bug,sp_defense,80
+Parasect,Bug,speed,30
+Paras,Bug,hp,35
+Paras,Bug,attack,70
+Paras,Bug,defense,55
+Paras,Bug,sp_attack,45
+Paras,Bug,sp_defense,55
+Paras,Bug,speed,25
+Vileplume,Grass,hp,75
+Vileplume,Grass,attack,80
+Vileplume,Grass,defense,85
+Vileplume,Grass,sp_attack,110
+Vileplume,Grass,sp_defense,90
+Vileplume,Grass,speed,50
+Gloom,Grass,hp,60
+Gloom,Grass,attack,65
+Gloom,Grass,defense,70
+Gloom,Grass,sp_attack,85
+Gloom,Grass,sp_defense,75
+Gloom,Grass,speed,40
+Oddish,Grass,hp,45
+Oddish,Grass,attack,50
+Oddish,Grass,defense,55
+Oddish,Grass,sp_attack,75
+Oddish,Grass,sp_defense,65
+Oddish,Grass,speed,30
+Golbat,Poison,hp,75
+Golbat,Poison,attack,80
+Golbat,Poison,defense,70
+Golbat,Poison,sp_attack,65
+Golbat,Poison,sp_defense,75
+Golbat,Poison,speed,90
+Zubat,Poison,hp,40
+Zubat,Poison,attack,45
+Zubat,Poison,defense,35
+Zubat,Poison,sp_attack,30
+Zubat,Poison,sp_defense,40
+Zubat,Poison,speed,55
+Wigglytuff,Normal,hp,140
+Wigglytuff,Normal,attack,70
+Wigglytuff,Normal,defense,45
+Wigglytuff,Normal,sp_attack,85
+Wigglytuff,Normal,sp_defense,50
+Wigglytuff,Normal,speed,45
+Jigglypuff,Normal,hp,115
+Jigglypuff,Normal,attack,45
+Jigglypuff,Normal,defense,20
+Jigglypuff,Normal,sp_attack,45
+Jigglypuff,Normal,sp_defense,25
+Jigglypuff,Normal,speed,20
+Alolan Ninetales,Ice,hp,73
+Alolan Ninetales,Ice,attack,67
+Alolan Ninetales,Ice,defense,75
+Alolan Ninetales,Ice,sp_attack,81
+Alolan Ninetales,Ice,sp_defense,100
+Alolan Ninetales,Ice,speed,109
+Ninetales,Fire,hp,73
+Ninetales,Fire,attack,76
+Ninetales,Fire,defense,75
+Ninetales,Fire,sp_attack,81
+Ninetales,Fire,sp_defense,100
+Ninetales,Fire,speed,100
+Alolan Vulpix,Ice,hp,38
+Alolan Vulpix,Ice,attack,41
+Alolan Vulpix,Ice,defense,40
+Alolan Vulpix,Ice,sp_attack,50
+Alolan Vulpix,Ice,sp_defense,65
+Alolan Vulpix,Ice,speed,65
+Vulpix,Fire,hp,38
+Vulpix,Fire,attack,41
+Vulpix,Fire,defense,40
+Vulpix,Fire,sp_attack,50
+Vulpix,Fire,sp_defense,65
+Vulpix,Fire,speed,65
+Clefable,Fairy,hp,95
+Clefable,Fairy,attack,70
+Clefable,Fairy,defense,73
+Clefable,Fairy,sp_attack,95
+Clefable,Fairy,sp_defense,90
+Clefable,Fairy,speed,60
+Clefairy,Fairy,hp,70
+Clefairy,Fairy,attack,45
+Clefairy,Fairy,defense,48
+Clefairy,Fairy,sp_attack,60
+Clefairy,Fairy,sp_defense,65
+Clefairy,Fairy,speed,35
+Nidoking,Poison,hp,81
+Nidoking,Poison,attack,102
+Nidoking,Poison,defense,77
+Nidoking,Poison,sp_attack,85
+Nidoking,Poison,sp_defense,75
+Nidoking,Poison,speed,85
+Nidorino,Poison,hp,61
+Nidorino,Poison,attack,72
+Nidorino,Poison,defense,57
+Nidorino,Poison,sp_attack,55
+Nidorino,Poison,sp_defense,55
+Nidorino,Poison,speed,65
+Nidoranâ™‚,Poison,hp,46
+Nidoranâ™‚,Poison,attack,57
+Nidoranâ™‚,Poison,defense,40
+Nidoranâ™‚,Poison,sp_attack,40
+Nidoranâ™‚,Poison,sp_defense,40
+Nidoranâ™‚,Poison,speed,50
+Nidoqueen,Poison,hp,90
+Nidoqueen,Poison,attack,92
+Nidoqueen,Poison,defense,87
+Nidoqueen,Poison,sp_attack,75
+Nidoqueen,Poison,sp_defense,85
+Nidoqueen,Poison,speed,76
+Nidorina,Poison,hp,70
+Nidorina,Poison,attack,62
+Nidorina,Poison,defense,67
+Nidorina,Poison,sp_attack,55
+Nidorina,Poison,sp_defense,55
+Nidorina,Poison,speed,56
+Nidoranâ™€,Poison,hp,55
+Nidoranâ™€,Poison,attack,47
+Nidoranâ™€,Poison,defense,52
+Nidoranâ™€,Poison,sp_attack,40
+Nidoranâ™€,Poison,sp_defense,40
+Nidoranâ™€,Poison,speed,41
+Alolan Sandslash,Ice,hp,75
+Alolan Sandslash,Ice,attack,100
+Alolan Sandslash,Ice,defense,120
+Alolan Sandslash,Ice,sp_attack,25
+Alolan Sandslash,Ice,sp_defense,65
+Alolan Sandslash,Ice,speed,65
+Sandslash,Ground,hp,75
+Sandslash,Ground,attack,100
+Sandslash,Ground,defense,110
+Sandslash,Ground,sp_attack,45
+Sandslash,Ground,sp_defense,55
+Sandslash,Ground,speed,65
+Alolan Sandshrew,Ice,hp,50
+Alolan Sandshrew,Ice,attack,75
+Alolan Sandshrew,Ice,defense,90
+Alolan Sandshrew,Ice,sp_attack,10
+Alolan Sandshrew,Ice,sp_defense,35
+Alolan Sandshrew,Ice,speed,40
+Sandshrew,Ground,hp,50
+Sandshrew,Ground,attack,75
+Sandshrew,Ground,defense,85
+Sandshrew,Ground,sp_attack,20
+Sandshrew,Ground,sp_defense,30
+Sandshrew,Ground,speed,40
+Alolan Raichu,Electric,hp,60
+Alolan Raichu,Electric,attack,85
+Alolan Raichu,Electric,defense,50
+Alolan Raichu,Electric,sp_attack,95
+Alolan Raichu,Electric,sp_defense,85
+Alolan Raichu,Electric,speed,110
+Raichu,Electric,hp,60
+Raichu,Electric,attack,90
+Raichu,Electric,defense,55
+Raichu,Electric,sp_attack,90
+Raichu,Electric,sp_defense,80
+Raichu,Electric,speed,110
+Partner Pikachu,Electric,hp,45
+Partner Pikachu,Electric,attack,80
+Partner Pikachu,Electric,defense,50
+Partner Pikachu,Electric,sp_attack,75
+Partner Pikachu,Electric,sp_defense,60
+Partner Pikachu,Electric,speed,120
+Pikachu,Electric,hp,35
+Pikachu,Electric,attack,55
+Pikachu,Electric,defense,40
+Pikachu,Electric,sp_attack,50
+Pikachu,Electric,sp_defense,50
+Pikachu,Electric,speed,90
+Arbok,Poison,hp,60
+Arbok,Poison,attack,95
+Arbok,Poison,defense,69
+Arbok,Poison,sp_attack,65
+Arbok,Poison,sp_defense,79
+Arbok,Poison,speed,80
+Ekans,Poison,hp,35
+Ekans,Poison,attack,60
+Ekans,Poison,defense,44
+Ekans,Poison,sp_attack,40
+Ekans,Poison,sp_defense,54
+Ekans,Poison,speed,55
+Fearow,Normal,hp,65
+Fearow,Normal,attack,90
+Fearow,Normal,defense,65
+Fearow,Normal,sp_attack,61
+Fearow,Normal,sp_defense,61
+Fearow,Normal,speed,100
+Spearow,Normal,hp,40
+Spearow,Normal,attack,60
+Spearow,Normal,defense,30
+Spearow,Normal,sp_attack,31
+Spearow,Normal,sp_defense,31
+Spearow,Normal,speed,70
+Alolan Raticate,Dark,hp,75
+Alolan Raticate,Dark,attack,71
+Alolan Raticate,Dark,defense,70
+Alolan Raticate,Dark,sp_attack,40
+Alolan Raticate,Dark,sp_defense,80
+Alolan Raticate,Dark,speed,77
+Raticate,Normal,hp,55
+Raticate,Normal,attack,81
+Raticate,Normal,defense,60
+Raticate,Normal,sp_attack,50
+Raticate,Normal,sp_defense,70
+Raticate,Normal,speed,97
+Alolan Rattata,Dark,hp,30
+Alolan Rattata,Dark,attack,56
+Alolan Rattata,Dark,defense,35
+Alolan Rattata,Dark,sp_attack,25
+Alolan Rattata,Dark,sp_defense,35
+Alolan Rattata,Dark,speed,72
+Rattata,Normal,hp,30
+Rattata,Normal,attack,56
+Rattata,Normal,defense,35
+Rattata,Normal,sp_attack,25
+Rattata,Normal,sp_defense,35
+Rattata,Normal,speed,72
+Mega Pidgeot,Normal,hp,83
+Mega Pidgeot,Normal,attack,80
+Mega Pidgeot,Normal,defense,80
+Mega Pidgeot,Normal,sp_attack,135
+Mega Pidgeot,Normal,sp_defense,80
+Mega Pidgeot,Normal,speed,121
+Pidgeot,Normal,hp,83
+Pidgeot,Normal,attack,80
+Pidgeot,Normal,defense,75
+Pidgeot,Normal,sp_attack,70
+Pidgeot,Normal,sp_defense,70
+Pidgeot,Normal,speed,101
+Pidgeotto,Normal,hp,63
+Pidgeotto,Normal,attack,60
+Pidgeotto,Normal,defense,55
+Pidgeotto,Normal,sp_attack,50
+Pidgeotto,Normal,sp_defense,50
+Pidgeotto,Normal,speed,71
+Pidgey,Normal,hp,40
+Pidgey,Normal,attack,45
+Pidgey,Normal,defense,40
+Pidgey,Normal,sp_attack,35
+Pidgey,Normal,sp_defense,35
+Pidgey,Normal,speed,56
+Mega Beedrill,Bug,hp,65
+Mega Beedrill,Bug,attack,150
+Mega Beedrill,Bug,defense,40
+Mega Beedrill,Bug,sp_attack,15
+Mega Beedrill,Bug,sp_defense,80
+Mega Beedrill,Bug,speed,145
+Beedrill,Bug,hp,65
+Beedrill,Bug,attack,90
+Beedrill,Bug,defense,40
+Beedrill,Bug,sp_attack,45
+Beedrill,Bug,sp_defense,80
+Beedrill,Bug,speed,75
+Kakuna,Bug,hp,45
+Kakuna,Bug,attack,25
+Kakuna,Bug,defense,50
+Kakuna,Bug,sp_attack,25
+Kakuna,Bug,sp_defense,25
+Kakuna,Bug,speed,35
+Weedle,Bug,hp,40
+Weedle,Bug,attack,35
+Weedle,Bug,defense,30
+Weedle,Bug,sp_attack,20
+Weedle,Bug,sp_defense,20
+Weedle,Bug,speed,50
+Butterfree,Bug,hp,60
+Butterfree,Bug,attack,45
+Butterfree,Bug,defense,50
+Butterfree,Bug,sp_attack,90
+Butterfree,Bug,sp_defense,80
+Butterfree,Bug,speed,70
+Metapod,Bug,hp,50
+Metapod,Bug,attack,20
+Metapod,Bug,defense,55
+Metapod,Bug,sp_attack,25
+Metapod,Bug,sp_defense,25
+Metapod,Bug,speed,30
+Caterpie,Bug,hp,45
+Caterpie,Bug,attack,30
+Caterpie,Bug,defense,35
+Caterpie,Bug,sp_attack,20
+Caterpie,Bug,sp_defense,20
+Caterpie,Bug,speed,45
+Mega Blastoise,Water,hp,79
+Mega Blastoise,Water,attack,103
+Mega Blastoise,Water,defense,120
+Mega Blastoise,Water,sp_attack,135
+Mega Blastoise,Water,sp_defense,115
+Mega Blastoise,Water,speed,78
+Blastoise,Water,hp,79
+Blastoise,Water,attack,83
+Blastoise,Water,defense,100
+Blastoise,Water,sp_attack,85
+Blastoise,Water,sp_defense,105
+Blastoise,Water,speed,78
+Wartortle,Water,hp,59
+Wartortle,Water,attack,63
+Wartortle,Water,defense,80
+Wartortle,Water,sp_attack,65
+Wartortle,Water,sp_defense,80
+Wartortle,Water,speed,58
+Squirtle,Water,hp,44
+Squirtle,Water,attack,48
+Squirtle,Water,defense,65
+Squirtle,Water,sp_attack,50
+Squirtle,Water,sp_defense,64
+Squirtle,Water,speed,43
+Mega Charizard Y,Fire,hp,78
+Mega Charizard Y,Fire,attack,104
+Mega Charizard Y,Fire,defense,78
+Mega Charizard Y,Fire,sp_attack,159
+Mega Charizard Y,Fire,sp_defense,115
+Mega Charizard Y,Fire,speed,100
+Mega Charizard X,Fire,hp,78
+Mega Charizard X,Fire,attack,130
+Mega Charizard X,Fire,defense,111
+Mega Charizard X,Fire,sp_attack,130
+Mega Charizard X,Fire,sp_defense,85
+Mega Charizard X,Fire,speed,100
+Charizard,Fire,hp,78
+Charizard,Fire,attack,84
+Charizard,Fire,defense,78
+Charizard,Fire,sp_attack,109
+Charizard,Fire,sp_defense,85
+Charizard,Fire,speed,100
+Charmeleon,Fire,hp,58
+Charmeleon,Fire,attack,64
+Charmeleon,Fire,defense,58
+Charmeleon,Fire,sp_attack,80
+Charmeleon,Fire,sp_defense,65
+Charmeleon,Fire,speed,80
+Charmander,Fire,hp,39
+Charmander,Fire,attack,52
+Charmander,Fire,defense,43
+Charmander,Fire,sp_attack,60
+Charmander,Fire,sp_defense,50
+Charmander,Fire,speed,65
+Mega Venusaur,Grass,hp,80
+Mega Venusaur,Grass,attack,100
+Mega Venusaur,Grass,defense,123
+Mega Venusaur,Grass,sp_attack,122
+Mega Venusaur,Grass,sp_defense,120
+Mega Venusaur,Grass,speed,80
